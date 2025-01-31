@@ -18,8 +18,7 @@
 d'informatique et de génie logiciel auront lieu en classe les vendredis à 13h30
 au local PLT-2551 (sauf exception).
 Ces séminaires sont publics et tous peuvent y assister. Si vous désirez donner un séminaire, veuillez
-contacter <a href="mailto:claude-guy.quimper@ift.ulaval.ca?subject=Séminaire
-départemental">Claude-Guy Quimper</a>.
+contacter <a href="mailto:claude-guy.quimper@ift.ulaval.ca?subject=Séminaire départemental">Claude-Guy Quimper</a>.
 <p>Vous pouvez recevoir les annonces des séminaires par courriel en vous abonnant à la liste de diffusion SEMINAIRES-IFT sur le serveur de diffusion <a href="http://listes.ulaval.ca/cgi-bin/wa?SUBED1=SEMINAIRES-IFT&A=1%E2%80%8B%E2%80%8B">LISTSERV</a>.
   <!-- <p>Les séminaires de la session d'hiver 2019 sont <a href="https://www.ift.ulaval.ca/recherche-et-innovation/seminaires/seminaires-2019">archivés ici</a>. -->
 
