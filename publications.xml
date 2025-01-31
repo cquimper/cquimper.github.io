@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<publications>
+  <author><name>Claude-Guy Quimper</name><shortname>C.-G. Quimper</shortname><website>http://www.ift.ulaval.ca/~quimper/</website></author>
+  <author><name>Christian Bessiere</name><shortname>C. Bessiere</shortname><website>http://www.lirmm.fr/~bessiere</website></author>
+  <author><name>George Katsirelos</name><shortname>G. Katsirelos</shortname><website>http://www.inra.fr/mia/T/katsirelos/</website></author>
+  <author><name>Nina Narodytska</name><shortname>N. Narodytska</shortname><website>https://www.linkedin.com/in/nina-narodytska-7374392</website></author>
+  <author><name>Toby Walsh</name><shortname>T. Walsh</shortname><website>http://www.cse.unsw.edu.au/~tw/</website></author>
+  <author><name>Alejandro L&amp;oacute;pez-Ortiz</name><shortname>A. L&amp;oacute;pez-Ortiz</shortname><website>http://www.cs.uwaterloo.ca/~alopez-o/</website></author>
+  <author><name>Gilles Pesant</name><shortname>G. Pesant</shortname><website>https://www.polymtl.ca/expertises/pesant-gilles</website></author>
+  <author><name>Louis-Martin Rousseau</name><shortname>L.-M. Rousseau</shortname><website>http://w1.cirrelt.ca/~louism/</website></author>
+  <author><name>Meinolf Sellmann</name><shortname>M. Sellmann</shortname><website>http://researcher.ibm.com/view.php?person=us-meinolf</website></author>
+  <author><name>Emmanuel Hebrard</name><shortname>E. Hebrard</shortname><website>http://homepages.laas.fr/ehebrard/Home.html</website></author>
+  <author><name>Brahim Hnich</name><shortname>B. Hnich</shortname><website>http://homes.ieu.edu.tr/~bhnich/</website></author>
+  <author><name>Zeynep Kiziltan</name><shortname>Z. Kiziltan</shortname><website>http://lia.deis.unibo.it/~zk/</website></author>
+  <author><name>Peter van Beek</name><shortname>P. van Beek</shortname><website>http://www.cs.uwaterloo.ca/~vanbeek/</website></author>
+  <author><name>Lucas Bordeaux</name><shortname>L. Bordeaux</shortname><website>http://research.microsoft.com/en-us/people/lucasb/</website></author>
+  <author><name>Youssef Hamadi</name><shortname>Y. Hamadi</shortname><website>http://research.microsoft.com/en-us/people/youssefh/</website></author>
+  <author><name>Horst Samulowitz</name><shortname>H. Samulowitz</shortname><website>http://www.cs.toronto.edu/~horst/</website></author>
+  <author><name>Peter Stuckey</name><shortname>P. Stuckey</shortname><website>http://ww2.cs.mu.oz.au/~pjs/</website></author>
+  <author><name>Sebastian Brand</name><shortname>S. Brand</shortname><website>http://www.cs.mu.oz.au/~sbrand/</website></author>
+  <author><name>John Tromp</name><shortname>J. Tromp</shortname><website>https://tromp.github.io</website></author>
+  <author><name>Timothy Chan</name><shortname>T. Chan</shortname><website>http://www.cs.uwaterloo.ca/~tmchan/</website></author>
+  <author><name>Therese Biedl</name><shortname>T. Biedl</shortname><website>http://www.cs.uwaterloo.ca/~biedl/</website></author>
+  <author><name>Erik D.&amp;nbsp;Demaine</name><shortname>E. D.&amp;nbsp;Demaine</shortname><website>http://erikdemaine.org/</website></author>
+  <author><name>Joseph D.&amp;nbsp;Horton</name><shortname>J. D.&amp;nbsp;Horton</shortname><website>http://www.cs.unb.ca/~jdh/</website></author>
+  <author><name>Bernard Gendron</name><shortname>B. Gendron</shortname><website>http://www.iro.umontreal.ca/~gendron/</website></author>
+  <author><name>Steve Prestwich</name><shortname>S. Prestwich</shortname><website>http://4c.ucc.ie/web/people.jsp?id=43</website></author>
+  <author><name>Sayyed Bashir Sadjad</name><shortname>S. Bashir Sadjad</shortname><website>http://sites.google.com/site/bsadjad/</website></author>
+  <author student="yes"><name>Thierry Moisan</name><shortname>T. Moisan</shortname><website>http://tmoisan.net</website></author>
+  <author><name>Fran&amp;ccedil;ois Laviolette</name><shortname>F. Laviolette</shortname><website>http://www.ift.ulaval.ca/departement-et-professeurs/professeurs-et-personnel/professeurs-reguliers/fiche/show/laviolette-francois/</website></author>
+  <author><name>Ir&amp;egrave;ne Abi-Zeid</name><shortname>I. Abi-Zeid</shortname><website>https://www4.fsa.ulaval.ca/enseignant/irene-abi-zeid/</website></author>
+  <author student="yes"><name>Michael Morin</name><shortname>M. Morin</shortname><website>http://www.michaelmorin.info</website></author>
+  <author student="yes"><name>Pascal Germain</name><shortname>P. Germain</shortname><website>http://graal.ift.ulaval.ca/pgermain/</website></author>
+  <author student="yes"><name>S&amp;eacute;bastien Gigu&amp;egrave;re</name><shortname>S. Gigu&amp;egrave;re</shortname><website>http://sebastiengiguere.wordpress.com/</website></author>
+  <author student="yes"><name>Jean-Francis Roy</name><shortname>J. Roy</shortname><website>http://graal.ift.ulaval.ca/jeanfrancisroy/</website></author>
+  <author><name>Danny Dub&amp;eacute;</name><shortname>D. Dub&amp;eacute;</shortname><website>http://www.ift.ulaval.ca/~dadub100/</website></author>
+  <author><name>R&amp;eacute;mi Coletta</name><shortname>R. Coletta</shortname><website>http://www.lirmm.fr/~coletta/</website></author>
+  <author><name>Nadjib Lazaar</name><shortname>N. Lazaar</shortname><website>http://www.lirmm.fr/~lazaar/</website></author>
+  <author><name>Jonathan Gaudreault</name><shortname>J. Gaudreault</shortname><website>http://www.ift.ulaval.ca/departement-et-professeurs/professeurs-et-personnel/professeurs-reguliers/fiche/show/gaudreault-jonathan/</website></author>
+  <author><name>Yvan R.&amp;nbsp;Petillot</name><shortname>Y. R.&amp;nbsp;Petillot</shortname><website>http://home.eps.hw.ac.uk/~ceeyrp/</website></author>
+  <author student="yes"><name>Dany Vohl</name><shortname>D. Vohl</shortname><website>http://graal.ift.ulaval.ca/danyvohl/</website></author>
+  <author student="yes"><name>Marc-Andr&amp;eacute; M&amp;eacute;nard</name><shortname>M.-A. M&amp;eacute;nard</shortname><website>http://ca.linkedin.com/pub/marc-andré-ménard/2a/59/68a</website></author>
+  <author student="yes"><name>&amp;Eacute;milie Picard-Cantin</name><shortname>&amp;Eacute;. Picard-Cantin</shortname><website>http://www.emiliepicardcantin.com</website></author>
+  <author student="yes"><name>Fran&amp;ccedil;ois Ch&amp;eacute;n&amp;eacute;</name><shortname>F. Ch&amp;eacute;n&amp;eacute;</shortname></author>
+  <author student="yes"><name>Hamed Fahimi</name><shortname>H. Fahimi</shortname><website>https://ca.linkedin.com/in/hamed-fahimi-54737a105</website></author>
+  <author student="yes"><name>Pierre Ouellet</name><shortname>P. Ouellet</shortname></author>
+  <author student="yes"><name>Simon Hamel</name><shortname>S. Hamel</shortname><website>https://ca.linkedin.com/in/simon-hamel-a4889659/en</website></author>
+  <author><name>Michael Maher</name><shortname>M. Maher</shortname></author>
+  <author><name>Alexander Golynski</name><shortname>A. Golynski</shortname></author>
+  <author><name>Guillaume Poirier</name><shortname>G. Poirier</shortname><website>https://www.linkedin.com/in/gpoirier/</website></author>
+  <author student="yes"><name>S&amp;eacute;bastien Michaud</name><shortname>S. Michaud</shortname></author>
+  <author student="yes"><name>Brice Zirakiza</name><shortname>B. Zirakiza</shortname></author>
+  <author student="yes"><name>Philippe Van&amp;nbsp;Kessel</name><shortname>P. Van&amp;nbsp;Kessel</shortname></author>
+  <author student="yes"><name>Fr&amp;eacute;d&amp;eacute;ric Simard</name><shortname>F. Simard</shortname></author>
+  <author student="yes"><name>Minh Ho&amp;agrave;ng H&amp;agrave;</name><shortname>M.H. H&amp;agrave;</shortname></author>
+  <author><name>Jos&amp;eacute;e Desharnais</name><shortname>J. Desharnais</shortname><website>http://lsfm.ift.ulaval.ca/1/josee_desharnais/</website></author>
+  <author><name>Brahim Chaib-draa</name><shortname>B. Chaib-draa</shortname><website>http://www.damas.ift.ulaval.ca</website></author>
+  <author student="yes"><name>Ilyess Bachiri</name><shortname>I. Bachiri</shortname><website>https://ca.linkedin.com/in/ilyessbachiri/en</website></author>
+  <author student="yes"><name>Vincent Gingras</name><shortname>V. Gingras</shortname><website>https://ca.linkedin.com/in/vincent-gingras-02358649</website></author>
+  <author><name>Wei Li</name><shortname>W. Li</shortname><website>https://www.autodeskresearch.com/people/wei-li</website></author>
+  <author><name>Hyunmin Cheong</name><shortname>H. Cheong</shortname><website>https://www.autodeskresearch.com/people/hyunmin-cheong</website></author>
+  <author><name>Francesco Iorio</name><shortname>F. Iorio</shortname><website>https://www.autodeskresearch.com/people/francesco-iorio</website></author>
+  <author student="yes"><name>Vincent Goulet</name><shortname>V. Goulet</shortname><website>https://www.linkedin.com/in/vincent-goulet-12066544/en</website></author>
+  <author><name>Mathieu Bouchard</name><shortname>M. Bouchard</shortname><website>https://ca.linkedin.com/in/mathieu-bouchard-54670022</website></author>
+  <author><name>Jason Sweeney</name><shortname>J. Sweeney</shortname><website>https://ca.linkedin.com/in/jasonpierresweeney</website></author>
+  <author><name>Philippe Marier</name><shortname>P. Marier</shortname><website>http://www.forac.ulaval.ca/no_cache/nous_joindre/coordonnees_de_lequipe/professionnels_de_recherche/</website></author>
+  <author student="yes"><name>Fran&amp;ccedil;ois Ch&amp;eacute;n&amp;eacute;</name><shortname>F. Ch&amp;eacute;n&amp;eacute;</shortname><website>https://www.linkedin.com/in/françois-chéné-4849214a/</website></author>
+  <author student="yes"><name>Kim Rioux-Paradis</name><shortname>K. Rioux-Paradis</shortname><website>https://www.linkedin.com/in/kim-rioux-paradis/</website></author>
+  <author student="yes"><name>Yanick Ouellet</name><shortname>Y. Ouellet</shortname><website>https://www.linkedin.com/in/yanick-ouellet-54912772/</website></author>
+  <author><name>Roger Kameugne</name><shortname>R. Kameugne</shortname><website>https://scholar.google.fr/citations?user=agmFWy8AAAAJ\amp;hl=fr</website></author>
+  <author><name>Nadia Lehoux</name><shortname>N. Lehoux</shortname><website>https://www.gmc.ulaval.ca/departement-et-professeurs/professeurs-et-personnel/professeurs/fiche/show/lehoux-nadia/directrice-de-programme-321/</website></author>
+  <author><name>Pierre Schaus</name><shortname>P. Schaus</shortname><website>https://www.info.ucl.ac.be/~pschaus/</website></author>
+  <author><name>Siegfried Nijssen</name><shortname>S. Nijssen</shortname><website>https://www.info.ucl.ac.be/~snijssen/</website></author>
+  <author><name>H&amp;eacute;l&amp;egrave;ne Verhaeghe</name><shortname>H. Verhaeghe</shortname><website>https://www.linkedin.com/in/heleneverhaeghe/?originalSubdomain=be</website></author>
+  <author student="yes"><name>Alexandre Mercier-Aubin</name><shortname>A. Mercier-Aubin</shortname><website>https://www.linkedin.com/in/alexandremercieraubin/?originalSubdomain=ca</website></author>
+  <author><name>Ludwig Dumetz</name><shortname>L. Dumetz</shortname><website>https://www.linkedin.com/in/ludwig-dumetz-60a05a100/?originalSubdomain=ca</website></author>
+  <author><name>Behrouz Babaki</name><shortname>B. Babaki</shortname><website>https://www.linkedin.com/in/behrouz-babaki/?originalSubdomain=ca</website></author>
+  <author student="yes"><name>Nicolas Blais</name><shortname>N. Blais</shortname><website>https://www.linkedin.com/in/nicolas-blais-2868a0134/</website></author>
+  <author student="yes"><name>Alexis Remartini</name><shortname>A. Remartini</shortname><website>https://www.linkedin.com/in/alexis-remartini-323b08189/?originalSubdomain=ca</website></author>
+  <author student="yes"><name>Alexis Gauthier</name><shortname>A. Gauthier</shortname><website>https://www.linkedin.com/in/alexisgauthier/</website></author>
+  <author student="yes"><name>Rapha&amp;euml;l Boudreault</name><shortname>R. Boudreault</shortname><website>https://www.linkedin.com/in/raphael-boudreault-511910197</website></author>
+  <author student="yes"><name>Anthony Desch&amp;ecirc;nes</name><shortname>A. Desch&amp;ecirc;nes</shortname><website>https://www.linkedin.com/in/anthony-desch%C3%AAnes-1b0b58128/</website></author>
+  <author student="yes"><name>Christopher Coulombe</name><shortname>C. Coulombe</shortname><website>https://www.linkedin.com/in/christopher-coulombe-858ba014b</website></author>
+  <author><name>Nicolas Beldiceanu</name><shortname>N. Beldiceanu</shortname><website>https://cv.archives-ouvertes.fr/nicolasbeldiceanu</website></author>
+  <author><name>R&amp;eacute;mi Douence</name><shortname>R. Douence</shortname><website>https://www.imt-atlantique.fr/fr/personne/remi-douence</website></author>
+  <author student="yes"><name>Jovial Cheukam-Ngouonou</name><shortname>J. Cheukam-Ngouonou</shortname><website>https://www.linkedin.com/in/jovial-cheukam-ngouonou-099974309?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBOhWp%2FwzTj%2B19anfV81gyw%3D%3D</website></author>
+  <author><name>Ramiz Gindullin</name><shortname>R. Gindullin</shortname><website>https://www.linkedin.com/in/ramiz-gindullin-6b48371a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BO6s5vl%2F8QzWyJaYNCN9q%2FQ%3D%3D</website></author>
+  <author><name>Rémi Douence</name><shortname>R. Douence</shortname><website>https://www.imt-atlantique.fr/fr/personne/remi-douence</website></author>
+  <author><name>Daniel Lafond</name><shortname>D. Lafond</shortname><website>https://www.linkedin.com/in/daniel-lafond-2650531a7</website></author>
+  <author><name>Quentin Cappart</name><shortname>Q. Cappart</shortname><website>https://www.polymtl.ca/expertises/cappart-quentin-0</website></author>
+  
+  <section>
+    <title>Reviewed Papers in International Conference Proceedings</title>
+    <paper>
+      <reference>Anthony Deschênes, Raphaël Boudreault, Jonathan Gaudreault, and Claude-Guy Quimper. A Mixed-Integer Programming Approach for an Extended Fixed Route Hybrid Electric Aircraft Charging Problem. To appear in Proceedings of the 14th International Conference on Operations Research and Enterprise Systems (ICORES 2025), 2025.</reference>
+    </paper>
+    <paper>
+      <reference>Samuel Cloutier and Claude-Guy Quimper. Cumulative Scheduling with Calendars and Overtime. In Proceedings of the 30th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2024), pages 7:1-7:16, 2024.</reference>
+      <file><label>paper</label><path>CumulativeCalendar.pdf</path><publish_date>20240902</publish_date></file>
+      <file><label>slides</label><path>SamuelCumulativeScheduling.pdf</path></file>
+      <file><label>talk</label><path>http://hdl.handle.net/10256.1/7769</path></file>
+    </paper>
+    <paper>
+      <reference>H&amp;eacute;l&amp;egrave;ne Verhaeghe, Quentin Cappart, Gilles Pesant, and Claude-Guy Quimper. Learning Precedences for Scheduling Problems with Graph Neural Networks, In Proceedings of the 30th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2024), pages 30:1-30:18, 2024.</reference>
+      <file><label>paper</label><path>LearningPrecedences.pdf</path></file>
+      
+    </paper>
+    <paper>
+      <reference>Frédéric Berthiaume and Claude-Guy Quimper. Local Alterations of the Lagrange Multipliers for Enhancing the Filtering of the AtMostNValue. In Proceedings of the 21st International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPIAOR 2024), pages 68-83, 2024.</reference>
+      <file><label>paper</label><path>frederic_berthiaume_cpaior_2024.pdf</path><publish_date>20240528</publish_date></file>
+      <file><label>code</label><path>LocalAlterationsAlgorithmAtMostNValue-main.zip</path></file>
+      <file><label>slides</label><path>https://easychair.org/smart-slide/slide/B7ts</path></file>
+    </paper>
+    
+    <paper>
+      <reference>Ramiz Gindullin, Nicolas Beldiceanu, Jovial Cheukam-Ngouonou, Rémi Douence, and Claude-Guy Quimper. Composing Biases by Using CP to Decompose Minimal Functional Dependencies for Acquiring Complex Formulae. In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24), pages 8030-8037, 2024.</reference>
+      <file><label>paper</label><path>DecompositionsAAAI24.pdf</path><publish_date>20240220</publish_date></file>
+      <file><label>report</label><path>reportAAAI2024.pdf</path><publish_date>20240220</publish_date></file>
+      <file><label>code</label><path>MapSeekerAAAI24.zip</path><publish_date>20240220</publish_date></file>
+      <file><label>talk</label><path>https://underline.io/lecture/93531-composing-biases-by-using-cp-to-decompose-minimal-functional-dependencies-for-acquiring-complex-formulae</path></file>
+    </paper>
+
+    <paper>
+      <reference>Marc-Andr&amp;eacute; M&amp;eacute;nard, Michael Morin, Mohammed Khachan, Jonathan Gaudreault, Claude-Guy Quimper. Learn, Compare, Search: One Sawmill's Search for the Best Cutting Patterns Across And/or Trees. In Proceedings of the 17th International Conference on Learning and Intelligent Optimization (LION 23), pages 552-566, 2023.</reference>
+      <file><label>paper</label><path>mam2023LionLcs.pdf</path></file>
+    </paper>
+    
+    <paper>
+      <reference>Anthony Deschênes, Raphaël Boudreault, Vanessa Simard, Jonathan Gaudreault, and Claude-Guy Quimper. Dynamic Programming for the Fixed Route Hybrid Electric Aircraft Charging Problem. In Proceedings of the 17th International Conference on Combinatorial Optimization and Applications (COCOA 2023), pages 354-365, 2023.</reference>
+      <file><label>paper</label><path>COCOA_2023.pdf</path></file>
+    </paper>
+
+
+    <paper>
+      <reference>Arnold Hien, Nicolas Beldiceanu, Claude-Guy Quimper, Maria-Isabel Restrepo-Ruiz. Automata Based Multivariate Time Series Analysis for Anomaly Detection over Sliding Time Windows. In Proceedings of the 9th International Conference on Time Series and Forecasting, 2023.</reference>
+      <file><label>paper</label><path>engproc-39-00065.pdf</path></file>
+    </paper>
+
+    <paper>
+      <reference>Ramiz Gindullin, Nicolas Beldiceanu, Jovial Cheukam Ngouonou, Rémi Douence and Claude-Guy Quimper. Boolean-Arithmetic Equations: Acquisition and Uses. In Proceedings of the 20th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR&amp;nbsp;2023), pages 378-394, 2023.</reference>
+      <file><label>paper</label><path>CPAIOR_2023.pdf</path></file>
+    </paper>
+
+    <paper>
+      <reference>Anthony Desch&amp;ecirc;nes, Jonathan Gaudreault, and Claude-Guy Quimper. Dynamic Programming for the Fixed Route Electric Vehicle Charging Problem with NonLinear Energy Management. In Proceedings of the 25th IEEE Intelligent Transportation Systems Conference (ITSC&amp;nbsp;2022), pages 3956-3962, 2022.</reference>
+      <file><label>paper</label><path>ITSC22_1277_FI.pdf</path><publish_date>20221002</publish_date></file>
+    </paper>
+
+    <paper>
+      <reference>Nicolas Beldiceanu, Jovial Cheukam Ngouonou, R&amp;eacute;mi Douence, Ramiz Gindullin and Claude-Guy Quimper. Acquiring Maps of Interrelated Conjectures on Sharp Bounds. In Proceedings of the 28th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2022), pages 6:1-6:18, 2022.</reference>
+      <acceptancerate>51</acceptancerate>
+      <file><label>paper</label><path>boundseeker.pdf</path><publish_date>20220731</publish_date></file>
+      <file><label>poster</label><path>PosterCP2022MapOfConj.pdf</path><publish_date>20220731</publish_date></file>
+      <file><label>data</label><path>data_and_results_cp2022.zip</path><publish_date>20220731</publish_date></file>
+    </paper>
+    <paper>
+      <reference>Christopher Coulombe and Claude-Guy Quimper. Constraint Acquisition Based on Solution Counting. In Proceedings of the 28th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2022), pages 15:1-15:16, 2022.</reference>
+      <acceptancerate>51</acceptancerate>
+      <file><label>paper</label><path>cabsc.pdf</path><publish_date>20220731</publish_date></file>
+      <file><label>poster</label><path>posterCP2022CABSC.pdf</path><publish_date>20220731</publish_date></file>
+      <file><label>code</label><path>CABSC.zip</path><publish_date>20220731</publish_date></file>
+    </paper>
+    <paper>
+      <reference>Rapha&amp;euml;l Boudreault, Vanessa Simard, Daniel Lafond and Claude-Guy Quimper. A Constraint Programming Approach to Ship Refit Project Scheduling. In Proceedings of the 28th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2022), pages 10:1-10:16, 2022.</reference>
+      <acceptancerate>51</acceptancerate>
+      <file><label>paper</label><path>refit.pdf</path><publish_date>20220731</publish_date></file>
+      <file><label>code</label><path>https://github.com/raphaelboudreault/chuffed/releases/tag/SBPS</path><publish_date>20220731</publish_date></file>
+      <file><label>slides</label><path>CP2022_RefitOptimizer_PDF.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Anthony Desch&amp;ecirc;nes, Jonathan Gaudreault, and Claude-Guy Quimper. Predicting real life electric vehicle fast charging session duration using neural networks. In 2022 IEEE Intelligent Vehicles Symposium (IV), pages 1327-1332, 2022.</reference>
+      <acceptancerate>50</acceptancerate>
+      <file><label>paper</label><path>predicting_charge.pdf</path><publish_date>20220605</publish_date></file>
+    </paper>
+    <paper>
+      <reference>Yanick Ouellet and Claude-Guy Quimper. A MinCumulative Resource Constraint. In Proceedings of the 19th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR&amp;nbsp;2022), pages 318-334, 2022.</reference>
+      <acceptancerate>47</acceptancerate>
+      <award>Best Student Paper Award</award>
+      <file><label>paper</label><path>min-cumulative.pdf</path><publish_date>20220624</publish_date></file>
+      <file><label>code</label><path>min-cumulative-paper-public-master.zip</path><publish_date>20220624</publish_date></file>
+      <file><label>talk</label><path>https://www.youtube.com/watch?v=8U8oHLsiP28</path></file>
+    </paper>
+    <paper>
+      <reference>Gilles Pesant, Claude-Guy Quimper and H&amp;eacute;l&amp;egrave;ne Verhaeghe. Practically Uniform Solution Sampling in Constraint Programming. In Proceedings of the 19th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR&amp;nbsp;2022), pages 345-357, 2022.</reference>
+      <acceptancerate>47</acceptancerate>
+      <file><label>paper</label><path>sampling.pdf</path><publish_date>20220624</publish_date></file>
+    </paper>
+    <paper>
+      <reference>Yanick Ouellet and Claude-Guy Quimper. The SoftCumulative Constraint with Quadratic Penalty. In Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI-22), vol. 36, no. 4, pages 3813-3820, 2022.</reference>
+      <acceptancerate>15</acceptancerate>
+      <award>Distinguished Paper Award</award>
+      <file><label>paper</label><path>softcumulative.pdf</path><publish_date>20220222</publish_date></file>
+      <file><label>code</label><path>soft-cumulative-supplementary-material.zip</path></file> 
+      <file><label>poster</label><path>posterAAAI2022.pdf</path><publish_date>20220222</publish_date></file>
+      <file><label>talk</label><path>https://aaai-2022.virtualchair.net/poster_aaai9956</path></file>
+   </paper>
+    <paper>
+      <reference>Rapha&amp;euml;l Boudreault and Claude-Guy Quimper. Improved CP-Based Lagrangian Relaxation Approach with an Application to the TSP. In Proceedings of the 30th International Joint Conference on Artificial Intelligence (IJCAI-21), pages 1374-1380, 2021.</reference>
+      <acceptancerate>13.9</acceptancerate>
+      <file><label>paper</label><path>CP-LR-TSP_paper.pdf</path><publish_date>20210821</publish_date></file>
+      <file><label>code</label><path>improvingSOA_TSP.zip</path><publish_date>20210821</publish_date></file>
+      <file><label>poster</label><path>poster_ijcai2021.pdf</path><publish_date>20210821</publish_date></file>
+      <file><label>talk</label><path>https://ijcai-21.org/videos-slides/?video=573</path></file>
+    </paper>
+
+    <paper>
+      <reference>Anthony Desch&amp;ecirc;nes, Jonathan Gaudreault, Louis-Philippe Vignault, Fr&amp;eacute;d&amp;eacute;ric Bernard and Claude-Guy Quimper. The Fixed Route Electric Vehicle Charging Problem with nonlinear energy management and variable vehicle speed. In Proceedings of the IEEE International Conference on Systems, Man, and Cybernetics (SMC), pages 1451-1458, 2020.
+      </reference>
+      <file><label>paper</label><path>https://doi.org/10.1109/SMC42975.2020.9283062</path></file>
+    </paper>
+
+    <paper>
+      <reference>Alexandre Mercier-Aubin, Ludwig Dumetz, Jonathan Gaudreault, and Claude-Guy Quimper. The Confidence Constraint : A Step Towards Stochastic CP Solvers. In Proceedings of the 26th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2020), pages 759-773, 2020.</reference>
+      <acceptancerate>45</acceptancerate>
+      <file><label>paper</label><path>chanceconstraint.pdf</path></file>
+      <file><label>code</label><path>confidenceConstraint.zip</path></file>
+      <file><label>talk</label><path>cp2020.mp4</path></file>
+    </paper>
+
+    <paper>
+      <reference>Marc-Andr&amp;eacute; M&amp;eacute;nard, Claude-Guy Quimper, Jonathan Gaudreault. Learning Sensitivity of RCPSP by Analyzing the Search Process. In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI&amp;nbsp;2020), pages 1163-1169, 2020.</reference>
+      <acceptancerate>12.6</acceptancerate>
+      <file><label>paper</label><path>sensitivity.pdf</path></file>
+      <file><label>short talk</label><path>MarcAndre_Menard_IJCAI2020_version_courte.mp4</path></file>
+      <file><label>long talk</label><path>MarcAndre_Menard_IJCAI2020_version_longue.mp4</path></file>
+    </paper>
+
+    <paper>
+      <reference>Behrouz Babaki, Gilles Pesant, and Claude-Guy Quimper. Solving Classical AI Planning ProblemsUsing Planning-Independent CP Modeling and Search. In Proceedings of the 13th International Symposium on Combinatorial Search (SoCS&amp;nbsp;2020), pages 2-10, 2020.</reference>
+      <acceptancerate></acceptancerate>
+      <file><label>paper</label><path>CP4Planning_SoCS.pdf</path></file>
+      <file><label>talk</label><path>https://www.youtube.com/watch?v=sCwyyeTTuro</path></file>
+    </paper>
+
+    <paper>
+      <reference>Alexandre Mercier-Aubin, Jonathan Gaudreault, and Claude-Guy Quimper. Leveraging Constraint Scheduling: A Case Study to the Textile Industry. In Proceedings of the 17th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR&amp;nbsp;2020), pages 334-346, 2020.</reference>
+      <file><label>paper</label><path>MercierAubinCPAIOR2020.pdf</path></file>
+      <file><label>code</label><path>CPAIOR2020Submission.zip</path></file>
+      <file><label>talk</label><path>cpaior2020.mp4</path></file>
+    </paper>
+
+    <paper>
+      <reference>Nicolas Blais, Alexis Remartini, Claude-Guy Quimper, Nadia Lehoux, and Jonathan Gaudreault. Disjunctive Scheduling with Setup Times: Optimizing a Food Factory. In Proceedings of the Eighth International Conference on Information, Logistics and Supply Chain (ILS&amp;nbsp;2020), 2020.</reference>
+      <file><label>paper</label><path>ILS2020.pdf</path></file>
+    </paper>
+
+    <paper>
+      <reference>Marc-Andr&amp;eacute; M&amp;eacute;nard, Claude-Guy Quimper, and Jonathan Gaudreault. Pre-optimizing tools positions for turrets-based CNC machines when facing arbitrary sequences of production. In Proceedings of the 9th IFAC Conference on Manufacturing Modeling, Management, and Control, pages 1180-1185, 2019.</reference>
+      <file><label>paper</label><path>positionnement.pdf</path></file>
+    </paper>
+
+    <paper>
+      <reference>Kim Rioux-Paradis, Jonathan Gaudreault, Chloé Redmond, Kento Otomo-Lauzon, Frédéric Bernard, Anthony Deschênes, Claude-Guy Quimper, Simon Boivin, and Pascal Blouin. Learning from historical data to predict electric vehicle taxi consumption and charging time. In Proceedings of the 2018 Winter Simulation Conference (WSC'18), pages 1216-1217, 2018.</reference>
+      <file><label>paper</label><path>WSC18.pdf</path></file>
+    </paper>
+
+    <paper>
+      <reference>Kim Rioux-Paradis and Claude-Guy Quimper. The WeightedCircuitsLmax Constraint. In Proceedings of the 15th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR&amp;nbsp;2018), pages 495-511, 2018.</reference>
+      <acceptancerate>49</acceptancerate>
+      <file><label>paper</label><path>circuitsLmax.pdf</path><publish_date>20180626</publish_date></file>
+      <file><label>code</label><path>circuitsLmax.zip</path></file>
+    </paper>
+    <paper>
+      <reference>Yanick Ouellet and Claude-Guy Quimper. A O(n log&lt;sup&gt;2&lt;/sup&gt; n) Checker and O(n&lt;sup&gt;2&lt;/sup&gt; log n) Filtering Algorithm for the Energetic Reasoning. In Proceedings of the 15th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR&amp;nbsp;2018), pages 477-494, 2018.</reference>
+      <acceptancerate>49</acceptancerate>
+      <file><label>paper</label><path>energetic.pdf</path><publish_date>20180626</publish_date></file>
+      <file><label>code</label><path>paper-cpaior-2018-code.tar.gz</path></file>
+    </paper>
+    <paper>
+      <reference>Roger Kameugne, S&amp;eacute;v&amp;eacute;rine Betmbe Fetgo, Vincent Gingras, Yanick Ouellet, and Claude-Guy Quimper. Horizontally Elastic Not-First/Not-Last Filtering Algorithm for Cumulative Resource Constraint. In Proceedings of the 15th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR&amp;nbsp;2018), pages 316-332, 2018.</reference>
+      <acceptancerate>49</acceptancerate>
+      <file><label>paper</label><path>CPAIOR_2018_KFGOQ.pdf</path><publish_date>20180626</publish_date></file>
+    </paper>
+    <paper>
+      <reference>Alexis Gauthier, Jonathan Gaudreault and Claude-Guy Quimper. Dealing with User's Preferences in Mixed-Initiative Systems for Linear Optimization. In proceedings of the 29th IEEE International Conference on Tools with Artificial Intelligence (ICTAI&amp;nbsp;2017), pages 717-723, 2017.</reference>
+      <file><label>paper</label><path>ictai2017.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>&amp;Eacute;milie Picard-Cantin, Mathieu Bouchard, Claude-Guy Quimper and Jason Sweeney. Learning the Parameters of Global Constraints Using Branch-and-Bound. In Proceedings of the 23rd International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2017), pages 512-528, 2017.</reference>
+      <file><label>paper</label><path>cp2017.pdf</path></file>
+      <file><label>slides</label><path>Quimper_CP2019_Holy_Grail.pdf</path></file>
+      <acceptancerate>44</acceptancerate>
+    </paper>
+    <paper>
+      <reference>Michael Morin, Ir&amp;egrave;ne Abi-Zeid, Oscar Nilo, and Claude-Guy Quimper. Decision Support for Search and Rescue Response Planning. In Proceedings of the 14th International Conference on Information Systems for Crisis Response and Management (ISCRAM), pages 973-984, 2017.</reference>
+      <file><label>paper</label><path>ISCRAM.pdf</path><publish_date>20170521</publish_date></file>
+    </paper>
+    <paper>
+      <reference>&amp;Eacute;milie Picard-Cantin, Mathieu Bouchard, Claude-Guy Quimper and Jason Sweeney. Learning parameters for the Sequence constraint from positive examples. In Proceedings of the 22nd International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2016), pages 405-420, 2016.</reference>
+      <acceptancerate>39</acceptancerate>
+      <file><label>paper</label><path>constraint_acquisition.pdf</path><publish_date>20160905</publish_date></file>
+      <file><label>poster</label><path>constraint_acquisition_poster.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Vincent Goulet, Wei Li, Hyunmin Cheong, Francesco Iorio and Claude-Guy Quimper. Four-Bar Linkage Synthesis Using Non-Convex Optimization. In Proceedings of the 22nd International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2016), pages 618-635, 2016.</reference>
+      <acceptancerate>39</acceptancerate>
+      <file><label>paper</label><path>linkage.pdf</path><publish_date>20160905</publish_date></file>
+      <file><label>poster</label><path>linkage_poster.pdf</path></file>
+      <file><label>demo</label><path>linkendo.wmv</path></file>
+      <file><label>examples</label><path>LinkageExamples.zip</path></file>
+    </paper>
+    <paper>
+      <reference>Vincent Gingras and Claude-Guy Quimper. Generalizing the Edge-Finder Rule for the Cumulative Constraint. In Proceedings of the 25th International Joint Conference on Artificial Intelligence (IJCAI&amp;nbsp;16), pages 3103-3109, 2016.</reference>
+      <acceptancerate>25</acceptancerate>
+      <file><label>paper</label><path>strong_edge_finder.pdf</path><publish_date>20160709</publish_date></file>
+      <file><label>poster</label><path>poster_vincent.pdf</path><publish_date>20160709</publish_date></file>
+      <file><label>code</label><path>StrongerEdgeFinder.zip</path><publish_date>20160709</publish_date></file>
+    </paper>
+    <paper>
+      <reference>Hamed Fahimi and Claude-Guy Quimper. Variants of Multi-Resource Scheduling Problems with Equal Processing Times. In Proceedings of the 9th Annual International Conference on Combinatorial Optimization and Applications (COCOA 2015), pages 82-97, 2015.</reference>
+      <acceptancerate>47</acceptancerate>
+      <file><label>paper</label><path>schedulingWithEqualP.pdf</path><publish_date>20151218</publish_date></file>
+    </paper>
+    <paper>
+      <reference>Ilyess Bachiri, Jonathan Gaudreault, Brahim Chaib-draa, and Claude-Guy Quimper. RLBS: An Adaptive Backtracking Strategy Based on Reinforcement Learning for Combinatorial Optimization. In Proceedings of the 27th IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2015), pages 936-942, 2015.</reference>
+      <acceptancerate>30</acceptancerate>
+      <file><label>paper</label><path>RLBS.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Minh Ho&amp;agrave;ng H&amp;agrave;, Claude-Guy Quimper, and Louis-Martin Rousseau. General Bounding Mechanism for Constraint Programs. In Proceedings of the 21st International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2015), pages 158-172, 2015.</reference>
+      <acceptancerate>49</acceptancerate>
+      <file><label>paper</label><path>Lagrangian.pdf</path><publish_date>20150905</publish_date></file>
+    </paper>
+    <paper>
+      <reference>Fr&amp;eacute;d&amp;eacute;ric Simard, Michael Morin, Claude-Guy Quimper, Fran&amp;ccedil;ois Laviolette, and Jos&amp;eacute;e Desharnais. Bounding an Optimal Search Path with a Game of Cop and Robber on Graphs. In Proceedings of the 21st International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2015), pages 402-418, 2015.</reference>
+      <acceptancerate>49</acceptancerate>
+      <file><label>paper</label><path>ospbound.pdf</path><publish_date>20150905</publish_date></file>
+    </paper>
+    <paper>
+      <reference>Fran&amp;ccedil;ois Ch&amp;eacute;n&amp;eacute;, Jonathan Gaudreault, and Claude-Guy Quimper. A Mixed-Initiative System for Interactive Tactical Supply Chain Optimization. In Proceedings of the 10th International Conference on Modeling, Optimization and Simulation (MOSIM 2014), 2014.</reference>
+      <acceptancerate>62</acceptancerate>
+      <file><label>paper</label><path>mosim2014MIS.pdf</path><publish_date>20141105</publish_date></file>
+      <file><label>video</label><path>FrancoisChene_demo.mp4</path></file>
+    </paper>
+    <paper>
+      <reference>Thierry Moisan, Claude-Guy Quimper, Jonathan Gaudreault, and S&amp;eacute;bastien Michaud. Re-planning with Minimal Perturbation. In Proceedings of the 10th International Conference on Modeling, Optimization and Simulation (MOSIM 2014), 2014.</reference>
+      <file><label>paper</label><path>production_distance.pdf</path><publish_date>20141105</publish_date></file>
+      <acceptancerate>62</acceptancerate>
+      <award>Young researcher award (2nd position) given to Thierry Moisan</award>
+    </paper>
+    <paper>
+      <reference>Christian Bessiere, Emmanuel Hebrard, George Katsirelos, Zeynep Kiziltan, &amp;Eacute;milie Picard-Cantin, Claude-Guy Quimper, and Toby Walsh. The Balance Constraint Family. In Proceedings of the 20th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2014), pages 174-189, 2014.</reference>
+      <acceptancerate>50</acceptancerate>
+      <file><label>paper</label><path>balance.pdf</path><publish_date>20140908</publish_date></file>
+      <file><label>poster</label><path>posterbalance.pdf</path></file>
+      <file><label>code</label><path>BACP_CHOCO.tgz</path></file>
+    </paper>
+    <paper>
+      <reference>Hamed Fahimi and Claude-Guy Quimper. Linear-Time Filtering Algorithms for the Disjunctive Constraint. In Proceedings of the 28th AAAI Conference on Artificial Intelligence (AAAI-14), pages 2637-2643, 2014.</reference>
+      <acceptancerate>28</acceptancerate>
+      <file><label>paper</label><path>overloadcheck.pdf</path><publish_date>20140727</publish_date></file>
+      <file><label>journal</label><path>TimeLineProject.pdf</path></file>
+      <file><label>slides</label><path>FahimiAAAI2014.pdf</path></file>
+      <file><label>poster</label><path>posterAAAI2014.pdf</path></file>
+      <file><label>code</label><path>TimeLine.zip</path></file>
+    </paper>
+    <paper>
+      <reference>Michael Morin and Claude-Guy Quimper. The Markov Transition Constraint. In Proceedings of the 11th International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CP-AI-OR&amp;nbsp;14), pages 405-421, 2014.</reference>
+      <acceptancerate>47</acceptancerate>
+      <file><label>paper</label><path>markov.pdf</path></file>
+      <file><label>slides</label><path>http://www.michaelmorin.info/publications/mm2014CpaiorSlides.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Thierry Moisan, Claude-Guy Quimper, and Jonathan Gaudreault. Parallel Depth-bounded Discrepancy Search. In Proceedings of the 11th International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CP-AI-OR&amp;nbsp;14), pages 377-393, 2014.</reference>
+      <acceptancerate>47</acceptancerate>
+      <file><label>paper</label><path>pdds.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Christian Bessiere, Emmanuel Hebrard, Marc-Andr&amp;eacute; M&amp;eacute;nard, Claude-Guy Quimper, and Toby Walsh. Buffered Resource Constraint: Algorithms and Complexity. In Proceedings of the 11th International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CP-AI-OR&amp;nbsp;14), pages 318-333, 2014.</reference>
+      <acceptancerate>47</acceptancerate>
+      <file><label>paper</label><path>switch.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Michael Morin, Ir&amp;egrave;ne Abi-Zeid, Yvan R.&amp;nbsp;Petillot, and Claude-Guy Quimper. A Hybrid Algorithm for Coverage Path Planning with Imperfect Sensors. In Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2013), pages 5988-5993, 2013.</reference>
+      <acceptancerate>43</acceptancerate>
+      <file><label>paper</label><path>root.pdf</path><publish_date>20131103</publish_date></file>
+    </paper>
+    <paper>
+      <reference>Pierre Ouellet and Claude-Guy Quimper. Time-Table-Extended-Edge-Finding for the Cumulative Constraint. In Proceedings of the 19th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2013), pages 562-577, 2013.</reference>
+      <acceptancerate>34</acceptancerate>
+      <file><label>paper</label><path>tteef.pdf</path><publish_date>20130916</publish_date></file>
+      <file><label>slides</label><path>ttefslides.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Thierry Moisan, Jonathan Gaudreault and Claude-Guy Quimper. Parallel Discrepancy-Based Search. In Proceedings of the 19th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2013), pages 30-46, 2013.</reference>
+      <award>Best paper award</award>
+      <acceptancerate>34</acceptancerate>
+      <file><label>paper</label><path>pldscp2013.pdf</path><publish_date>20130916</publish_date></file>
+    </paper>
+    <paper>
+      <reference>Christian Bessiere, R&amp;eacute;mi Coletta, Emmanuel Hebrard, George Katsirelos, Nadjib Lazaar, Nina Narodytska, Claude-Guy Quimper, and Toby Walsh. Constraint Acquisition via Partial Queries. In Proceedings of the 23rd International Joint Conference on Artificial Intelligence (IJCAI&amp;nbsp;13), pages 475-481, 2013.</reference>
+      <acceptancerate>28</acceptancerate>
+      <file><label>paper</label><path>bchklnqwijcai13.pdf</path><publish_date>20130803</publish_date></file>
+      <file><label>poster</label><path>quacq-poster.pdf</path><publish_date>20130803</publish_date></file>
+    </paper>
+    <paper>
+      <reference>Simon Hamel, Jonathan Gaudreault, Claude-Guy Quimper, Mathieu Bouchard, and Philippe Marier. Human-Machine Interaction for Real-time Linear Optimization. In Proceedings of the 2012 IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC 2012), pages 673-680, 2012.</reference>
+      <file><label>paper</label><path>mis.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Michael Morin, Anika-Pascale Papillon, Ir&amp;egrave;ne Abi-Zeid, Fran&amp;ccedil;ois Laviolette, and Claude-Guy Quimper. Constraint Programming for Probabilistic Path Planning Problems: An Optimal Search Path Example. In Proceedings of the 18th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2012), pages 988-1003, 2012.</reference>
+      <acceptancerate>43</acceptancerate>
+      <file><label>paper</label><path>osp.pdf</path></file>
+      <file><label>poster</label><path>mm2012CPPoster.pdf</path></file>
+      <file><label>slides</label><path>mm2012CPSlides.pdf</path></file>
+      <file><label>code</label><path>OspCp2012.zip</path></file>
+    </paper>
+    <paper>
+      <reference>Pascal Germain, S&amp;eacute;bastien Gigu&amp;egrave;re, Jean-Francis Roy, Brice Zirakiza, Fran&amp;ccedil;ois Laviolette, and Claude-Guy Quimper. A Pseudo-Boolean Set Covering Machine. In Proceedings of the 18th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2012), pages 916-924, 2012.</reference>
+      <acceptancerate>43</acceptancerate>
+      <file><label>paper</label><path>setcovering.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Philippe Van&amp;nbsp;Kessel and Claude-Guy Quimper. Filtering Algorithms Based on the Word-RAM Model. In Proceedings of the 26th AAAI Conference on Artificial Intelligence (AAAI&amp;nbsp;12), pages 577-583, 2012.</reference>
+      <acceptancerate>26</acceptancerate>
+      <file><label>paper</label><path>wordram.pdf</path></file>
+      <file><label>poster</label><path>wordram_poster.pdf</path></file>
+      <file><label>slides</label><path>wordramtalk.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Pierre Ouellet and Claude-Guy Quimper. The Multi-Inter-Distance Constraint. In Proceedings of the 22nd International Joint Conference on Artificial Intelligence (IJCAI&amp;nbsp;11), pages 629-634, 2011.</reference>
+      <acceptancerate>17</acceptancerate>
+      <file><label>paper</label><path>multiinterdistance.pdf</path></file>
+      <file><label>poster</label><path>poster_multiinterdistance.pdf</path></file>
+      <file><label>slides</label><path>IJCAI11_slides.pdf</path></file>
+      <file><label>video</label><path>http://ijcai-11.iiia.csic.es/video/85</path></file>
+    </paper>
+    <paper>
+      <reference>Christian Bessiere, George Katsirelos, Nina Narodytska, Claude-Guy Quimper, and Toby Walsh. The AllDifferent Constraint with Precedences. In Proceedings of the 8th International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CP-AI-OR&amp;nbsp;11), pages 36-52, 2011.</reference>
+      <acceptancerate>59</acceptancerate>
+      <file><label>paper</label><path>2011-03-16-tw.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Alejandro L&amp;oacute;pez-Ortiz and Claude-Guy Quimper. A Fast Algorithm for Multi-Machine Scheduling Problems with Jobs of Equal Processing Times. In Proceedings of the 28th International Symposium on Theoretical Aspects of Computer Science (STACS'11), pages 380-391, 2011.</reference>
+      <acceptancerate>20</acceptancerate>
+      <file><label>paper</label><path>36.pdf</path></file>
+      <file><label>slides</label><path>scheduling_talk.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Christian Bessiere, George Katsirelos, Nina Narodytska, Claude-Guy Quimper, and Toby Walsh. Decomposition of the NValue Constraint. In Proceedings of the 16th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;10), pages 114-128, 2010.</reference>
+      <acceptancerate>38</acceptancerate>
+      <file><label>paper</label><path>nvalue.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Christian Bessiere, George Katsirelos, Nina Narodytska, Claude-Guy Quimper, and Toby Walsh. Propagating Conjunctions of AllDifferent Constraints. In Proceedings of the 24th AAAI Conference on Artificial Intelligence (AAAI&amp;nbsp;10), pages 27-32, 2010.</reference>
+      <acceptancerate>27</acceptancerate>
+      <file><label>paper</label><path>overlappingalldiff.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Christian Bessiere, George Katsirelos, Nina Narodytska, Claude-Guy Quimper, and Toby Walsh. Decompositions of All-Different, Global Cardinality and Related Constraints. In Proceedings of the 21st International Joint Conference on Artificial Intelligence (IJCAI&amp;nbsp;09), pages 419-424, 2009.</reference>
+      <acceptancerate>26</acceptancerate>
+      <file><label>paper</label><path>decomposition_alldiff.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Gilles Pesant, Claude-Guy Quimper, Louis-Martin Rousseau, and Meinolf Sellmann. The Polytope of Context-Free Grammar Constraints. In Proceedings of the 6th International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CP-AI-OR&amp;nbsp;09), pages 223-232, 2009.</reference>
+      <acceptancerate>50</acceptancerate>
+      <file><label>paper</label><path>grammar_polytope.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Michael Maher, Nina Narodytska, Claude-Guy Quimper, and Toby Walsh. Flow-Based Propagators for the SEQUENCE and Related Global Constraints. In Proceedings of the 14th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;08), pages 159-174, 2008.</reference>
+      <acceptancerate>32</acceptancerate>
+      <file><label>paper</label><path>sequenceflow.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Christian Bessiere, Emmanuel Hebrard, Brahim Hnich, Zeynep Kiziltan, Claude-Guy Quimper, and Toby Walsh. The Parameterized Complexity of Global Constraints. In Proceedings of the 23th AAAI Conference on Artificial Intelligence (AAAI&amp;nbsp;08), pages 235-240, 2008.</reference>
+      <acceptancerate>24</acceptancerate>
+      <file><label>paper</label><path>fpt.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Claude-Guy Quimper and Toby Walsh. Decompositions of Global Grammar Constraints. In Proceedings of the 23th AAAI Conference on Artificial Intelligence (AAAI&amp;nbsp;08), New Scientific and Technical Advances in Research (NECTAR), pages 1567-1570, 2008.</reference>
+      <file><label>paper</label><path>grammarsnectar.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Gilles Pesant and Claude-Guy Quimper. Counting Solutions of Knapsack Constraints. In Proceedings of the 5th International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CP-AI-OR&amp;nbsp;08), pages 203-217, 2008.</reference>
+      <acceptancerate>26</acceptancerate>
+      <file><label>paper</label><path>knapsack.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Sebastian Brand, Nina Narodytska, Claude-Guy Quimper, Peter Stuckey, and Toby Walsh. Encodings of the SEQUENCE Constraint. In Proceedings of the 13th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;07), pages 210-224, 2007.</reference>
+      <acceptancerate>30</acceptancerate>
+      <file><label>paper</label><path>sequence.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Claude-Guy Quimper and Toby Walsh. Decomposing Global Grammar Constraints. In Proceedings of the 13th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;07), pages 590-604, 2007.</reference>
+      <file><label>paper</label><path>decgrammars.pdf</path></file>
+      <acceptancerate>30</acceptancerate>
+    </paper>
+    <paper>
+      <reference>Christian Bessiere, Emmanuel Hebrard, Brahim Hnich, Zeynep Kiziltan, Claude-Guy Quimper, and Toby Walsh. Reformulating global constraints: the SLIDE and REGULAR constraints. In Proceedings of the 7th Symposium on Abstraction, Reformulation, and Approximation (SARA&amp;nbsp;07), pages 80-92, 2007.</reference>
+      <file><label>paper</label><path>slide.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Claude-Guy Quimper and Toby Walsh. Global Grammar Constraints. In Proceedings of the 12th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;06), pages 751-755, 2006.</reference>
+      <award>Best poster award</award>
+      <acceptancerate>44</acceptancerate>
+      <file><label>paper</label><path>grammars.pdf</path></file>
+      <file><label>report</label><path>grammars_TR.pdf</path></file>
+      <file><label>poster</label><path>postergrammars.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Claude-Guy Quimper, Alejandro L&amp;oacute;pez-Ortiz, and Gilles Pesant. A Quadratic Propagator for the Inter-Distance Constraint. In Proceedings of the 21rst National Conference on Artificial Intelligence (AAAI&amp;nbsp;06), pages 123-128, 2006.</reference>
+      <acceptancerate>30</acceptancerate>
+      <file><label>paper</label><path>interdistance.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Claude-Guy Quimper and Toby Walsh. The All Different and Global Cardinality Constraints on Set, Multiset and Tuple Variables. In Recent Advances in Constraints: Joint ERCIM/CoLogNET International Workshop on Constraint Solving and Constraint Logic Programming, Revised Selected and Invited Papers, Lecture Notes in Artificial Intelligence, Vol.&amp;nbsp;3419 M.&amp;nbsp;Carlsson, F.&amp;nbsp;Fages, B.&amp;nbsp;Hnich, and F.&amp;nbsp;Rossi (Eds.), pages 1-13, 2006.</reference>
+      <file><label>paper</label><path>calldiffsets.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Claude-Guy Quimper and Toby Walsh. Beyond Finite Domains: the All Different and Global Cardinality Constraints. In Proceedings of the 11th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;05), Sitges, Spain, pages 812-816, 2005.</reference>
+      <acceptancerate>42</acceptancerate>
+      <file><label>paper</label><path>alldiffsets.pdf</path></file>
+      <file><label>poster</label><path>posteralldiff.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Alexander Golynski, Alejandro L&amp;oacute;pez-Ortiz, Guillaume Poirier, and Claude-Guy Quimper. Bandwidth Reduction for Video-on-Demand Broadcasting Using Secondary Content Insertion. In Proceedings of the 12th Annual Multimedia Computing and Networking, pages 167-175, 2005.</reference>
+      <acceptancerate>16</acceptancerate>
+      <file><label>paper</label><path>pub.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Claude-Guy Quimper, Alejandro L&amp;oacute;pez-Ortiz, Peter van Beek, and Alexander Golynski. Improved algorithms for the global cardinality constraint. In Proceedings of the 10th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;04), Toronto, Canada, pages 542-556, 2004.</reference>
+      <acceptancerate>29</acceptancerate>
+      <file><label>paper</label><path>domainGCC.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Alejandro L&amp;oacute;pez-Ortiz, Claude-Guy Quimper, John Tromp, and Peter van Beek. A fast and simple algorithm for bounds consistency of the alldifferent constraint. In Proceedings of the 18th International Joint Conference on Artificial Intelligence (IJCAI&amp;nbsp;03), Acapulco, Mexico, pages 245-250, 2003.</reference>
+      <acceptancerate>21</acceptancerate>
+      <file><label>paper</label><path>ijcai03.pdf</path></file>
+      <file><label>report</label><path>ijcai03_TR.pdf</path></file>
+      <file><label>code</label><path>alldifferent.tar.gz</path></file>
+    </paper>
+    <paper>
+      <reference>Claude-Guy Quimper, Peter van Beek, Alejandro L&amp;oacute;pez-Ortiz, Alexander Golynski, and Sayyed Bashir Sadjad. An efficient bounds consistency algorithm for the global cardinality constraint. In Proceedings of the 9th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;03), Kinsale, Ireland, pages 600-614, 2003.</reference>
+      <acceptancerate>27</acceptancerate>
+      <file><label>paper</label><path>gcc.pdf</path></file>
+      <file><label>report</label><path>gcc_TR.pdf</path></file>
+      <file><label>code</label><path>gcc.tar.gz</path></file>
+    </paper>
+    <paper>
+      <reference>Timothy Chan, Alexander Golynski, Alejandro L&amp;oacute;pez-Ortiz, and Claude-Guy Quimper. Curves of Width One and the River Shore Problem. In Proceedings of Canadian Conference on Computational Geometry (CCCG&amp;nbsp;03), pages 73-75, 2003.</reference>
+      <file><label>paper</label><path>river.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Therese Biedl, Erik D.&amp;nbsp;Demaine, Alexander Golynski, Joseph D.&amp;nbsp;Horton, Alejandro L&amp;oacute;pez-Ortiz, Guillaume Poirier, and Claude-Guy Quimper. Optimal dynamic video-on-demand using adaptive broadcasting. 11th Annual European Symposium on Algorithms (ESA&amp;nbsp;03), pages 372-373, 2003.</reference>
+      <acceptancerate>39</acceptancerate>
+      <file><label>paper</label><path>harmonic.pdf</path></file>
+    </paper>
+  </section>
+
+  <section>
+    <title>Articles arbitr&amp;eacute;s parus dans des actes de conf&amp;eacute;rences francophones</title>
+    <paper>
+      <reference>Jean Wery, Jonathan Gaudreault, Corinne Chabot, Andr&amp;eacute; Thomas, Claude-Guy Quimper, and Philippe Marier. Recherche de la meilleure combinaison de sc&amp;eacute;narios en simulation-optimisation. A para&amp;icirc;tre dans les actes du 12e congr&amp;egrave;s international de g&amp;eacute;nie industriel (CIGI), 2017.</reference>
+      <file><label>paper</label><path>Wery2017.pdf</path><publish_date>20170503</publish_date></file>
+    </paper>
+    <paper>
+      <reference>Yassine Attik, Jonathan Gaudreault and Claude-Guy Quimper. Filtrage tardif du BIBD: lorsque la procrastination paie. In 13&lt;sup&gt;e&lt;/sup&gt; journ&amp;eacute;es francophones de programmation par contraintes (JFPC&amp;nbsp;2017), 2017.</reference>
+      <file><label>paper</label><path>Article_YassineAttik_JFPC.pdf</path><publish_date>20170613</publish_date></file>
+    </paper>
+    <paper>
+      <reference>Christian Bessiere, R&amp;eacute;mi Coletta, Emmanuel Hebrard, George Katsirelos, Nadjib Lazaar, Nina Narodytska, Claude-Guy Quimper, and Toby Walsh. Acquisition de contraintes avec des requ&amp;ecirc;tes partielles. In 10&lt;sup&gt;e&lt;/sup&gt; journ&amp;eacute;es francophones de programmation par contraintes (JFPC&amp;nbsp;2014), pages 49-58, 2014.</reference>
+    <file><label>paper</label><path>jfpc2014.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Lucas Bordeaux, Youssef Hamadi, Claude-Guy Quimper, and Horst Samulowitz. Expressions it&amp;eacute;r&amp;eacute;es en programmation par constraintes. In Proceedings of Troisi&amp;egrave;me Journ&amp;eacute;es Francophones de Programmation par Contraintes (JFPC&amp;nbsp;07), pages 98-107, 2007.</reference>
+      <acceptancerate>80</acceptancerate>
+      <file><label>paper</label><path>iterated.pdf</path></file>
+    </paper>
+  </section>
+
+  <section>
+    <title>Journals / Book Chapters</title>
+    <paper>
+      <reference>Hamed Fahimi and Claude-Guy Quimper. Overload-Checking and Edge-Finding for Robust Cumulative Scheduling. INFORMS Journal of Computing 35(6), pages 1215-1532, 2023.</reference>
+      <file><label>paper</label><path>https://doi.org/10.1287/ijoc.2021.0138</path></file>
+      <file><label>code</label><path>RobustScheduling.zip</path></file>
+    </paper>
+    <paper>
+      <reference>Christian Bessiere, Clément Carbonnel, Anton Dries, Emmanuel Hebrard, George Katsirelos, Nadjib Lazaar, Nina Narodytska, Claude-Guy Quimper, Kostas Stergiou, Dimosthenis C. Tsouros, and Toby Walsh. Learning Constraints through Partial Queries. Artificial Intelligence, 2023.</reference>
+      <file><label>paper</label><path>https://doi.org/10.1016/j.artint.2023.103896</path></file>
+    </paper>
+    <paper>
+      <reference>Maude Beauchemin, Marc-André Ménard, Jonathan Gaudreault, Nadia Lehoux, Stéphane Agnard, and Claude-Guy Quimper. Dynamic allocation of human resources: Case study in the metal 4.0 manufacturing industry. International Journal of Production Research, 2022.</reference>
+      <file><label>paper</label><path>https://doi.org/10.1080/00207543.2022.2139002</path></file>
+    </paper>
+    <paper>
+      <reference>Michael Morin, Ir&amp;egrave;ne Abi-Zeid, and Claude-Guy Quimper. Ant Colony Optimization for Path Planning in Search and Rescue Operations. European Journal of Operational Research, 305 (1), pages 53-63, 2022.</reference>
+      <file><label>paper</label><path>mm2022ejorOspvAnts.pdf</path></file>
+      <file><label>slides</label><path>mm2024informsOspvAntsSlides.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Marc-Andr&amp;eacute; M&amp;eacute;nard, Claude-Guy Quimper and Jonathan Gaudreault. Responsive Mixed-Initiative System for Reoptimization of Mixed-Integer Programming. International Journal on Artificial Intelligence Tools, 31(01): 2250023, 2022.</reference>
+    </paper>
+    <paper>
+      <reference>H&amp;eacute;l&amp;egrave;ne Verhaeghe, Siegfried Nijssen, Gilles Pesant, Claude-Guy Quimper, and Pierre Schaus. Learning optimal decision trees using constraint programming. Constraints Journal, 25(3): 226-250, 2020.</reference>
+      <file><label>paper</label><path>Learning_Optimal_Decision_Trees.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Hamed Fahimi, Yanick Ouellet and Claude-Guy Quimper. Linear-Time Filtering Algorithms for the Disjunctive Constraint and a Quadratic Filtering Algorithm for the Cumulative Not-First Not-Last. Constraints Journal, 23(3): 272-293, 2018.</reference>
+      <file><label>paper</label><path>TimeLineProject.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Jonathan Gaudreault, Claude-Guy Quimper, Philippe Marier, Mathieu Bouchard, Fran&amp;ccedil;ois Ch&amp;eacute;n&amp;eacute;, Jean Bouchard. Designing a Generic Human-Machine Framework for Real-time Supply Chain Planning. Journal of computational Design and Engineering, 4(2): 69-85, 2017.</reference>
+      <file><label>paper</label><path>GenericHumanMachineFramework.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Christian Bessiere, Abderrazak Daoudi, Emmanuel Hebrard, George Katsirelos, Nadjib Lazaar, Younes Mechqrane, Nina Narodytska, Claude-Guy Quimper, and Toby Walsh. New Approaches to Constraint Acquisition. Data Mining and Constraint Programming: Foundations of a Cross-Disciplinary Approach, Chapter 6, pages 51-76, 2017.</reference>
+      <file><label>chapter</label><path>https://doi.org/10.1007/978-3-319-50137-6_3</path></file>
+    </paper>
+    <paper>
+      <reference>Gilles Pesant, Alessandro Zanarini, and Claude-Guy Quimper. Counting-Based Search: Branching Heuristics for Constraint Satisfaction Problems. Journal of Artificial Intelligence Research, 43: 173-210, 2012.</reference>
+      <file><label>paper</label><path>counting.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Marie-Claude C&amp;ocirc;t&amp;eacute;, Bernard Gendron, Claude-Guy Quimper, and Louis-Martin Rousseau. Formal Languages for Integer Programming Modeling of Shift Scheduling Problems. Constraints Journal, 16(1): 54-76, 2011.</reference>
+      <file><label>paper</label><path>formal_mip.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Claude-Guy Quimper and Louis-Martin Rousseau. A Large Neighbourhood Approach to the Multi-Activity Shift Scheduling Problem. Journal of Heuristics, 16(3): 373-392, 2010.</reference>
+      <file><label>paper</label><path>shift.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Claude-Guy Quimper, Alejandro L&amp;oacute;pez-Ortiz, and Gilles Pesant. A Quadratic Propagator for the Inter-Distance Constraint. Constraint Programming Letters, 3:21-35, 2008.</reference>
+      <file><label>paper</label><path>interdistance_journal.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Claude-Guy Quimper, Alexander Golynski, Alejandro L&amp;oacute;pez-Ortiz, and Peter van Beek. An Efficient Bounds Consistency Algorithm for the Global Cardinality Constraint. Constraint Journal, 10(2):115-135, 2005.</reference>
+      <file><label>paper</label><path>gccjournal.pdf</path></file>
+      <file><label>code</label><path>gcc.tar.gz</path></file>
+    </paper>
+  </section>
+
+  <section>
+    <title>Workshops</title>
+    <paper>
+      <reference>Dany Vohl, Claude-Guy Quimper, and Danny Dub&amp;eacute;. Finding Synchronization Codes to Boost Compression by Substring Enumeration. In Proceedings of the Eleventh International Workshop on Constraint Modelling and Reformulation (ModRef 2012), held at the 18th International Conference on the Principles and Practice of Constraint Programming (CP 12), 16 pages, 2012.</reference>
+      <file><label>paper</label><path>compression.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Thierry Moisan, Jonathan Gaudreault, and Claude-Guy Quimper. Parallel Discrepancy-based Search: An efficient and scalable search strategy for massively parallel supercomputers providing intrinsic load-balancing without communication. In Proceedings of the Workshop on Parallel Methods for Constraint Solving (PMCS'11), held with 17th International Conference on Principles and Practice of Constraint Programming (CP'11), 2011.</reference>
+      <file><label>paper</label><path>plds.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>George Katsirelos, Nina Narodytska, Claude-Guy Quimper, and Toby Walsh. Global Matrix Constraints. In Proceedings of the Workshop of Constraint Modelling and Reformulation (ModRef'11), held with 17th International Conference on Principles and Practice of Constraint Programming (CP'11), 2011.</reference>
+      <file><label>paper</label><path>globalmatrix.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Christian Bessiere, George Katsirelos, Nina Narodytska, Claude-Guy Quimper, Toby Walsh. Decompositions of the NValue constraint. In Proceedings of the CP'09 Eighth International Workshop on Constraint Modelling and Reformulation, pages 1-15, Lisbon, Portugal, 2009.</reference>
+      <file><label>paper</label><path>nvalue_workshop.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Michael Maher, Nina Narodytska, Claude-Guy Quimper, and Toby Walsh. Flow-based propagators for the sequence and related global constraints. In ECAI Workshop on Modeling and Solving Problems with Constraints, pages 54-62, Patra, Greece, 2008.</reference>
+      <file><label>paper</label><path>sequence_workshop.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Claude-Guy Quimper and Toby Walsh. Beyond Finite Domains: the All Different and Global Cardinality Constraints. In Proceedings of Constraint Programming Beyond Finite Integer Domains, Sitges, Spain, pages 5-17, 2005.</reference>
+      <acceptancerate>42</acceptancerate>
+      <file><label>paper</label><path>walldiffsets.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Claude-Guy Quimper and Alejandro L&amp;oacute;pez-Ortiz jointly with Toby Walsh and Emmanuel Hebrard. From Linear Relaxations to Global Constraint Propagation. In Proceedings of the 11th International Conference on Principles and Practice of Constraint Programming, Doctoral Program, Sitges, Spain, page 867, 2005.</reference>
+      <file><label>paper</label><path>doctoral.pdf</path></file>
+    </paper>
+  </section>
+
+  <section>
+    <title>Edition</title>
+    <paper>
+      <reference>Claude-Guy Quimper. Proceedings of the 13th International Conference on Integration of AI and OR Techniques in Constraint Programming (CPAIOR 2016). 421 pages, 2016.</reference>
+      <file><label>proceedings</label><path>https://link.springer.com/book/10.1007%2F978-3-319-33954-2</path></file>
+    </paper>
+    <paper>
+      <reference>Claude-Guy Quimper (guest editor). Journal Constraints. Fast track issue for CPAIOR 2016. Volume 21, Issue 3, pages 355-434, July 2016.</reference>
+      <file><label>journal issue</label><path>http://link.springer.com/journal/10601/21/3/</path></file>
+    </paper>
+    <paper>
+      <reference>George Katsirelos and Claude-Guy Quimper. Proceedings of 12th International Workshop on Constraint Modelling and Reformulation (ModRef 2013). 100 pages, 2013.</reference>
+      <file><label>proceedings</label><path>modref2013.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Steve Prestwich, Claude-Guy Quimper, and Toby Walsh. Proceedings of the Workshop on Modeling and Solving Problems with Constraints. 68 pages, 2008.</reference>
+      <file><label>proceedings</label><path>W31.pdf</path></file>
+    </paper>
+  </section>
+
+  <section>
+    <title>Thesis</title>
+    <paper>
+      <reference>Claude-Guy Quimper. Efficient Propagators for Global Constraints. Ph.D. Thesis, University of Waterloo, 2006.</reference>
+      <award>ACP Best Doctoral Research Award</award>
+      <file><label>thesis</label><path>thesis.pdf</path></file>
+      <file><label>slides</label><path>DoctoralResearchAward.pdf</path></file>
+    </paper>
+  </section>
+
+  <section>
+    <title>Videos</title>
+    <paper>
+      <reference>Timothy Chan, Alexander Golynski, Alejandro L&amp;oacute;pez-Ortiz, and Claude-Guy Quimper. The Asteroid Surveying Problem and Other Puzzles. 12th Annual Video Review of Computational Geometry, In Proceedings of the 19th Annual ACM Symposium on Computational Geometry (SoCG), 2003.</reference>
+      <acceptancerate>75</acceptancerate>
+      <file><label>paper</label><path>ast.pdf</path></file>
+      <file><label>video</label><path>video.avi</path></file>
+    </paper>
+  </section>
+
+  <section>
+    <title>Technical Reports</title>
+    <paper>
+      <reference>Ramiz Gindullin, Nicolas Beldiceanu, Jovial Cheukam-Ngouonou, Rémi Douence, and Claude-Guy Quimper. Proving Conjectures Acquired by Composing Multiple Biases. Technical Report arXiv:2312.08990, 2023.</reference>
+      <file><label>report</label><path>reportAAAI2024.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Ilyess Bachiri, Jonathan Gaudreault, Brahim Chaib-draa, and Claude-Guy Quimper. RLBS: An Adaptive Backtracking Strategy Based on Reinforcement Learning for Combinatorial Optimization. Technical Report, CIRRELT-2015-07, CIRRELT, 2015.
+      </reference>
+      <file><label>paper</label><path>CIRRELT-2015-07.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Youssef Hamadi and Claude-Guy Quimper. The Smart Workflow Foundation. Technical Report, MSR-TR-2006-114, Microsoft Research, Cambridge, 2006.</reference>
+      <file><label>paper</label><path>tr-2006-114.pdf</path></file>
+      <file><label>video</label><path>http://research.microsoft.com/apps/video/default.aspx?id=141662</path></file>
+    </paper>
+    <paper>
+      <reference>Lucas Bordeaux, Youssef Hamadi, and Claude-Guy Quimper. The bit-vector Constraint. Technical Report, MSR-TR-2006-86, Microsoft Research, Cambridge, 2006.</reference>
+      <file><label>paper</label><path>tr-2006-86.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Alejandro L&amp;oacute;pez-Ortiz, Claude-Guy Quimper, John Tromp, and Peter van Beek. A fast and simple algorithm for bounds consistency of the alldifferent constraint. Technical Report, CS-2003-05, School of Computer Science, University of Waterloo, 2003.</reference>
+      <file><label>paper</label><path>ijcai03_TR.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Claude-Guy Quimper, Peter van Beek, Alejandro L&amp;oacute;pez-Ortiz, Alexander Golynski, and Sayyed Bashir Sadjad. An efficient bounds consistency algorithm for the global cardinality constraint. Technical Report, CS-2003-10, School of Computer Science, University of Waterloo, 2003.</reference>
+      <file><label>paper</label><path>gcc_TR.pdf</path></file>
+    </paper>
+    <paper>
+      <reference>Claude-Guy Quimper. Enforcing Domain Consistency on the Extended Global Cardinality Constraint is NP-hard. Technical Report, CS-2003-39, School of Computer Science, University of Waterloo, 2003.</reference>
+      <file><label>paper</label><path>NPgcc_TR.pdf</path></file>
+    </paper>
+  </section>
+
+</publications>

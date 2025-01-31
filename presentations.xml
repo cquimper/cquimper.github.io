@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<publications>
+  
+  <section>
+    <title></title>
+
+    <paper>
+      <reference>Tutorial on Constraint Programming and Scheduling. Canadian Operational Research Society (CORS / SCRO), Montréal, 2023.</reference>
+      <file><label>slides</label><path>SCRO2023.pdf</path></file>
+    </paper>
+
+    <paper>
+      <reference>Ordonnancement sous contraintes: de la théorie à la pratique. 17ème journées francophones de programmation par contraintes (JFPC), 2021.</reference>
+      <file><label>slides</label><path>JFPC2021.pdf</path></file>
+    </paper>
+
+    <paper>
+      <reference>Learning the Parameters of Global Constraints for Medical Scheduling. Third Workshop on Progress Towards the Holy Grail held at CP 2019, Stamford, Connecticut, 2019.</reference>
+      <file><label>slides</label><path>Quimper_CP2019_Holy_Grail.pdf</path></file>
+    </paper>
+
+    <paper>
+      <reference>Improving the Energetic Reasoning: How I followed 15-year-old advice from my supervisor. Doctoral Program held at CP 2018, Lile, France, 2018.</reference>
+      <file><label>slides</label><path>CP2018.pdf</path></file>
+    </paper>
+  </section>
+
+</publications>
