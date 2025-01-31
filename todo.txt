@@ -1,6 +1,0 @@
-- Add a ligne bellow the navigation bar (take it from former web site)
-- The current picture takes 500 kb, that can be reduced.
-x Replace accents by html tags
-x Add hyper links to papers
-x Add code
-x Add two workshop papers
