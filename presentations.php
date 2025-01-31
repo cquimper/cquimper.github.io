@@ -15,7 +15,7 @@
 <ul id="navlist">
 <li><a href="index.html">Bienvenue</a></b></li>
 <li><a href="research.html">Recherche</a></li>
-<li><a href="publications.php">Publications</a></li>
+<li><a href="publications.html">Publications</a></li>
 <li><b>Présentations</b></li>
 </ul>
 </div>

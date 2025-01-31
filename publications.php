@@ -16,7 +16,7 @@
 <li><a href="index.html">Bienvenue</a></li>
 <li><a href="research.html">Recherche</a></li>
 <li><b>Publications</b></li>
-<li><a href="presentations.php">Présentations</a></li>
+<li><a href="presentations.html">Présentations</a></li>
 </ul>
 </div>
 </center>
