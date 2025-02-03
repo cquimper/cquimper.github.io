@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<chapitres>
+  <chapitre>
+    <titre>Chapitre 1 - Introduction</titre>
+    <fichier>Chapitre1.pdf</fichier>
+  </chapitre>
+  <chapitre>
+    <titre>Chapitre 2 - La fouille et le filtrage</titre>
+    <fichier>Chapitre2.pdf</fichier>
+  </chapitre>
+  <chapitre>
+    <titre>Chapitre 3 - Autopsie d'un solveur</titre>
+    <fichier>Chapitre3.pdf</fichier>
+  </chapitre>
+  <chapitre>
+    <titre>Chapitre 4 - Algorithmes de filtrage pour les contraintes arithm&amp;eacute;tiques</titre>
+    <fichier>Chapitre4.pdf</fichier>
+  </chapitre>
+  <chapitre>
+    <titre>Chapitre 5 - Les structures traitables</titre>
+    <fichier>Chapitre5.pdf</fichier>
+  </chapitre>
+  <chapitre>
+    <titre>Chapitre 6 - Les strat&amp;eacute;gies de recherche</titre>
+    <fichier>Chapitre6.pdf</fichier>
+  </chapitre>
+  <chapitre>
+    <titre>Chapitre 7 - Le probl&amp;egrave;me du flot maximum</titre>
+    <fichier>Chapitre7.pdf</fichier>
+  </chapitre>
+  <chapitre>
+    <titre>Chapitre 8 - La programmation lin&amp;eacute;aire</titre>
+    <fichier>Chapitre8.pdf</fichier>
+  </chapitre>
+  <chapitre>
+    <titre>Chapitre 9 - Conclusion</titre>
+    <fichier>Chapitre9.pdf</fichier>
+  </chapitre>
+</chapitres>
