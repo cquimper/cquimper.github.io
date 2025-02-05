@@ -2785,6 +2785,25 @@ Enfin, nous ferons un survol des perspectives offertes par cette approche pour r
 </abstract>
 </seminar>
 
+<seminar>
+  <day>14</day>
+  <month>2</month>
+  <year>2025</year>
+  <speaker>Manuel Chastenay</speaker>
+  <job>Étudiant à la maîtrise au Lab-Usine</job>
+  <time>13h30</time>
+  <room>PLT-3775</room>
+  <title>Méta-modélisation, configuration et optimisation de bâtiments dans un contexte d'industrie 4.0</title>
+  <abstract>L'industrie 4.0 révolutionne les usines manufacturières en substituant la production de masse par la personnalisation de produit de manière agile et dynamique.
+Pilotée par des systèmes interconnectés et robotisés, cette transition offre des opportunités innovantes dans le milieu industriel.&lt;p&gt;
+Cette présentation abordera ces nouvelles possibilités ainsi que certains défis rencontrés lors de leur implémentation chez une usine partenaire, notamment:
+&lt;ul style="margin-top:0px;"&gt;
+&lt;li&gt;L'utilisation du métamodèle, pièce centrale de l'usine 4.0 répertoriant l'information ainsi que l'intelligence du produit. Ce dernier est utilisé et bonifié par les différents systèmes propres à l'usine afin d'offrir une meilleure cohésion inter-systèmes.&lt;/li&gt;
+&lt;li&gt;La configuration intelligente de produits par le client, régie par un système de contraintes préalablement défini par le manufacturier.&lt;/li&gt;
+&lt;li&gt;L'optimisation des processus et des matériaux de manière automatisée, pouvant être visualisée en temps réel à l'aide d'un jumeau numérique sur l'application Unity.&lt;/li&gt;
+&lt;/ul&gt;</abstract>
+</seminar>
+
 
 
 <!-- <seminar> -->
