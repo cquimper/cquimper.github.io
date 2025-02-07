@@ -2782,7 +2782,8 @@ Concevoir des structures de données différentiables adaptées à la représentation
 
 Améliorer la performance et la robustesse des algorithmes en intégrant l'optimisation comme mécanisme central, simplifiant grandement la formulation des problèmes et réduisant la nécessité de règles d'ingénierie spécifiques pour chaque type de données ou d'application.&lt;p&gt;
 Enfin, nous ferons un survol des perspectives offertes par cette approche pour relever des défis complexes liés au traitement des données spatiales tout en offrant des solutions flexibles, évolutives et adaptées à une large gamme d'applications.
-</abstract>
+  </abstract>
+  <file><label>diapositives</label><path>JeanThomasSexton2024.pdf</path></file>
 </seminar>
 
 <seminar>
