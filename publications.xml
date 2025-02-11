@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf8"?>
 <publications>
   <author><name>Claude-Guy Quimper</name><shortname>C.-G. Quimper</shortname><website>http://www.ift.ulaval.ca/~quimper/</website></author>
   <author><name>Christian Bessiere</name><shortname>C. Bessiere</shortname><website>http://www.lirmm.fr/~bessiere</website></author>
@@ -39,7 +39,7 @@
   <author><name>Jonathan Gaudreault</name><shortname>J. Gaudreault</shortname><website>http://www.ift.ulaval.ca/departement-et-professeurs/professeurs-et-personnel/professeurs-reguliers/fiche/show/gaudreault-jonathan/</website></author>
   <author><name>Yvan R.&amp;nbsp;Petillot</name><shortname>Y. R.&amp;nbsp;Petillot</shortname><website>http://home.eps.hw.ac.uk/~ceeyrp/</website></author>
   <author student="yes"><name>Dany Vohl</name><shortname>D. Vohl</shortname><website>http://graal.ift.ulaval.ca/danyvohl/</website></author>
-  <author student="yes"><name>Marc-Andr&amp;eacute; M&amp;eacute;nard</name><shortname>M.-A. M&amp;eacute;nard</shortname><website>http://ca.linkedin.com/pub/marc-andré-ménard/2a/59/68a</website></author>
+  <author student="yes"><name>Marc-Andr&amp;eacute; M&amp;eacute;nard</name><shortname>M.-A. M&amp;eacute;nard</shortname><website>https://www.linkedin.com/in/marc-andr%C3%A9-m%C3%A9nard-68a0592a</website></author>
   <author student="yes"><name>&amp;Eacute;milie Picard-Cantin</name><shortname>&amp;Eacute;. Picard-Cantin</shortname><website>http://www.emiliepicardcantin.com</website></author>
   <author student="yes"><name>Fran&amp;ccedil;ois Ch&amp;eacute;n&amp;eacute;</name><shortname>F. Ch&amp;eacute;n&amp;eacute;</shortname></author>
   <author student="yes"><name>Hamed Fahimi</name><shortname>H. Fahimi</shortname><website>https://ca.linkedin.com/in/hamed-fahimi-54737a105</website></author>
@@ -64,7 +64,7 @@
   <author><name>Mathieu Bouchard</name><shortname>M. Bouchard</shortname><website>https://ca.linkedin.com/in/mathieu-bouchard-54670022</website></author>
   <author><name>Jason Sweeney</name><shortname>J. Sweeney</shortname><website>https://ca.linkedin.com/in/jasonpierresweeney</website></author>
   <author><name>Philippe Marier</name><shortname>P. Marier</shortname><website>http://www.forac.ulaval.ca/no_cache/nous_joindre/coordonnees_de_lequipe/professionnels_de_recherche/</website></author>
-  <author student="yes"><name>Fran&amp;ccedil;ois Ch&amp;eacute;n&amp;eacute;</name><shortname>F. Ch&amp;eacute;n&amp;eacute;</shortname><website>https://www.linkedin.com/in/françois-chéné-4849214a/</website></author>
+  <author student="yes"><name>Fran&amp;ccedil;ois Ch&amp;eacute;n&amp;eacute;</name><shortname>F. Ch&amp;eacute;n&amp;eacute;</shortname><website>https://www.linkedin.com/in/fran%C3%A7ois-ch%C3%A9n%C3%A9-4849214a</website></author>
   <author student="yes"><name>Kim Rioux-Paradis</name><shortname>K. Rioux-Paradis</shortname><website>https://www.linkedin.com/in/kim-rioux-paradis/</website></author>
   <author student="yes"><name>Yanick Ouellet</name><shortname>Y. Ouellet</shortname><website>https://www.linkedin.com/in/yanick-ouellet-54912772/</website></author>
   <author><name>Roger Kameugne</name><shortname>R. Kameugne</shortname><website>https://scholar.google.fr/citations?user=agmFWy8AAAAJ\amp;hl=fr</website></author>
@@ -78,27 +78,26 @@
   <author student="yes"><name>Nicolas Blais</name><shortname>N. Blais</shortname><website>https://www.linkedin.com/in/nicolas-blais-2868a0134/</website></author>
   <author student="yes"><name>Alexis Remartini</name><shortname>A. Remartini</shortname><website>https://www.linkedin.com/in/alexis-remartini-323b08189/?originalSubdomain=ca</website></author>
   <author student="yes"><name>Alexis Gauthier</name><shortname>A. Gauthier</shortname><website>https://www.linkedin.com/in/alexisgauthier/</website></author>
-  <author student="yes"><name>Rapha&amp;euml;l Boudreault</name><shortname>R. Boudreault</shortname><website>https://www.linkedin.com/in/raphael-boudreault-511910197</website></author>
+  <author student="yes"><name>RaphaÃ«l Boudreault</name><shortname>R. Boudreault</shortname><website>https://www.linkedin.com/in/raphael-boudreault-511910197</website></author>
   <author student="yes"><name>Anthony Desch&amp;ecirc;nes</name><shortname>A. Desch&amp;ecirc;nes</shortname><website>https://www.linkedin.com/in/anthony-desch%C3%AAnes-1b0b58128/</website></author>
   <author student="yes"><name>Christopher Coulombe</name><shortname>C. Coulombe</shortname><website>https://www.linkedin.com/in/christopher-coulombe-858ba014b</website></author>
   <author><name>Nicolas Beldiceanu</name><shortname>N. Beldiceanu</shortname><website>https://cv.archives-ouvertes.fr/nicolasbeldiceanu</website></author>
-  <author><name>R&amp;eacute;mi Douence</name><shortname>R. Douence</shortname><website>https://www.imt-atlantique.fr/fr/personne/remi-douence</website></author>
+  <author><name>RÃ©mi Douence</name><shortname>R. Douence</shortname><website>https://www.imt-atlantique.fr/fr/personne/remi-douence</website></author>
   <author student="yes"><name>Jovial Cheukam-Ngouonou</name><shortname>J. Cheukam-Ngouonou</shortname><website>https://www.linkedin.com/in/jovial-cheukam-ngouonou-099974309?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBOhWp%2FwzTj%2B19anfV81gyw%3D%3D</website></author>
   <author><name>Ramiz Gindullin</name><shortname>R. Gindullin</shortname><website>https://www.linkedin.com/in/ramiz-gindullin-6b48371a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BO6s5vl%2F8QzWyJaYNCN9q%2FQ%3D%3D</website></author>
-  <author><name>Rémi Douence</name><shortname>R. Douence</shortname><website>https://www.imt-atlantique.fr/fr/personne/remi-douence</website></author>
   <author><name>Daniel Lafond</name><shortname>D. Lafond</shortname><website>https://www.linkedin.com/in/daniel-lafond-2650531a7</website></author>
   <author><name>Quentin Cappart</name><shortname>Q. Cappart</shortname><website>https://www.polymtl.ca/expertises/cappart-quentin-0</website></author>
-  <author student="yes"><name>Anthony Deschênes</name><shortname>A. Deschênes</shortname><website>https://www.linkedin.com/in/anthony-desch%C3%AAnes-1b0b58128</website></author>
+  <author student="yes"><name>Anthony DeschÃªnes</name><shortname>A. DeschÃªnes</shortname><website>https://www.linkedin.com/in/anthony-desch%C3%AAnes-1b0b58128</website></author>
   <author student="yes"><name>Manuel Chastenay</name><shortname>M. Chastenay</shortname><website>https://www.linkedin.com/in/mchastenay</website></author>
   <author><name>Xavier Zwingmann</name><shortname>X. Zwingmann</shortname><website>https://www.linkedin.com/in/xavier-zwingmann-1b393a4</website></author>
   
   <section>
     <title>Reviewed Papers in International Conference Proceedings</title>
     <paper>
-      <reference>Xavier Zwingmann, Jonathan Gaudreault, Manuel Chastenay, Maude Beauchemin, Emilie Lachance, and Claude-Guy Quimper. Reengineering the Digital Manufacturing Workflow – Application to Wood Buildings Prefabrication. To appear in Proceedings of the 11th IFAC Conference on Manufacturing Modelling, Management and Control, 2025</reference>
+      <reference>Xavier Zwingmann, Jonathan Gaudreault, Manuel Chastenay, Maude Beauchemin, Emilie Lachance, and Claude-Guy Quimper. Reengineering the Digital Manufacturing Workflow Â– Application to Wood Buildings Prefabrication. To appear in Proceedings of the 11th IFAC Conference on Manufacturing Modelling, Management and Control, 2025</reference>
     </paper>
     <paper>
-      <reference>Anthony Deschênes, Raphaël Boudreault, Jonathan Gaudreault, and Claude-Guy Quimper. A Mixed-Integer Programming Approach for an Extended Fixed Route Hybrid Electric Aircraft Charging Problem. To appear in Proceedings of the 14th International Conference on Operations Research and Enterprise Systems (ICORES 2025), 2025.</reference>
+      <reference>Anthony DeschÃªnes, RaphaÃ«l Boudreault, Jonathan Gaudreault, and Claude-Guy Quimper. A Mixed-Integer Programming Approach for an Extended Fixed Route Hybrid Electric Aircraft Charging Problem. To appear in Proceedings of the 14th International Conference on Operations Research and Enterprise Systems (ICORES 2025), 2025.</reference>
     </paper>
     <paper>
       <reference>Samuel Cloutier and Claude-Guy Quimper. Cumulative Scheduling with Calendars and Overtime. In Proceedings of the 30th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2024), pages 7:1-7:16, 2024.</reference>
@@ -112,14 +111,14 @@
       
     </paper>
     <paper>
-      <reference>Frédéric Berthiaume and Claude-Guy Quimper. Local Alterations of the Lagrange Multipliers for Enhancing the Filtering of the AtMostNValue. In Proceedings of the 21st International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPIAOR 2024), pages 68-83, 2024.</reference>
+      <reference>FrÃ©dÃ©ric Berthiaume and Claude-Guy Quimper. Local Alterations of the Lagrange Multipliers for Enhancing the Filtering of the AtMostNValue. In Proceedings of the 21st International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPIAOR 2024), pages 68-83, 2024.</reference>
       <file><label>paper</label><path>frederic_berthiaume_cpaior_2024.pdf</path><publish_date>20240528</publish_date></file>
       <file><label>code</label><path>LocalAlterationsAlgorithmAtMostNValue-main.zip</path></file>
       <file><label>slides</label><path>https://easychair.org/smart-slide/slide/B7ts</path></file>
     </paper>
     
     <paper>
-      <reference>Ramiz Gindullin, Nicolas Beldiceanu, Jovial Cheukam-Ngouonou, Rémi Douence, and Claude-Guy Quimper. Composing Biases by Using CP to Decompose Minimal Functional Dependencies for Acquiring Complex Formulae. In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24), pages 8030-8037, 2024.</reference>
+      <reference>Ramiz Gindullin, Nicolas Beldiceanu, Jovial Cheukam-Ngouonou, RÃ©mi Douence, and Claude-Guy Quimper. Composing Biases by Using CP to Decompose Minimal Functional Dependencies for Acquiring Complex Formulae. In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24), pages 8030-8037, 2024.</reference>
       <file><label>paper</label><path>DecompositionsAAAI24.pdf</path><publish_date>20240220</publish_date></file>
       <file><label>report</label><path>reportAAAI2024.pdf</path><publish_date>20240220</publish_date></file>
       <file><label>code</label><path>MapSeekerAAAI24.zip</path><publish_date>20240220</publish_date></file>
@@ -132,7 +131,7 @@
     </paper>
     
     <paper>
-      <reference>Anthony Deschênes, Raphaël Boudreault, Vanessa Simard, Jonathan Gaudreault, and Claude-Guy Quimper. Dynamic Programming for the Fixed Route Hybrid Electric Aircraft Charging Problem. In Proceedings of the 17th International Conference on Combinatorial Optimization and Applications (COCOA 2023), pages 354-365, 2023.</reference>
+      <reference>Anthony DeschÃªnes, RaphaÃ«l Boudreault, Vanessa Simard, Jonathan Gaudreault, and Claude-Guy Quimper. Dynamic Programming for the Fixed Route Hybrid Electric Aircraft Charging Problem. In Proceedings of the 17th International Conference on Combinatorial Optimization and Applications (COCOA 2023), pages 354-365, 2023.</reference>
       <file><label>paper</label><path>COCOA_2023.pdf</path></file>
     </paper>
 
@@ -143,7 +142,7 @@
     </paper>
 
     <paper>
-      <reference>Ramiz Gindullin, Nicolas Beldiceanu, Jovial Cheukam Ngouonou, Rémi Douence and Claude-Guy Quimper. Boolean-Arithmetic Equations: Acquisition and Uses. In Proceedings of the 20th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR&amp;nbsp;2023), pages 378-394, 2023.</reference>
+      <reference>Ramiz Gindullin, Nicolas Beldiceanu, Jovial Cheukam Ngouonou, RÃ©mi Douence and Claude-Guy Quimper. Boolean-Arithmetic Equations: Acquisition and Uses. In Proceedings of the 20th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR&amp;nbsp;2023), pages 378-394, 2023.</reference>
       <file><label>paper</label><path>CPAIOR_2023.pdf</path></file>
     </paper>
 
@@ -153,7 +152,7 @@
     </paper>
 
     <paper>
-      <reference>Nicolas Beldiceanu, Jovial Cheukam Ngouonou, R&amp;eacute;mi Douence, Ramiz Gindullin and Claude-Guy Quimper. Acquiring Maps of Interrelated Conjectures on Sharp Bounds. In Proceedings of the 28th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2022), pages 6:1-6:18, 2022.</reference>
+      <reference>Nicolas Beldiceanu, Jovial Cheukam Ngouonou, RÃ©mi Douence, Ramiz Gindullin and Claude-Guy Quimper. Acquiring Maps of Interrelated Conjectures on Sharp Bounds. In Proceedings of the 28th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2022), pages 6:1-6:18, 2022.</reference>
       <acceptancerate>51</acceptancerate>
       <file><label>paper</label><path>boundseeker.pdf</path><publish_date>20220731</publish_date></file>
       <file><label>poster</label><path>PosterCP2022MapOfConj.pdf</path><publish_date>20220731</publish_date></file>
@@ -167,7 +166,7 @@
       <file><label>code</label><path>CABSC.zip</path><publish_date>20220731</publish_date></file>
     </paper>
     <paper>
-      <reference>Rapha&amp;euml;l Boudreault, Vanessa Simard, Daniel Lafond and Claude-Guy Quimper. A Constraint Programming Approach to Ship Refit Project Scheduling. In Proceedings of the 28th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2022), pages 10:1-10:16, 2022.</reference>
+      <reference>RaphaÃ«l Boudreault, Vanessa Simard, Daniel Lafond and Claude-Guy Quimper. A Constraint Programming Approach to Ship Refit Project Scheduling. In Proceedings of the 28th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2022), pages 10:1-10:16, 2022.</reference>
       <acceptancerate>51</acceptancerate>
       <file><label>paper</label><path>refit.pdf</path><publish_date>20220731</publish_date></file>
       <file><label>code</label><path>https://github.com/raphaelboudreault/chuffed/releases/tag/SBPS</path><publish_date>20220731</publish_date></file>
@@ -201,7 +200,7 @@
       <file><label>talk</label><path>https://aaai-2022.virtualchair.net/poster_aaai9956</path></file>
    </paper>
     <paper>
-      <reference>Rapha&amp;euml;l Boudreault and Claude-Guy Quimper. Improved CP-Based Lagrangian Relaxation Approach with an Application to the TSP. In Proceedings of the 30th International Joint Conference on Artificial Intelligence (IJCAI-21), pages 1374-1380, 2021.</reference>
+      <reference>RaphaÃ«l Boudreault and Claude-Guy Quimper. Improved CP-Based Lagrangian Relaxation Approach with an Application to the TSP. In Proceedings of the 30th International Joint Conference on Artificial Intelligence (IJCAI-21), pages 1374-1380, 2021.</reference>
       <acceptancerate>13.9</acceptancerate>
       <file><label>paper</label><path>CP-LR-TSP_paper.pdf</path><publish_date>20210821</publish_date></file>
       <file><label>code</label><path>improvingSOA_TSP.zip</path><publish_date>20210821</publish_date></file>
@@ -256,7 +255,7 @@
     </paper>
 
     <paper>
-      <reference>Kim Rioux-Paradis, Jonathan Gaudreault, Chloé Redmond, Kento Otomo-Lauzon, Frédéric Bernard, Anthony Deschênes, Claude-Guy Quimper, Simon Boivin, and Pascal Blouin. Learning from historical data to predict electric vehicle taxi consumption and charging time. In Proceedings of the 2018 Winter Simulation Conference (WSC'18), pages 1216-1217, 2018.</reference>
+      <reference>Kim Rioux-Paradis, Jonathan Gaudreault, ChloÃ© Redmond, Kento Otomo-Lauzon, FrÃ©dÃ©ric Bernard, Anthony DeschÃªnes, Claude-Guy Quimper, Simon Boivin, and Pascal Blouin. Learning from historical data to predict electric vehicle taxi consumption and charging time. In Proceedings of the 2018 Winter Simulation Conference (WSC'18), pages 1216-1217, 2018.</reference>
       <file><label>paper</label><path>WSC18.pdf</path></file>
     </paper>
 
@@ -582,11 +581,11 @@
       <file><label>code</label><path>RobustScheduling.zip</path></file>
     </paper>
     <paper>
-      <reference>Christian Bessiere, Clément Carbonnel, Anton Dries, Emmanuel Hebrard, George Katsirelos, Nadjib Lazaar, Nina Narodytska, Claude-Guy Quimper, Kostas Stergiou, Dimosthenis C. Tsouros, and Toby Walsh. Learning Constraints through Partial Queries. Artificial Intelligence, 2023.</reference>
+      <reference>Christian Bessiere, ClÃ©ment Carbonnel, Anton Dries, Emmanuel Hebrard, George Katsirelos, Nadjib Lazaar, Nina Narodytska, Claude-Guy Quimper, Kostas Stergiou, Dimosthenis C. Tsouros, and Toby Walsh. Learning Constraints through Partial Queries. Artificial Intelligence, 2023.</reference>
       <file><label>paper</label><path>https://doi.org/10.1016/j.artint.2023.103896</path></file>
     </paper>
     <paper>
-      <reference>Maude Beauchemin, Marc-André Ménard, Jonathan Gaudreault, Nadia Lehoux, Stéphane Agnard, and Claude-Guy Quimper. Dynamic allocation of human resources: Case study in the metal 4.0 manufacturing industry. International Journal of Production Research, 2022.</reference>
+      <reference>Maude Beauchemin, Marc-AndrÃ© MÃ©nard, Jonathan Gaudreault, Nadia Lehoux, StÃ©phane Agnard, and Claude-Guy Quimper. Dynamic allocation of human resources: Case study in the metal 4.0 manufacturing industry. International Journal of Production Research, 2022.</reference>
       <file><label>paper</label><path>https://doi.org/10.1080/00207543.2022.2139002</path></file>
     </paper>
     <paper>
@@ -712,7 +711,7 @@
   <section>
     <title>Technical Reports</title>
     <paper>
-      <reference>Ramiz Gindullin, Nicolas Beldiceanu, Jovial Cheukam-Ngouonou, Rémi Douence, and Claude-Guy Quimper. Proving Conjectures Acquired by Composing Multiple Biases. Technical Report arXiv:2312.08990, 2023.</reference>
+      <reference>Ramiz Gindullin, Nicolas Beldiceanu, Jovial Cheukam-Ngouonou, RÃ©mi Douence, and Claude-Guy Quimper. Proving Conjectures Acquired by Composing Multiple Biases. Technical Report arXiv:2312.08990, 2023.</reference>
       <file><label>report</label><path>reportAAAI2024.pdf</path></file>
     </paper>
     <paper>
