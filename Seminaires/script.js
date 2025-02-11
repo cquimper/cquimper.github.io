@@ -3,7 +3,7 @@ function init() {
     const today_number = (today.getFullYear() * 100 + (today.getMonth() + 1)) * 100 + today.getDate();
 
     let s = "";
-    const source = "https://cquimper.github.io/Seminaires/seminairesutf8.xml";
+    const source = "https://cquimper.github.io/Seminaires/seminaires.xml";
     fetch(source).then((response) => response.text()).then((xmlString) => {
 	const parser = new DOMParser();
 	const xmlDoc = parser.parseFromString(xmlString, "text/xml");
