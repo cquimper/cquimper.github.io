@@ -1,25 +1,40 @@
 function init() {
-    let today = "20250210";
-    let today_date = new Date();	// TODO: Convertir en YYYYMMDD
+    const today = new Date();
+    const today_number = (today.getFullYear() * 100 + (today.getMonth() + 1)) * 100 + today.getDate();
 
-    // const xml = fs.readFileSync("https://cquimper.github.io/Seminaires/seminaires.xml", "utf8");
-    
     let s = "";
-
-    var myHeaders = new Headers();
-    myHeaders.append('Content-Type','text/plain; charset=UTF-8'); // Utile?
-    //const source = "https://cquimper.github.io/Seminaires/seminaires.xml";
-    const source = "seminaires.xml";
-    fetch(source, myHeaders).then((response) => response.text()).then((xmlString) => {
-	console.log(xmlString);
+    const source = "https://cquimper.github.io/Seminaires/seminairesutf8.xml";
+    fetch(source).then((response) => response.text()).then((xmlString) => {
 	const parser = new DOMParser();
 	const xmlDoc = parser.parseFromString(xmlString, "text/xml");
 
-	const seminars = xmlDoc.querySelectorAll("seminar");
-	seminars.forEach((seminar) => {
-	    s += get_seminar_html(seminar);
-	});
-	document.getElementById("venir").innerHTML = s;
+	const SECTION_TITLES = ["SÉMINAIRE AUJOURD'HUI", "Séminaires à venir", "Séminaires passés"];
+	const QUERY_OPERATOR = ["=", ">", "<"];
+	const REVERSE = [false, false, true];
+
+	for (let section = 0; section < 3; section++) {
+	    const seminaires_results = xmlDoc.evaluate(
+		`/seminars/seminar[(number(year) * 100 + number(month)) * 100 + number(day) ${QUERY_OPERATOR[section]} ${today_number}]`,
+		xmlDoc,
+		null,
+		XPathResult.ORDERED_NODE_ITERATOR_TYPE, null);
+
+	    let section_title = `<h2>${SECTION_TITLES[section]}</h2>`;
+	    seminar_strings = []
+	    for (let current_seminar = seminaires_results.iterateNext();
+		 current_seminar;
+		 current_seminar = seminaires_results.iterateNext()) {
+		if (section_title) {
+		    s += section_title;
+		    section_title = null;
+		}
+		seminar_strings.push(get_seminar_html(current_seminar));
+	    }
+	    if (REVERSE[section])
+		seminar_strings.reverse();
+	    s += seminar_strings.join("");
+	}
+	document.getElementById("seminaires").innerHTML = s;
     });
 }
 
@@ -48,23 +63,22 @@ function get_seminar_html(seminar) {
     const time = timeNode ? timeNode.textContent : "12h00"; // TODO: Read defaults in XML
     const room = roomNode ? roomNode.textContent : "PLT-3775"; // TODO: Read defaults in XML
 
-    let s = `<h3>${WEEK_DAYS[week_day]} ${day} ${MONTHS[month]} ${year}</h3>`;
-    s += `<p style=\"text-align:left;\"><b>${title}</b>`;
+    let s = `<h3>${WEEK_DAYS[week_day]} ${day} ${MONTHS[month - 1]} ${year}</h3>`;
+    s += `<p style=\"text-align:left;\"><b>${title}</b><br>`;
     if (websiteNode)
 	s += `<a href=\"${websiteNode.textContent}\">`;
-    s += `<br>${speaker}</br>`;
+    s += `${speaker}`;
     if (websiteNode)
 	s += "</a>";
     if (jobNode)
 	s += `<br><i>${jobNode.textContent}</i>`;
-    s += "<p>";
+    s += "</p><p>";
     if (time != "")
 	s += `<b>Heure</b>: ${time}<br>`;
-    if (room.startsWith("http")) {
+    if (room.startsWith("http"))
 	s += `<b>Visioconférence</b>: <a href=\"${room}\">Zoom</a>`;
-    } else if (room != "") {
+    else if (room != "")
 	s += `<b>Local</b>: ${room}`;
-    }
     if (zoomNode)
 	s += `<br><b>Visioconférence</b>: <a href=\"${zoomNode.textContent}\">Zoom</a></p>`;
     s += "</p>";
@@ -77,17 +91,12 @@ function get_seminar_html(seminar) {
 	s += "</p>";
     }
 
-    if (abstractNode) {
+    if (abstractNode)
 	s += `<p><b>Résumé: </b><resume>${abstract}</resume></p>`;
-    }
-
-    if (bioNode) {
+    if (bioNode)
 	s += `<p><b>Biographie: </b>${bioNode.textContent}</p>`;
-    }
-
-    if (noteNode) {
+    if (noteNode)
 	s += `<p><b>Note: </b>${noteNode.textContent}</p>`;
-    }
 
     let file_links = [];
     seminar.querySelectorAll("file").forEach((file) => {
@@ -105,4 +114,3 @@ function get_seminar_html(seminar) {
     
     return s + "</div>";
 }
-
