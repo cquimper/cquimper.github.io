@@ -2802,7 +2802,9 @@ Cette présentation abordera ces nouvelles possibilités ainsi que certains déf
 &lt;li&gt;L'utilisation du métamodèle, pièce centrale de l'usine 4.0 répertoriant l'information ainsi que l'intelligence du produit. Ce dernier est utilisé et bonifié par les différents systèmes propres à l'usine afin d'offrir une meilleure cohésion inter-systèmes.&lt;/li&gt;
 &lt;li&gt;La configuration intelligente de produits par le client, régie par un système de contraintes préalablement défini par le manufacturier.&lt;/li&gt;
 &lt;li&gt;L'optimisation des processus et des matériaux de manière automatisée, pouvant être visualisée en temps réel à l'aide d'un jumeau numérique sur l'application Unity.&lt;/li&gt;
-&lt;/ul&gt;</abstract>
+  &lt;/ul&gt;</abstract>
+  <file><label>diapositives</label><path>ManuelChastenay2025.pdf</path></file>
+</seminar>
 </seminar>
 
 
