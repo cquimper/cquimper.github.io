@@ -2813,11 +2813,11 @@ Cette présentation abordera ces nouvelles possibilités ainsi que certains déf
   <year>2025</year>
   <speaker>Yasmeen Hitti</speaker>
   <job>McGill University and Mila Quebec AI Institute</job>
-  <website></website>
   <time>13h30</time>
   <room>https://ulaval.zoom.us/j/3054862029</room>
   <title>Towards Integrating Plant Behavior with Technology</title>
   <abstract>Can plants communicate through technology or even become part of robotic systems? These questions are explored through sensor development, temporal network analysis, and simulation. First, one may ask themselves what sort of data could be best fit to understand a plant's state. To offer a more intimate window into a plant's overall state a custom sensor was built to capture plant electrical signals, offering real-time insights into how plants perceive and react to their environment. These signals provide a new way to interpret plant behavior beyond traditional physiological measurements, enabling more dynamic plant-machine interactions. Further investigating electrical signals and inspired by EEG systems, a network-based temporal analysis was conducted, and signals were mapped over time and space, revealing patterns in plant responses. By applying graph-based techniques, we can better understand how plants process and adapt to changing light conditions, informing the design of interfaces that respond intelligently to plant behavior. Finally, a simulator was built within a reinforcement learning framework, providing a sandbox environment to test out hypotheses. The simulator currently focuses on the behavioral response of plants to light displacement, with the objective of controlling a plant’s shape by moving a light source. The back-end of the simulator is implemented using the Space Colonisation Algorithm. This project provides an artificial modular environment that is simulated to the advancements of plant biological systems all while offering the possibilities of faster discoveries without being constrained by real-world experiments. By bridging biology and technology, this work reimagines plant-machine interaction. Rather than treating plants as passive organisms, it positions them as active participants in automation and robotics, opening new possibilities for agriculture, environmental monitoring, and bio-interactive design.</abstract>
+  <note>The presentation will be given in English.</note>
 </seminar>
 
 
