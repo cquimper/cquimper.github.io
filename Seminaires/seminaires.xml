@@ -2820,6 +2820,18 @@ Cette présentation abordera ces nouvelles possibilités ainsi que certains déf
   <note>The presentation will be given in English.</note>
 </seminar>
 
+<seminar>
+  <day>28</day>
+  <month>2</month>
+  <year>2025</year>
+  <speaker>Mathieu Godbout</speaker>
+  <job>Étudiant au doctorat au Graal</job>
+  <time>13h30</time>
+  <room>PLT-3775</room>
+  <title>Tout ce qui peut mal aller doit être entraîné: une approche antagoniste à la sensibilité au risque en apprentissage par renforcement</title>
+  <abstract>Afin d'être employés dans des contextes à haut risque, les agents d'apprentissage par renforcement doivent faire preuve de prudence dans leurs décisions. Une approche populaire pour inculquer la prudence aux agents consiste à remplacer l'objectif d'optimisation de la récompense espérée de l'agent, qui est neutre par rapport au risque, par la CVaR des récompenses, une mesure décourageant explicitement la prise de risques. Ce changement d'objectif requiert des ajustement algorithmiques pour accorder une importance accrue aux récompenses fortement négatives, lesquels sont généralement regroupés en familles de méthodes par gradient de politique et apprentissage distributionnel. Dans ces travaux, nous prouvons que l'on peut exploiter la formulation duale de la CVaR pour dériver une approche antagoniste et ainsi donner naissance à une troisième famille de méthodes pour l'apprentissage par renforcement avec objectif CVaR. Nous prouvons théoriquement que l'antagoniste peut être approximé de manière efficace et qu'une procédure consistant à alterner entre l'apprentissage de l'agent et de son antagoniste permet d'obtenir une amélioration monotone de la CVaR des récompenses de l'agent. Nous testons ensuite notre approche sur un environnement dédié, démontrant sa viabilité et les interprétations sur les failles probables de l'agent pouvant être extraites de l'antagoniste produit.
+</abstract>
+</seminar>
 
 
 <!-- <seminar> -->
