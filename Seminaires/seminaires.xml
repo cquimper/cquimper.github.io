@@ -2824,6 +2824,30 @@ Cette présentation abordera ces nouvelles possibilités ainsi que certains déf
   <day>28</day>
   <month>2</month>
   <year>2025</year>
+  <speaker>Dominik Richard</speaker>
+  <job>Étudiant au doctorat, laboratoire de programmation par contraintes</job>
+  <time>13h30</time>
+  <room>PLT-3775</room>
+  <title>Recherche locale pour la planification de chemins de couverture avec visibilité étendue imparfaite</title>
+  <abstract></abstract>
+</seminar>
+
+<seminar>
+  <day>7</day>
+  <month>3</month>
+  <year>2025</year>
+  <speaker></speaker>
+  <job></job>
+  <website></website>
+  <time></time>
+  <room></room>
+  <title>Semaine de lecture (pas de séminaire)</title>
+</seminar>
+
+<seminar>
+  <day>14</day>
+  <month>3</month>
+  <year>2025</year>
   <speaker>Mathieu Godbout</speaker>
   <job>Étudiant au doctorat au Graal</job>
   <time>13h30</time>
