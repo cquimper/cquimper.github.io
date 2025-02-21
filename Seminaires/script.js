@@ -57,13 +57,13 @@ function get_seminar_html(seminar) {
     const abstract = abstractNode ? abstractNode.textContent : "";
     const speaker = speakerNode ? speakerNode.textContent : "";
     const day = Number(seminar.querySelector("day").textContent);
-    const month = Number(seminar.querySelector("month").textContent);
+    const month = Number(seminar.querySelector("month").textContent) - 1; // January = 0
     const year = Number(seminar.querySelector("year").textContent);
     const week_day = new Date(year, month, day).getDay();
     const time = timeNode ? timeNode.textContent : "12h00"; // TODO: Read defaults in XML
     const room = roomNode ? roomNode.textContent : "PLT-3775"; // TODO: Read defaults in XML
 
-    let s = `<h3>${WEEK_DAYS[week_day]} ${day} ${MONTHS[month - 1]} ${year}</h3>`;
+    let s = `<h3>${WEEK_DAYS[week_day]} ${day} ${MONTHS[month]} ${year}</h3>`;
     s += `<p style=\"text-align:left;\"><b>${title}</b><br>`;
     if (websiteNode)
 	s += `<a href=\"${websiteNode.textContent}\">`;
