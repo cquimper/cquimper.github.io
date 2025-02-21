@@ -2830,11 +2830,12 @@ Cette présentation abordera ces nouvelles possibilités ainsi que certains déf
   <room>PLT-3775</room>
   <title>Recherche locale pour la planification de chemins de couverture avec visibilité étendue imparfaite</title>
   <abstract>La planification des chemins de couverture en robotique mobile et la théorie de la recherche optimale en recherche opérationnelle partagent un même objectif : optimiser la trajectoire d’un chercheur ou d’une équipe de chercheurs. Cependant, le manque d’échanges entre ces deux communautés limite le transfert de connaissances et l’adoption d’algorithmes compatibles. Nous illustrerons ce lien en formulant le problème de planification de chemin de couverture avec visibilité étendue imparfaite, un problème d'optimisation combinatoire formulé pour l'optimisation des chemins de couverture dans le cadre de recherche de mines sous-marines, du point de vue de la recherche optimale. Nous montrons comment des heuristiques développées pour des problèmes théoriques permettent d'améliorer les méthodes de planification. Notamment, nous aborderons:
-  <ul>
-    <li>Introduction aux concepts de recherche locale stochastique et présentation de l’heuristique LKH, référence pour le célèbre problème du voyageur de commerce.</li>
-    <li>Application de LKH à la résolution de sous-problèmes de planification, permettant une réduction de 15 à 25\% de la longueur des chemins de couverture.</li>
-    <li>Perspectives d’intégration des méthodes heuristiques pour une planification plus efficace en robotique mobile et théorie de la recherche optimale.</li>
-  </ul></abstract>
+  &lt;ul&gt;
+    &lt;li&gt;Introduction aux concepts de recherche locale stochastique et présentation de l’heuristique LKH, référence pour le célèbre problème du voyageur de commerce.&lt;/li&gt;
+    &lt;li&gt;Application de LKH à la résolution de sous-problèmes de planification, permettant une réduction de 15 à 25\% de la longueur des chemins de couverture.&lt;/li&gt;
+    &lt;li&gt;Perspectives d’intégration des méthodes heuristiques pour une planification plus efficace en robotique mobile et théorie de la recherche optimale.&lt;/li&gt;
+  &lt;/ul&gt;
+</abstract>
 </seminar>
 
 <seminar>
