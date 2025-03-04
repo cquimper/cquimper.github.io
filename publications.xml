@@ -97,7 +97,8 @@
       <reference>Xavier Zwingmann, Jonathan Gaudreault, Manuel Chastenay, Maude Beauchemin, Emilie Lachance, and Claude-Guy Quimper. Reengineering the Digital Manufacturing Workflow  Application to Wood Buildings Prefabrication. To appear in Proceedings of the 11th IFAC Conference on Manufacturing Modelling, Management and Control, 2025</reference>
     </paper>
     <paper>
-      <reference>Anthony Deschênes, Raphaël Boudreault, Jonathan Gaudreault, and Claude-Guy Quimper. A Mixed-Integer Programming Approach for an Extended Fixed Route Hybrid Electric Aircraft Charging Problem. To appear in Proceedings of the 14th International Conference on Operations Research and Enterprise Systems (ICORES 2025), 2025.</reference>
+      <reference>Anthony Deschênes, Raphaël Boudreault, Jonathan Gaudreault, and Claude-Guy Quimper. A Mixed-Integer Programming Approach for an Extended Fixed Route Hybrid Electric Aircraft Charging Problem. In Proceedings of the 14th International Conference on Operations Research and Enterprise Systems ICORES - Volume 1, pages 22-31, 2025.</reference>
+      <file><label>paper</label><path>ICORES_2025_Energy.pdf</path></file>
     </paper>
     <paper>
       <reference>Samuel Cloutier and Claude-Guy Quimper. Cumulative Scheduling with Calendars and Overtime. In Proceedings of the 30th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2024), pages 7:1-7:16, 2024.</reference>
