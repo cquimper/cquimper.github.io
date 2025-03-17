@@ -2879,6 +2879,25 @@ Cette présentation abordera ces nouvelles possibilités ainsi que certains déf
 </seminar>
 
 
+<seminar>
+  <day>28</day>
+  <month>3</month>
+  <year>2025</year>
+  <speaker>David Beauchemin</speaker>
+  <job>Étudiant au doctorat au Graal</job>
+  <time>13h30</time>
+  <room>PLT-3775</room>
+  <title>RAG, continuous learning, GRPO: comment améliorer la performance des LLM pour répondre automatiquement aux questions en assurance automobile</title>
+  <abstract>Avec l'entrée en vigueur en 2019 du projet de loi 141,  un assureur peut désormais vendre un produit d'assurance entièrement en ligne sans qu'il soit nécessaire de faire intervenir un agent d'assurance de dommage ou d'assurance vie et santé.
+Toutefois, cette nouvelle possibilité ne supprime pas l'obligation légale de l'assureur d'informer ses clients sur les produits d'assurance.
+Le fait de supprimer potentiellement l'agent d'assurance enlève un élément clé dans la manière habituelle d'informer correctement un client.
+Les assureurs doivent donc trouver de nouvelles façons d'apporter des informations à leurs clients.
+Cette présentation explore l'utilisation des modèles de langue large (LLM) pour répondre aux questions (QnA) de clients en assurance automobile via l'utilisation d'une architecture RAG. Cette présentation va présenter l'état de l'art actuel des LLM en matière de QnA en assurance automobile, différents jeux de données créés pour évaluer et entraîner ces modèles et finalement explorer les pistes de solutions expérimentées pour améliorer la performance (continuous learning, GRPO).
+</abstract>
+</seminar>
+
+
+
 <!-- <seminar> -->
 <!--   <day></day> -->
 <!--   <month></month> -->
