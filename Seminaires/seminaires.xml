@@ -2899,6 +2899,18 @@ Cette présentation explore l'utilisation des modèles de langue large (LLM) pou
 </seminar>
 
 
+<seminar>
+  <day>4</day>
+  <month>4</month>
+  <year>2025</year>
+  <speaker>Anicet Lepetit Ondo</speaker>
+  <job>Étudiant au doctorat, Équipe de Recherche en Ingénierie des ConnAissancEs (ERICAE)</job>
+  <time>13h30</time>
+  <room>PLT-3775</room>
+  <title>Amélioration de la réécriture des requêtes SPARQL pour les alignements complexes d'ontologies</title>
+  <abstract>La réécriture de requêtes SPARQL est un mécanisme fondamental pour interroger de manière uniforme des ontologies hétérogènes sur le Web des données liées. Cependant, la complexité des alignements d’ontologies, en particulier les correspondances riches (c : c), rend ce processus difficile. Les approches existantes se concentrent principalement sur les alignements simples (s : s) et partiellement complexes (s : c), négligeant ainsi les défis posés par des alignements plus expressifs. De plus, la syntaxe complexe de SPARQL constitue un obstacle pour les utilisateurs non experts souhaitant exploiter pleinement les connaissances encapsulées dans les ontologies. Dans le cadre de ce travail, nous proposons une approche innovante de réécriture automatique de requêtes en langage naturel, en s’appuyant sur les principes de transitivité de l’équivalence et les capacités avancées des grands modèles de langage tels que GPT-4. En intégrant ces éléments, notre méthode se distingue par sa capacité à gérer efficacement les alignements complexes, notamment les correspondances (c : c), en exploitant pleinement leur expressivité. Par ailleurs, elle facilite l’accès aux ontologies alignées pour les utilisateurs non familiers avec SPARQL, offrant ainsi une solution flexible pour interroger des données hétérogènes.</abstract>
+</seminar>
+
 
 <!-- <seminar> -->
 <!--   <day></day> -->
