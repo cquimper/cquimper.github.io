@@ -2910,6 +2910,15 @@ Cette présentation explore l'utilisation des modèles de langue large (LLM) pou
   <abstract>Nous présentons une approche basée sur la relaxation lagrangienne basée sur CP pour améliorer le filtrage de la contrainte du problème du sac à dos multidimensionnel. L’algorithme proposé comporte deux phases d’optimisation lagrangienne. La première phase optimise la valeur objective, tout en effectuant un filtrage par coût réduit. La seconde phase améliore le filtrage en effectuant plusieurs optimisations lagrangiennes plus petites pour fixer un sous-ensemble donné de variables non fixées. Nous montrons que les multiplicateurs de Lagrange, à la fin de la première phase, ne sont pas les meilleurs pour choisir le sous-ensemble de variables non fixées. Des expériences sur le problème du sac à dos multidimensionnel OR-Library montrent que notre procédure fournit de meilleures valeurs objectives lorsqu’un délai de cinq minutes est atteint. Cette approche peut accélérer considérablement le processus de résolution. Dans certains cas, l’état de l’art atteint le timeout, mais notre méthode résout les mêmes instances en moins d’une seconde.</abstract>
 </seminar>
 
+<seminar>
+  <day>18</day>
+  <month>4</month>
+  <year>2025</year>
+  <speaker></speaker>
+  <title>Vendredi saint (pas de séminaire)</title>
+  <time></time>
+  <room></room>
+</seminar>
 
 <seminar>
   <day>25</day>
