@@ -2895,7 +2895,8 @@ Toutefois, cette nouvelle possibilité ne supprime pas l'obligation légale de l
 Le fait de supprimer potentiellement l'agent d'assurance enlève un élément clé dans la manière habituelle d'informer correctement un client.
 Les assureurs doivent donc trouver de nouvelles façons d'apporter des informations à leurs clients.
 Cette présentation explore l'utilisation des modèles de langue large (LLM) pour répondre aux questions (QnA) de clients en assurance automobile via l'utilisation d'une architecture RAG. Cette présentation va présenter l'état de l'art actuel des LLM en matière de QnA en assurance automobile, différents jeux de données créés pour évaluer et entraîner ces modèles et finalement explorer les pistes de solutions expérimentées pour améliorer la performance (continuous learning, GRPO).
-</abstract>
+  </abstract>
+  <file><label>présentation</label><path>DavidBeauchemin2025.pdf</path></file>
 </seminar>
 
 <seminar>
@@ -2908,6 +2909,19 @@ Cette présentation explore l'utilisation des modèles de langue large (LLM) pou
   <room>PLT-3775</room>
   <title>Augmentation du filtrage de la contrainte du sac à dos multidimensionnel à l’aide des altérations des multiplicateurs de Lagrange</title>
   <abstract>Nous présentons une approche basée sur la relaxation lagrangienne basée sur CP pour améliorer le filtrage de la contrainte du problème du sac à dos multidimensionnel. L’algorithme proposé comporte deux phases d’optimisation lagrangienne. La première phase optimise la valeur objective, tout en effectuant un filtrage par coût réduit. La seconde phase améliore le filtrage en effectuant plusieurs optimisations lagrangiennes plus petites pour fixer un sous-ensemble donné de variables non fixées. Nous montrons que les multiplicateurs de Lagrange, à la fin de la première phase, ne sont pas les meilleurs pour choisir le sous-ensemble de variables non fixées. Des expériences sur le problème du sac à dos multidimensionnel OR-Library montrent que notre procédure fournit de meilleures valeurs objectives lorsqu’un délai de cinq minutes est atteint. Cette approche peut accélérer considérablement le processus de résolution. Dans certains cas, l’état de l’art atteint le timeout, mais notre méthode résout les mêmes instances en moins d’une seconde.</abstract>
+</seminar>
+
+
+<seminar>
+  <day>11</day>
+  <month>4</month>
+  <year>2025</year>
+  <speaker>Brahim Chaib-draa</speaker>
+  <job>Professeur au département d'informatique et de génie logiciel</job>
+  <time>13h30</time>
+  <room>PLT-3775</room>
+  <title></title>
+  <abstract></abstract>
 </seminar>
 
 <seminar>
