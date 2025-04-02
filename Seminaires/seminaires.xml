@@ -2920,8 +2920,10 @@ Cette présentation explore l'utilisation des modèles de langue large (LLM) pou
   <job>Professeur au département d'informatique et de génie logiciel</job>
   <time>13h30</time>
   <room>PLT-3775</room>
-  <title></title>
-  <abstract></abstract>
+  <title>Agents basés sur le langage : Ancrage, Raisonnement et décision</title>
+  <abstract>Les agents basés sur le langage (LLM-agents) sont aujourd’hui très en vogue. Ils sont censés organiser nos tâches, planifier nos voyages et effectuer toutes sortes d'activités en ligne. Pour raisonner et prendre des décisions, ils utilisent des grands modèles de langage (LLM pour Large Language Models) enrichis d'un planificateur et d’une mémoire. Dans bien des cas, ils peuvent être amenés à interagir avec d’autres agents, que ce soit via la coopération ou la compétition. La plupart des entreprises se mobilisent actuellement pour rendre cette technologie viable, bien qu'il reste encore de nombreux défis à relever.&lt;p&gt;
+Lors de cette présentation, j’expliquerai tout d'abord pourquoi il est pertinent d’« agentifier » les LLM, puis je présenterai l’architecture sous-jacente des LLM-agents, la problématique de l’ancrage, le processus de planification, ainsi que les aspects liés à la coopération et à la compétition entre agents. Une partie sera ensuite consacrée à la question : « Un LLM-agent comprend-il réellement ce qu’il fait ? ». Enfin, je conclurai la présentation par une réflexion sur les impacts négatifs et positifs de cette technologie et quelques prédictions la concernant.
+</abstract>
 </seminar>
 
 <seminar>
