@@ -2950,6 +2950,18 @@ Lors de cette présentation, j’expliquerai tout d'abord pourquoi il est pertin
   <abstract>La réécriture de requêtes SPARQL est un mécanisme fondamental pour interroger de manière uniforme des ontologies hétérogènes sur le Web des données liées. Cependant, la complexité des alignements d’ontologies, en particulier les correspondances riches (c : c), rend ce processus difficile. Les approches existantes se concentrent principalement sur les alignements simples (s : s) et partiellement complexes (s : c), négligeant ainsi les défis posés par des alignements plus expressifs. De plus, la syntaxe complexe de SPARQL constitue un obstacle pour les utilisateurs non experts souhaitant exploiter pleinement les connaissances encapsulées dans les ontologies. Dans le cadre de ce travail, nous proposons une approche innovante de réécriture automatique de requêtes en langage naturel, en s’appuyant sur les principes de transitivité de l’équivalence et les capacités avancées des grands modèles de langage tels que GPT-4. En intégrant ces éléments, notre méthode se distingue par sa capacité à gérer efficacement les alignements complexes, notamment les correspondances (c : c), en exploitant pleinement leur expressivité. Par ailleurs, elle facilite l’accès aux ontologies alignées pour les utilisateurs non familiers avec SPARQL, offrant ainsi une solution flexible pour interroger des données hétérogènes.</abstract>
 </seminar>
 
+<seminar>
+  <day>2</day>
+  <month>5</month>
+  <year>2025</year>
+  <speaker>Sewagnouin Rogia Kpanou</speaker>
+  <job>Étudiante au doctorat, Corbeil Laboratory</job>
+  <time>13h30</time>
+  <room>PLT-3775</room>
+  <title>Prédire les interactions médicamenteuses en contexte de polypharmacie : une approche par apprentissage profond</title>
+  <abstract>La polypharmacie, pratique courante en médecine moderne, accroît significativement le risque d'interactions médicamenteuses et d'effets secondaires indésirables. Tester systématiquement toutes les combinaisons médicamenteuses étant irréaliste, beaucoup d'interactions nocives ne sont découvertes qu'après l'approbation, imposant ainsi une lourde charge aux agences de sécurité sanitaire. Il est donc crucial de développer des outils prédictifs in silico permettant d'identifier et de prioriser les médicaments prometteurs dès les premières étapes du développement, tout en surveillant ceux déjà commercialisés.&lt;p&gt;
+Dans cette présentation, nous démontrerons comment l'apprentissage profond permet de prédire efficacement les effets secondaires des interactions médicamenteuses à partir de leurs structures moléculaires. En focalisant exclusivement sur ces structures, ces modèles offrent une prédiction fiable des effets dès les premiers stades de la découverte de médicaments. Nous renforçons également leur robustesse en les entraînant et en les testant dans des conditions proches de celles du déploiement réel, ce qui améliore leur capacité de généralisation dans des contextes où de nouveaux médicaments sont constamment introduits. Nous avons également développé des méthodes pour extraire des représentations moléculaires pertinentes et robustes, améliorant ainsi la puissance prédictive et l'applicabilité de nos modèles.</abstract>
+</seminar>
 
 <!-- <seminar> -->
 <!--   <day></day> -->
