@@ -587,6 +587,11 @@
   <section>
     <title>Journals / Book Chapters</title>
     <paper>
+      <reference>Anthony Deschênes, Raphaël Boudreault, Jonathan Gaudreault, and Claude-Guy Quimper. The Soft Fixed Route Hybrid Electric Aircraft Charging Problem with Variable Speed. To appear in World Electric Vehicle Journal, 2025.
+      </reference>
+      <file><label>paper</label><path>FRHACP.pdf</path></file>
+    </paper>
+    <paper>
       <reference>Hamed Fahimi and Claude-Guy Quimper. Overload-Checking and Edge-Finding for Robust Cumulative Scheduling. INFORMS Journal of Computing 35(6), pages 1215-1532, 2023.</reference>
       <file><label>paper</label><path>https://doi.org/10.1287/ijoc.2021.0138</path></file>
       <file><label>code</label><path>RobustScheduling.zip</path></file>
