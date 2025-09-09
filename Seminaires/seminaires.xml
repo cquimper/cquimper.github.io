@@ -2964,6 +2964,36 @@ Lors de cette présentation, j’expliquerai tout d'abord pourquoi il est pertin
 Dans cette présentation, nous démontrerons comment l'apprentissage profond permet de prédire efficacement les effets secondaires des interactions médicamenteuses à partir de leurs structures moléculaires. En focalisant exclusivement sur ces structures, ces modèles offrent une prédiction fiable des effets dès les premiers stades de la découverte de médicaments. Nous renforçons également leur robustesse en les entraînant et en les testant dans des conditions proches de celles du déploiement réel, ce qui améliore leur capacité de généralisation dans des contextes où de nouveaux médicaments sont constamment introduits. Nous avons également développé des méthodes pour extraire des représentations moléculaires pertinentes et robustes, améliorant ainsi la puissance prédictive et l'applicabilité de nos modèles.</abstract>
 </seminar>
 
+<seminar>
+  <day>12</day>
+  <month>9</month>
+  <year>2025</year>
+  <speaker>Odalric-Ambrym Maillard</speaker>
+  <job>Chercheur HDR à l’INRIA à Lille (France)</job>
+  <time>13h00</time>
+  <room>PLT-2551</room>
+  <title>Bandit techniques for Reinforcement Learning and experimental sciences</title>
+  <abstract>In this talk, I will provide a short overview of recent results in multi-armed bandit for reinforcement learning theory.
+First, I will show how a novel paradigm from recent advances in bandit theory is reshaping the exploration-exploitation challenge at large, yielding improved algorithms in full-blown reinforcement learning. Then, I will discuss a concrete example of the sim-to-real gap in experimental sciences (especially agroecosystems), revealing a fresh set of challenges to be addressed both from an applied and methodological standpoint. I will conclude with a perspective regarding collective efforts in making simulators and data more available.
+</abstract>
+</seminar>
+
+
+
+<!-- <seminar> -->
+<!--   <day>7</day> -->
+<!--   <month>11</month> -->
+<!--   <year>2025</year> -->
+<!--   <speaker>Yohan Poirier-Ginter</speaker> -->
+<!--   <job></job> -->
+<!--   <website></website> -->
+<!--   <time>13h30</time> -->
+<!--   <room>PLT-3775</room> -->
+<!--   <title></title> -->
+<!--   <abstract></abstract> -->
+<!-- </seminar> -->
+
+
 <!-- <seminar> -->
 <!--   <day></day> -->
 <!--   <month></month> -->
@@ -2985,21 +3015,7 @@ Dans cette présentation, nous démontrerons comment l'apprentissage profond per
 2025
 Local: PLT-3775
 
-24 janvier  Mathieu Bazinet <mathieu.bazinet.2@ulaval.ca>
-31 janvier  marzia.cremona@fsa.ulaval.ca
-7 février   Jean-Thomas
-14 février  Manuel
-21 février  Yasmeen Hitti <yasmeen.hitti@mail.mcgill.ca>
-28 février  Mathieu Godbout <mathieu.godbout.3@ulaval.ca>
-7 mars      Semaine de lecture
-14 mars     Dominik Richard
-21 mars     Anthony
-28 mars     David Beauchemin
-4 avril     Anicet Lepetit Ondo <anicet-lepetit.ondo.1@ulaval.ca>
-11 avril    Brahim
-18 avril    Vendredi saint
-25 avril    Frédéric Berthiaume
-2 mai       Sewagnouin Rogia Kpanou <sewagnouin-rogia.kpanou.1@ulaval.ca>
+7 novembre 2025: Yohan Poirier-Ginter <yohan.poirier-ginter.1@ulaval.ca>
 
 - Quentin Capart
 - Brahim Chaib-draa (il voudrait donner uns séminaire par année. Il voudrait être le dernier à passer cette année)
