@@ -2986,7 +2986,7 @@ First, I will show how a novel paradigm from recent advances in bandit theory is
   <speaker>Pierre Saha Fobougong</speaker>
   <job>Doctorant en sécurité informatique</job>
   <time>13h30</time>
-  <room>à confirmer</room>
+  <room>PLT 2700</room>
   <title>DIDOR: A Decentralized Identifier Based Onion Routing protocol</title>
   <abstract>We propose a new communication protocol, called DIDOR, that provides strong anonymity and is based on a decentralized identifier (DID). The proposed protocol benefits from the persistence, anonymity, and resolvability properties of the DID and integrates a forward secrecy algorithm such as Ephemeral Diffie-Hellman. It is designed to protect the anonymity of communication between parties by combining DID properties and onion routing techniques. The chosen forward secrecy algorithm establishes a shared secret between the sender and the different nodes and strengthens security. The shared secret is then used in each onion layer to encrypt the message. Likewise, DID allow us to offer a protocol that overcomes some of the weaknesses of using digital certificates. Given the prior existence of the decentralized identity management system, our protocol requires less computation at each node, maintains low communication overhead and latency, and does not require directory servers on which most existing protocols rely. We finally analyze the security of our protocol and demonstrate how it can withstand the denial of service attack on DID documents. Overall, this protocol represents a promising approach to providing secure and anonymous communication in a wide range of applications.
   </abstract>
