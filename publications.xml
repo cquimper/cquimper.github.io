@@ -98,6 +98,7 @@
       Optimizing 2D Cutting: A Bin Packing Approach to Minimize Scraps and Maximize their Reusability. In Proceedings of the 31st International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2025), pages 7:1-7:21, 2025.</reference>
       <acceptancerate>39</acceptancerate>
       <file><label>paper</label><path>CP2025ManuelChastenay.pdf</path><publish_date>20250808</publish_date></file>
+      <file><label>video</label><path>configurateur.mp4</path></file>
     </paper>
     <paper>
       <reference>Jovial Cheukam-Ngouonou, Ramiz Gindullin, Claude-Guy Quimper, Nicolas Beldiceanu, and Rémi Douence. Acquiring and Selecting Implied Constraints with an Application to the BinSeq and Partition Global Constraints. To appear in Proceedings of the 22nd International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR 2025), 2025.</reference>
