@@ -2978,6 +2978,19 @@ First, I will show how a novel paradigm from recent advances in bandit theory is
 </abstract>
 </seminar>
 
+<seminar>
+  <day>25</day>
+  <month>9</month>
+  <year>2025</year>
+  <speaker>František Nekovář</speaker>
+  <job>Czech Technical University in Prague</job>
+  <website>https://mrs.fel.cvut.cz/members/phdstudents/frantisek-nekovar</website>
+  <time>11h30</time>
+  <room>PLT-2751</room>
+  <title>Kinematic Vehicle Routing Problems</title>
+  <abstract>In the seminar, we will discuss the formulation of Vehicle Routing Problem(s) in the context of non-trivial vehicle dynamics. The VRP and its generalizations, such as the Traveling Salesman Problem or the Orienteering Problem, are described as a graph of target nodes, where edge costs are typically some function of a distance, such as time of travel or energy spent. Such an approach can model vehicle traveling at either a fixed velocity or one that comes to a full stop on each target visit. This either overestimates or severely limits the performance of a real-world kinematic vehicle, which exhibits higher-order dynamics, such as acceleration or jerk. First, an approximation utilizing model-based optimization in combination with a non-linear activation function will be presented, followed by a hybrid Branch-and-Bound/Mixed-Integer-Programming procedure to obtain exact solutions.</abstract>
+  <bio>The presenter is a Ph.D. student at at the CTU, Faculty of Electrical Engineering. In his research, he explores goal-oriented trajectory planning for multi-rotor Unmanned Aerial Vehicles.</bio>
+</seminar>
 
 <seminar>
   <day>26</day>
