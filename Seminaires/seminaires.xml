@@ -3007,18 +3007,19 @@ First, I will show how a novel paradigm from recent advances in bandit theory is
   <file><label>article</label><path>http://dx.doi.org/10.1007/978-3-031-56396-6_5</path></file>
 </seminar>
 
-<!-- <seminar> -->
-<!--   <day>3</day> -->
-<!--   <month>10</month> -->
-<!--   <year>2025</year> -->
-<!--   <speaker>Kevin Moon</speaker> -->
-<!--   <job></job> -->
-<!--   <website></website> -->
-<!--   <time>13h30</time> -->
-<!--   <room>PLT-2551</room> -->
-<!--   <title></title> -->
-<!--   <abstract></abstract> -->
-<!-- </seminar> -->
+<seminar>
+  <day>3</day>
+  <month>10</month>
+  <year>2025</year>
+  <speaker>Kevin Moon</speaker>
+  <job>Director, Data Science and AI Center, Associate Professor, Dept. of Math &amp; Stat, Utah State University</job>
+  <website>https://artsci.usu.edu/math-stats/directory/faculty/moon-kevin</website>
+  <time>13h30</time>
+  <room>PLT-2551</room>
+  <title>Scalable supervised manifold learning for visualization with random forests and neural networks</title>
+  <abstract>Manifold learning methods provide a powerful approach for uncovering low-dimensional structure in high dimensional data, enabling both discovery and interpretation. However, most manifold learning techniques are unsupervised, which can make them sensitive to noise, irrelevant features, or misaligned with the task of interest. In this talk, I will discuss recent advances in supervised manifold learning that incorporate label information to guide visualization while preserving the underlying geometry of the data. I will present methods based on random forests (RF-PHATE) that capture meaningful structure relevant to supervised tasks without artificially exaggerating class separation, as well as neural network approaches (RF-AE) that address scalability and out-of-sample extension.</abstract>
+  <bio>Dr. Moon earned a bachelor's and master's degree in Electrical Engineering at Brigham Young University, focusing on signal processing. He then obtained an M.S. degree in Mathematics and a Ph.D. in Electrical Engineering at the University of Michigan where his research focused on nonparametric estimation of distributional functionals. Prior to joining Utah State University in 2018, he was a postdoctoral scholar in the Genetics Department and the Applied Math Program at Yale University where he developed machine learning methods for exploratory data analysis with a focus in biomedical applications.</bio>
+</seminar>
 
 
 <!-- <seminar> -->
