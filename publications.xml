@@ -106,7 +106,8 @@
       <file><label>paper</label><path>CPAIOR2025.pdf</path><publish_date>20251110</publish_date></file>
     </paper>
     <paper>
-      <reference>Xavier Zwingmann, Jonathan Gaudreault, Manuel Chastenay, Maude Beauchemin, Emilie Lachance, and Claude-Guy Quimper. Reengineering the Digital Manufacturing Workflow - Application to Wood Buildings Prefabrication. To appear in Proceedings of the 11th IFAC Conference on Manufacturing Modelling, Management and Control, 2025</reference>
+      <reference>Xavier Zwingmann, Jonathan Gaudreault, Manuel Chastenay, Maude Beauchemin, Emilie Lachance, and Claude-Guy Quimper. Reengineering the Digital Manufacturing Workflow - Application to Wood Buildings Prefabrication. In IFAC PapersOnLine 59(10), pages 392-397, 2025</reference>
+      <file><label>paper</label><path>IFAC2025.pdf</path></file>
     </paper>
     <paper>
       <reference>Anthony Deschênes, Raphaël Boudreault, Jonathan Gaudreault, and Claude-Guy Quimper. A Mixed-Integer Programming Approach for an Extended Fixed Route Hybrid Electric Aircraft Charging Problem. In Proceedings of the 14th International Conference on Operations Research and Enterprise Systems ICORES - Volume 1, pages 22-31, 2025.</reference>
