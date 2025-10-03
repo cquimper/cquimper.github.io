@@ -3036,18 +3036,18 @@ First, I will show how a novel paradigm from recent advances in bandit theory is
 <!-- </seminar> -->
 
 
-<!-- <seminar> -->
-<!--   <day>7</day> -->
-<!--   <month>11</month> -->
-<!--   <year>2025</year> -->
-<!--   <speaker>Yohan Poirier-Ginter</speaker> -->
-<!--   <job></job> -->
-<!--   <website></website> -->
-<!--   <time>13h30</time> -->
-<!--   <room>PLT-3775</room> -->
-<!--   <title></title> -->
-<!--   <abstract></abstract> -->
-<!-- </seminar> -->
+<seminar>
+  <day>7</day>
+  <month>11</month>
+  <year>2025</year>
+  <speaker>Yohan Poirier-Ginter</speaker>
+  <job>Doctorant au Laboratoire de vision et systèmes numériques</job>
+  <website></website>
+  <time>13h00</time>
+  <room>À déterminer</room>
+  <title>Editable Physically-based Reflections in Raytraced Gaussian Radiance Fields</title>
+  <abstract>Radiance fields such as 3D Gaussian Splatting allow real-time rendering of scenes captured from photos. They also reconstruct most specular reflections with high visual quality, but typically model them with fake reflected geometry, using primitives behind the reflector. Our goal is to correctly reconstruct the reflector and the reflected objects so that specular reflections can be edited. We present a proof of concept that exploits promising learning-based methods to extract diffuse and specular buffers from photos, as well as geometry and BRDF buffers. Our method builds on three key components. First, by using diffuse and specular buffers of input training views, we optimize a diffuse version of the scene and use path tracing to efficiently generate physically-based specular reflections. Second, we present a specialized training method that allows this process to converge. Finally, we present a fast ray tracing algorithm for 3D Gaussian primitives that enables efficient multi-bounce reflections. Our method reconstructs reflectors and reflected objects, including those not seen in the input images, in a unique scene representation. Our solution allows real-time, consistent editing of captured scenes with specular reflections, including multi-bounce effects and changes in roughness.</abstract>
+</seminar>
 
 
 <!-- <seminar> -->
