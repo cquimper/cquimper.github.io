@@ -734,6 +734,11 @@
       <file><label>report</label><path>reportAAAI2024.pdf</path></file>
     </paper>
     <paper>
+      <reference>Nicolas Beldiceanu, Mats Carlsson, Claude-Guy Quimper, and Maria-Isabel Restrepo-Ruiz. Classifying Pattern and Feature Properties to Get a Θ(n) Checker and Reformulation for Sliding Time-Series Constraints. technical report arXiv:1912.01532, 2019.
+      </reference>
+      <file><label>paper</label><path>https://doi.org/10.48550/arXiv.1912.01532</path></file>
+    </paper>
+    <paper>
       <reference>Ilyess Bachiri, Jonathan Gaudreault, Brahim Chaib-draa, and Claude-Guy Quimper. RLBS: An Adaptive Backtracking Strategy Based on Reinforcement Learning for Combinatorial Optimization. Technical Report, CIRRELT-2015-07, CIRRELT, 2015.
       </reference>
       <file><label>paper</label><path>CIRRELT-2015-07.pdf</path></file>
