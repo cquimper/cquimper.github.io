@@ -3027,8 +3027,8 @@ First, I will show how a novel paradigm from recent advances in bandit theory is
   <month>10</month>
   <year>2025</year>
   <speaker>Paul Viallard</speaker>
-  <job></job>
-  <website></website>
+  <job>Inria Rennes, MALT</job>
+  <website>https://paulviallard.github.io/</website>
   <time>13h30</time>
   <room>PLT-2700</room>
   <title>General High-Probability Regret Bound for Stochastic Multi-Armed Bandits</title>
