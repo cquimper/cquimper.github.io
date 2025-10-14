@@ -3022,18 +3022,20 @@ First, I will show how a novel paradigm from recent advances in bandit theory is
 </seminar>
 
 
-<!-- <seminar> -->
-<!--   <day>24</day> -->
-<!--   <month>10</month> -->
-<!--   <year>2025</year> -->
-<!--   <speaker>Paul Viallard</speaker> -->
-<!--   <job></job> -->
-<!--   <website></website> -->
-<!--   <time>13h30</time> -->
-<!--   <room>PLT-2700</room> -->
-<!--   <title></title> -->
-<!--   <abstract></abstract> -->
-<!-- </seminar> -->
+<seminar>
+  <day>24</day>
+  <month>10</month>
+  <year>2025</year>
+  <speaker>Paul Viallard</speaker>
+  <job></job>
+  <website></website>
+  <time>13h30</time>
+  <room>PLT-2700</room>
+  <title>General High-Probability Regret Bound for Stochastic Multi-Armed Bandits</title>
+  <abstract>The multi-armed bandit framework is central to many applications, from healthcare to recommender systems. A key challenge is minimizing regret, which is the gap between the reward achieved and the best possible reward. Most existing regret bounds are algorithm-specific and hold only in expectation, but real-world settings need high-probability guarantees that apply to individual runs. In this work, we introduce a new algorithm-agnostic regret bound for stochastic bandits that holds with high probability. This result offers a general, interpretable way to assess and control regret across a wide range of bandit algorithms.</abstract>
+  <bio>Paul Viallard is a researcher in Machine Learning at Inria Rennes, France, working in the MALT team. His research focuses on learning theory, with a particular interest in generalization guarantees (through PAC-Bayesian analyses), and more recently bandit theory and (parameter-free) non-convex stochastic optimization. He previously held postdoctoral positions at Inria Paris in the SIERRA team and in the LACODAM team in Rennes, and completed his PhD at Université Jean Monnet Saint-Étienne, where his thesis explored PAC-Bayesian bounds and self-bounding algorithms.</bio>
+  <note>La présentation sera donnée en français.</note>
+</seminar>
 
 
 <seminar>
