@@ -157,7 +157,7 @@
     </paper>
 
     <paper>
-      <reference>Ramiz Gindullin, Nicolas Beldiceanu, Jovial Cheukam Ngouonou, Rémi Douence and Claude-Guy Quimper. Boolean-Arithmetic Equations: Acquisition and Uses. In Proceedings of the 20th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR&amp;nbsp;2023), pages 378-394, 2023.</reference>
+      <reference>Ramiz Gindullin, Nicolas Beldiceanu, Jovial Cheukam-Ngouonou, Rémi Douence and Claude-Guy Quimper. Boolean-Arithmetic Equations: Acquisition and Uses. In Proceedings of the 20th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR&amp;nbsp;2023), pages 378-394, 2023.</reference>
       <file><label>paper</label><path>CPAIOR_2023.pdf</path></file>
     </paper>
 
@@ -167,7 +167,7 @@
     </paper>
 
     <paper>
-      <reference>Nicolas Beldiceanu, Jovial Cheukam Ngouonou, Rémi Douence, Ramiz Gindullin and Claude-Guy Quimper. Acquiring Maps of Interrelated Conjectures on Sharp Bounds. In Proceedings of the 28th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2022), pages 6:1-6:18, 2022.</reference>
+      <reference>Nicolas Beldiceanu, Jovial Cheukam-Ngouonou, Rémi Douence, Ramiz Gindullin and Claude-Guy Quimper. Acquiring Maps of Interrelated Conjectures on Sharp Bounds. In Proceedings of the 28th International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2022), pages 6:1-6:18, 2022.</reference>
       <acceptancerate>51</acceptancerate>
       <file><label>paper</label><path>boundseeker.pdf</path><publish_date>20220731</publish_date></file>
       <file><label>poster</label><path>PosterCP2022MapOfConj.pdf</path><publish_date>20220731</publish_date></file>
@@ -731,7 +731,7 @@
   <section>
     <title>Technical Reports</title>
     <paper>
-      <reference>Jovial Cheukam Ngouonou, Ramiz Gindullin, Claude-Guy Quimper, Nicolas Beldiceanu, and Remi Douence. Incremental Selection of Most-Filtering Conjectures and Proofs of the Selected Conjectures. technical report arXiv:2511.00194, 2025.</reference>
+      <reference>Jovial Cheukam-Ngouonou, Ramiz Gindullin, Claude-Guy Quimper, Nicolas Beldiceanu, and Remi Douence. Incremental Selection of Most-Filtering Conjectures and Proofs of the Selected Conjectures. technical report arXiv:2511.00194, 2025.</reference>
       <file><label>report</label><path>TR2025.pdf</path></file>
     </paper>
     <paper>
