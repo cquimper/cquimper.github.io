@@ -731,7 +731,7 @@
   <section>
     <title>Technical Reports</title>
     <paper>
-      <reference>Jovial Cheukam-Ngouonou, Ramiz Gindullin, Claude-Guy Quimper, Nicolas Beldiceanu, and Remi Douence. Incremental Selection of Most-Filtering Conjectures and Proofs of the Selected Conjectures. technical report arXiv:2511.00194, 2025.</reference>
+      <reference>Jovial Cheukam-Ngouonou, Ramiz Gindullin, Claude-Guy Quimper, Nicolas Beldiceanu, and Remi Douence. Incremental Selection of Most-Filtering Conjectures and Proofs of the Selected Conjectures. Technical Report arXiv:2511.00194, 2025.</reference>
       <file><label>report</label><path>TR2025.pdf</path></file>
     </paper>
     <paper>
@@ -739,7 +739,7 @@
       <file><label>report</label><path>reportAAAI2024.pdf</path></file>
     </paper>
     <paper>
-      <reference>Nicolas Beldiceanu, Mats Carlsson, Claude-Guy Quimper, and Maria-Isabel Restrepo-Ruiz. Classifying Pattern and Feature Properties to Get a Θ(n) Checker and Reformulation for Sliding Time-Series Constraints. technical report arXiv:1912.01532, 2019.
+      <reference>Nicolas Beldiceanu, Mats Carlsson, Claude-Guy Quimper, and Maria-Isabel Restrepo-Ruiz. Classifying Pattern and Feature Properties to Get a Θ(n) Checker and Reformulation for Sliding Time-Series Constraints. Technical Report arXiv:1912.01532, 2019.
       </reference>
       <file><label>paper</label><path>https://doi.org/10.48550/arXiv.1912.01532</path></file>
     </paper>
