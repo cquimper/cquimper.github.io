@@ -3051,6 +3051,24 @@ First, I will show how a novel paradigm from recent advances in bandit theory is
   <abstract>Radiance fields such as 3D Gaussian Splatting allow real-time rendering of scenes captured from photos. They also reconstruct most specular reflections with high visual quality, but typically model them with fake reflected geometry, using primitives behind the reflector. Our goal is to correctly reconstruct the reflector and the reflected objects so that specular reflections can be edited. We present a proof of concept that exploits promising learning-based methods to extract diffuse and specular buffers from photos, as well as geometry and BRDF buffers. Our method builds on three key components. First, by using diffuse and specular buffers of input training views, we optimize a diffuse version of the scene and use path tracing to efficiently generate physically-based specular reflections. Second, we present a specialized training method that allows this process to converge. Finally, we present a fast ray tracing algorithm for 3D Gaussian primitives that enables efficient multi-bounce reflections. Our method reconstructs reflectors and reflected objects, including those not seen in the input images, in a unique scene representation. Our solution allows real-time, consistent editing of captured scenes with specular reflections, including multi-bounce effects and changes in roughness.</abstract>
 </seminar>
 
+<seminar>
+  <day>16</day>
+  <month>12</month>
+  <year>2025</year>
+  <speaker>Dario Paccagnan</speaker>
+  <job>Senior Lecturer, Imperial College London</job>
+  <website>https://www.doc.ic.ac.uk/~dp414/</website>
+  <time>11h00</time>
+  <room>À déterminer</room>
+  <title>Pick to Learn: state-of-the-art safety guarantees for machine learning and control</title>
+  <abstract>AI models are increasingly embedded in scientific research and industrial production, where they inform predictions and drive decisions. Yet, in safety-critical settings including autonomous driving and medical diagnostics, deploying these models requires rigorous safety and performance guarantees - a need that has motivated much recent work at the interface of statistical learning, optimization, and control.&lt;p&gt;
+However, existing approaches, including conformal prediction, test-set methods, and PAC-Bayes bounds, face two major limitations: they either require setting aside part of the dataset to generate guarantees - possibly degrading the quality of the learned model - or they produce bounds that often do not reflect true performance.&lt;p&gt;
+In this talk, I will present a recent line of work that overcomes these limitations by enabling the use of all available data to jointly train models and equip them with tight safety or performance guarantees. The core technical idea is to embed any black-box learner into a suitably constructed meta-algorithm, Pick-to-Learn, which turns the original black-box algorithm into a sample compression scheme from which sharp guarantees can be derived.&lt;p&gt;
+  I will then show how, across a breadth of applications in machine learning and data-driven control, P2L delivers both better-performing models and tighter certificates than the state of the art, highlighting its potential for broad practical impact.</abstract>
+  <bio>Prof. Dario Paccagnan is an Associate Professor at the Department of Computing, Imperial College London where he joined in the Fall 2020. Before that, he was a postdoctoral fellow at the University of California, Santa Barbara. He obtained his PhD from the Automatic Control Laboratory, ETH Zurich, Switzerland, in 2018. He received a B.Sc. and M.Sc. in Aerospace Engineering from the University of Padova, Italy, in 2011 and 2014, and a M.Sc. in Mathematical Modelling and Computation from the Technical University of Denmark in 2014; all with Honors. Dario's interests are at the interface of game theory, control theory, and learning theory with a focus on tackling societal-scale challenges. He was a finalist for the 2019 EECI best PhD thesis award and was recognized with the SNSF Early Postdoc Mobility Fellowship, the SNSF Doc Mobility Fellowship, and the ETH medal for his doctoral work. He is the recipient of the best student paper award (as advisor) at AISTAT 2025.</bio>
+  <file><label>Neurips 23 spotlight</label><path>https://proceedings.neurips.cc/paper_files/paper/2023/hash/3a4f287883609241031e6818bd01133e-Abstract-Conference.html</path></file>
+  <file><label>AISTATS 25 best student paper</label><path>https://proceedings.mlr.press/v258/marks25a.html</path></file>
+</seminar>
 
 <!-- <seminar> -->
 <!--   <day></day> -->
