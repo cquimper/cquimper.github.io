@@ -3059,7 +3059,7 @@ First, I will show how a novel paradigm from recent advances in bandit theory is
   <job>Senior Lecturer, Imperial College London</job>
   <website>https://www.doc.ic.ac.uk/~dp414/</website>
   <time>11h00</time>
-  <room>À déterminer</room>
+  <room>PLT-2573</room>
   <title>Pick to Learn: state-of-the-art safety guarantees for machine learning and control</title>
   <abstract>AI models are increasingly embedded in scientific research and industrial production, where they inform predictions and drive decisions. Yet, in safety-critical settings including autonomous driving and medical diagnostics, deploying these models requires rigorous safety and performance guarantees - a need that has motivated much recent work at the interface of statistical learning, optimization, and control.&lt;p&gt;
 However, existing approaches, including conformal prediction, test-set methods, and PAC-Bayes bounds, face two major limitations: they either require setting aside part of the dataset to generate guarantees - possibly degrading the quality of the learned model - or they produce bounds that often do not reflect true performance.&lt;p&gt;
