@@ -3077,7 +3077,7 @@ In this talk, I will present a recent line of work that overcomes these limitati
   <speaker>Lynda Dib</speaker>
   <job>Doctorante en informatique</job>
   <time>13h30</time>
-  <room>À déterminer</room>
+  <room>PLT-2512</room>
   <title>Explicabilité et interprétabilité des modèles d’intelligence artificielle : concepts, enjeux et classifications</title>
   <abstract>L’explicabilité et l’interprétabilité constituent aujourd’hui des enjeux majeurs dans le développement et l’adoption responsable de l’intelligence artificielle (IA). Face à la complexité croissante des modèles d’apprentissage automatique, en particulier ceux qualifiés de « boîtes noires », comprendre et justifier leurs décisions devient essentiel pour instaurer la confiance, assurer la transparence et soutenir la prise de décision humaine.&lt;p&gt;
 Ce travail propose une synthèse des principaux cadres conceptuels et une introduction structurée aux notions d’explicabilité (explainability) et d’interprétabilité (interpretability), en précisant leurs différences, leurs complémentarités ainsi que les débats terminologiques qui les entourent. Une attention particulière est portée à la classification des approches explicatives selon plusieurs critères :
