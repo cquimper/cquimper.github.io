@@ -3076,7 +3076,7 @@ In this talk, I will present a recent line of work that overcomes these limitati
   <year>2025</year>
   <speaker>Randy Lefebvre</speaker>
   <job>Étudiant au doctorat</job>
-  <time>13h30</time>
+  <time>15h00</time>
   <room>PLT 2500</room>
   <title>PAC and PAC-Bayes; an outsider’s perspective</title>
   <abstract>In this seminar, we revisit PAC and PAC-Bayes concepts through the lens of someone coming from a different field. We start by examining when classical PAC theory is useful and why it was developed in the first place. A simple setting is used to illustrate the core intuitions behind classical PAC. We then introduce the idea of non-uniform bounds, which provides a natural bridge to PAC-Bayes learning. In PAC-Bayes, this non-uniformity allows us to design algorithms that directly select rules while still offering performance guarantees. We conclude with examples of how this framework applies to probabilistic learning and reinforcement learning. The goal of the presentation is to strip away unnecessary complexity and highlight the core intuitions that might make these ideas appealing to a broader community.
