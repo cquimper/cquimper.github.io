@@ -3071,6 +3071,21 @@ In this talk, I will present a recent line of work that overcomes these limitati
 </seminar>
 
 <seminar>
+  <day>18</day>
+  <month>12</month>
+  <year>2025</year>
+  <speaker>Randy Lefebvre</speaker>
+  <job>Étudiant au doctorat</job>
+  <time>13h30</time>
+  <room>PLT 2500</room>
+  <title>PAC and PAC-Bayes; an outsider’s perspective</title>
+  <abstract>In this seminar, we revisit PAC and PAC-Bayes concepts through the lens of someone coming from a different field. We start by examining when classical PAC theory is useful and why it was developed in the first place. A simple setting is used to illustrate the core intuitions behind classical PAC. We then introduce the idea of non-uniform bounds, which provides a natural bridge to PAC-Bayes learning. In PAC-Bayes, this non-uniformity allows us to design algorithms that directly select rules while still offering performance guarantees. We conclude with examples of how this framework applies to probabilistic learning and reinforcement learning. The goal of the presentation is to strip away unnecessary complexity and highlight the core intuitions that might make these ideas appealing to a broader community.
+  </abstract>
+  <note>La présentation sera donnée en anglais.</note>
+  <bio>Randy Lefevbre is a Ph.D. student at Université Laval under the supervision of Audrey Durand. His research in reinforcement learning focuses on how long-term planning affects the generalization of control policies.</bio>
+</seminar>
+
+<seminar>
   <day>19</day>
   <month>12</month>
   <year>2025</year>
@@ -3089,7 +3104,6 @@ Ce travail propose une synthèse des principaux cadres conceptuels et une introd
 &lt;/ul&gt;
 L’objectif est de clarifier les fondements théoriques du domaine et de proposer une vision synthétique et critique des approches existantes, afin de mieux comprendre comment elles contribuent à rendre les modèles d’IA plus transparents, fiables et responsables.</abstract>
 </seminar>
-
 
 <!-- <seminar> -->
 <!--   <day></day> -->
