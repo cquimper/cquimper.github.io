@@ -3105,12 +3105,71 @@ Ce travail propose une synthèse des principaux cadres conceptuels et une introd
 L’objectif est de clarifier les fondements théoriques du domaine et de proposer une vision synthétique et critique des approches existantes, afin de mieux comprendre comment elles contribuent à rendre les modèles d’IA plus transparents, fiables et responsables.</abstract>
 </seminar>
 
+<seminar>
+  <day>16</day>
+  <month>1</month>
+  <year>2026</year>
+  <speaker>Samuel Rouleau</speaker>
+  <job>Étudiant à la maîtrise au Lab-Usine</job>
+  <website></website>
+  <time>13h30</time>
+  <room>PLT-3775</room>
+  <title>Du CAM au SAM: Quand l'Harmonie bat la Précision</title>
+  <abstract>Dans les dernières années, le domaine manufacturier a connu de grandes avancées en matière d'automatisation. Grâce à des technologies comme les machines à commande numérique et les robots industriels, il est maintenant possible de programmer des trajectoires d'outils pour usiner des pièces automatiquement. Cependant, bien que l'usinage soit automatisé, l'étape de programmation des machines reste une tâche laborieuse devant être effectuée manuellement à l'aide de logiciels de fabrication assistée par ordinateur appelés CAM.&lt;p&gt;
+Les outils CAM traditionnels sont conçus pour être génériques, et ne se basent que sur la géométrie des pièces pour générer les trajectoires d'outils. Ils ne possèdent pas d'informations spécifiques sur le produit que l'on désire fabriquer, ce qui rend l'automatisation de ces systèmes difficile. Cela est particulièrement problématique pour la fabrication de produits personnalisés, qui requiert de reprogrammer les machines à chaque nouvelle commande. De plus, pour des produits composés d'un assemblage de plusieurs pièces, les outils CAM génèrent les trajectoires d'outils indépendamment pour chaque pièce, sans prendre en compte comment elles sont assemblées. Cela peut mener à des incohérences entre des pièces devant être assemblées.&lt;p&gt;
+Plusieurs approches ont été tentées pour automatiser la génération des trajectoires d'outils. Cependant, celles-ci s'inscrivent dans le processus CAM traditionnel, et souffrent du manque d'informations. Nous proposons donc un nouveau paradigme pour la génération des trajectoires d'outils. Plutôt que d'utiliser le processus CAM traditionnel, nous avons développé un système qui se base sur des configurateurs de produit pour générer les trajectoires d'outils. Les compagnies œuvrant dans la fabrication de produits personnalisés se munissent généralement de configurateurs de produits spécifiques à leurs gammes de produits. Ces configurateurs contiennent beaucoup plus d'informations que ce qui est disponible dans des logiciels CAM, par exemple des règles d'ingénierie et des règles d'assemblages. Grâce aux informations disponibles dans ces configurateurs, nous avons développé un modèle objet permettant d'automatiser la génération des trajectoires d'outils. De plus, notre modèle génère les trajectoires d'outil en prenant en compte l'ensemble du produit. Il partage les mêmes trajectoires d'outils pour des pièces devant être assemblées, ce qui élimine les incohérences entre celles-ci.</abstract>
+</seminar>
+
+
+<!-- <seminar> -->
+<!--   <day>23</day> -->
+<!--   <month>1</month> -->
+<!--   <year>2026</year> -->
+<!--   <speaker>Randy Lefebvre</speaker> -->
+<!--   <job>Étudiant au doctorat</job> -->
+<!--   <website></website> -->
+<!--   <time>13h30</time> -->
+<!--   <room>PLT-3775</room> -->
+<!--   <title></title> -->
+<!--   <abstract></abstract> -->
+<!-- </seminar> -->
+
+<!-- <seminar> -->
+<!--   <day>30</day> -->
+<!--   <month>1</month> -->
+<!--   <year>2026</year> -->
+<!--   <speaker></speaker> -->
+<!--   <job> doctorat</job> -->
+<!--   <website></website> -->
+<!--   <time>13h30</time> -->
+<!--   <room>PLT-3775</room> -->
+<!--   <title></title> -->
+<!--   <abstract></abstract> -->
+<!-- </seminar> -->
+
+<!-- <seminar> -->
+<!--   <day>20</day> -->
+<!--   <month>2</month> -->
+<!--   <year>2026</year> -->
+<!--   <speaker>Jiayi Hong</speaker> -->
+<!--   <job>Professeur au département d'informatique et de génie logiciel</job> -->
+<!--   <website>https://jiayihong.info/</website> -->
+<!--   <time>13h30</time> -->
+<!--   <room>PLT-3775</room> -->
+<!--   <title></title> -->
+<!--   <abstract>The exponential growth of data necessitates innovative and effective analytical approaches. Visualization serves as a crucial tool for deriving scientific insights and informed decision-making. Within visualization systems, AI often plays a key role in automating complicated and repetitive tasks. To maximize the potential of these systems, it is vital to explore human-AI teaming across diverse scenarios and tasks.&lt;p&gt;
+     In this seminar, I will share my research on designing and evaluating human-AI teaming in various contexts and its impact on both humans and AI. Specifically, I will present our work on supporting plant biologists in constructing cell lineages using AI-supported systems. I will discuss our findings on how human intervention in relabeling training datasets influences AI performance. Furthermore, I will highlight our recent work evaluating large language models' (LLMs) capabilities in interpreting visualizations. To conclude, I will outline my future research directions, including advancing human-AI teaming for real-world challenges, developing AI applications tailored to diverse scenarios, and exploring the untapped potential of LLMs in visualization and beyond.</abstract> -->
+<!-- <bio>Jiayi Hong is a tenure-track Assistant Professor (Professeure adjointe) in the Department of Computer Science and Software Engineering at  Université Laval. Previously, she was a Postdoctoral Research Scholar in  VADER lab, supervised by Ross Maciejewski. She did her PhD in Computer Science at  AVIZ INRIA, Université Paris Saclay, supervised by Tobias Isenberg. She got her M.S. degree in Computer Science from  University of Bristol in 2019 and received her B.Eng. degree at  Zhejiang University in 2018. Her research interest lies in human-AI Teaming, Analytics × AI, and Novel Visual Representations.</bio> -->
+<!-- </seminar> -->
+
+
+
 <!-- <seminar> -->
 <!--   <day></day> -->
 <!--   <month></month> -->
-<!--   <year>2025</year> -->
+<!--   <year>2026</year> -->
 <!--   <speaker></speaker> -->
-<!--   <job></job> -->
+<!--   <job> doctorat</job> -->
 <!--   <website></website> -->
 <!--   <time>13h30</time> -->
 <!--   <room>PLT-3775</room> -->
@@ -3123,12 +3182,35 @@ L’objectif est de clarifier les fondements théoriques du domaine et de propos
 
 <!-- 
 
-2025
+2026
 Local: PLT-3775
 
-26 septembre 2025: Pierre Saha Fobougong <pierre.saha-fobougong.1@ulaval.ca>
-24 octobre 2025: Paul Viallard (Pascal Germain)
-7 novembre 2025: Yohan Poirier-Ginter <yohan.poirier-ginter.1@ulaval.ca>
+16 janvier: Samuel Rouleau
+23 janvier: Randy Lefebvre <randy.lefebvre.1@ulaval.ca>
+30 janvier: Adel (voir Talal)
+6 février: Jean-Thomas Sexton
+13 février:
+20 février: Jiayi Hong
+27 février:
+6 mars: semaine de lecture
+13 mars:
+20 mars:
+27 mars:
+3 avril: vendredi saint
+10 avril: Brahim Chaib-draa
+17 avril:
+24 avril:
+
+
+
+
+
+Samuel
+Jean-Thomas
+Frédéric
+Samuel?
+
+
 
 - Quentin Capart
 - Brahim Chaib-draa (il voudrait donner uns séminaire par année. Il voudrait être le dernier à passer cette année)
