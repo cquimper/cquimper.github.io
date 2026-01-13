@@ -3162,6 +3162,21 @@ De plus, pour des produits composés d'un assemblage de plusieurs pièces, les l
 <bio>Jiayi Hong is a tenure-track Assistant Professor (Professeure adjointe) in the Department of Computer Science and Software Engineering at  Université Laval. Previously, she was a Postdoctoral Research Scholar in  VADER lab, supervised by Ross Maciejewski. She did her PhD in Computer Science at  AVIZ INRIA, Université Paris Saclay, supervised by Tobias Isenberg. She got her M.S. degree in Computer Science from  University of Bristol in 2019 and received her B.Eng. degree at  Zhejiang University in 2018. Her research interest lies in human-AI Teaming, Analytics × AI, and Novel Visual Representations.</bio>
 </seminar>
 
+<seminar>
+  <day>20</day>
+  <month>3</month>
+  <year>2026</year>
+  <speaker>Pierre Miasnikof</speaker>
+  <job>Professeur au département d’opérations et systèmes de décision, FSA</job>
+  <website>https://www.fsa.ulaval.ca/personnel-expert/pierre-miasnikof/</website>
+  <time>13h30</time>
+  <room>PLT-3775</room>
+  <title>Regroupement des noeuds d'un graphe avec une machine de Boltzmann (Graph clustering with Boltzmann machines)</title>
+  <abstract>Le regroupement des nœuds (graph clustering, node clustering) consiste à étiquer les nœuds d'un graphe de telle façon à ce que les nœuds qui partageant une étiquette soient plus densément reliés aux nœuds portant la même étiquette qu'au reste du graphe. Nous transformons ce problème en problème de minimisation de la distance. Nous utilisons une mesure de distance qui est reliée à la densité. Ce problème est modélisé par une reformulation du problème K-medoids du regroupement classique en espace euclidien. Puisque ce problème est NP-dur, sa solution heuristique est obtenue par le biais d'une machine de Boltzmann. Nous comparons nos résultats empiriques à ceux obtenu par l'optimiseur Gurobi. Nous comparons aussi notre formulation à la formulation classique du problème de minimisation de la modularité et de l'algorithme de Louvain.</abstract>
+  <bio>Pierre Miasnikof est professeur adjoint au Département d'opérations et systèmes de décisions de l'Université Laval. Il a obtenu son doctorat en mathématiques appliquées de l'Université de Toronto. Il a ensuite été chercheur post-doctoral  au laboratoire de Fujitsu à la même université. Ses recherches portent sur la science des données et sur la représentation de phénomènes réels par le biais de graphes (complex networks, network science).
+</bio>
+</seminar>
+
 
 
 <!-- <seminar> -->
@@ -3194,8 +3209,8 @@ Local: PLT-3775
 27 février:
 6 mars: semaine de lecture
 13 mars: Samuel Cloutier
-20 mars:
-27 mars:
+20 mars: Pierre Miasnikof
+27 mars: Dominik Richard
 3 avril: vendredi saint
 10 avril: Brahim Chaib-draa
 17 avril: Olivier Gamache <olivier.gamache@norlab.ulaval.ca>  (Norlab)
