@@ -3120,19 +3120,28 @@ Les outils CAM traditionnels sont conçus pour être génériques, et ne se base
 De plus, pour des produits composés d'un assemblage de plusieurs pièces, les logiciels CAM génèrent les trajectoires d'outils indépendamment pour chaque pièce. Or, cela cause des incohérences entre la forme des pièces en raison des approximations utilisées lors de la génération des trajectoires. Ainsi, la qualité de l'assemblage est réduite. Notre alternative génère les trajectoires d'outil en prenant en compte l'ensemble du produit, elle partage donc les mêmes trajectoires d'outils pour des pièces devant être assemblées. Cela permet d'éliminer les incohérences entre les trajectoires d'outils pour l'usinage des pièces.</abstract>
 </seminar>
 
-
-<!-- <seminar> -->
-<!--   <day>23</day> -->
-<!--   <month>1</month> -->
-<!--   <year>2026</year> -->
-<!--   <speaker>Randy Lefebvre</speaker> -->
-<!--   <job>Étudiant au doctorat</job> -->
-<!--   <website></website> -->
-<!--   <time>13h30</time> -->
-<!--   <room>PLT-3775</room> -->
-<!--   <title></title> -->
-<!--   <abstract></abstract> -->
-<!-- </seminar> -->
+<seminar>
+  <day>23</day>
+  <month>1</month>
+  <year>2026</year>
+  <speaker>Randy Lefebvre</speaker>
+  <job>Étudiant au doctorat</job>
+  <time>13h30</time>
+  <room>PLT-3775</room>
+  <title>Optimal discounting for offline Input-Driven MDP</title>
+  <abstract>Offline reinforcement learning has gained a lot of popularity for its potential to solve in-
+dustry challenges. However, real-world environments are often highly stochastic and partially
+observable, leading long-term planners to overfit to offline data in model-based settings. Input-
+Driven Markov Decision Processes (IDMDPs) offer a way to work with some of the uncertainty
+by letting designers separate what the agent has control over (states) from what it cannot (in-
+puts) in the environnement. These stochastic external inputs are often difficult to model. Under
+the assumption that the input model will be imperfect, we investigate the bias-variance tradeoff
+under shallow planning in IDMDPs. Paving the way to input-driven planning horizons, we also
+investigate the similarity of optimal planning horizons at different inputs given the structure of
+the input space.
+</abstract>
+  <note>La présentation sera donnée en anglais.</note>
+</seminar>
 
 <!-- <seminar> -->
 <!--   <day>30</day> -->
