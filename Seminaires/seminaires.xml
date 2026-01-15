@@ -3143,18 +3143,22 @@ the input space.
   <note>La présentation sera donnée en anglais.</note>
 </seminar>
 
-<!-- <seminar> -->
-<!--   <day>30</day> -->
-<!--   <month>1</month> -->
-<!--   <year>2026</year> -->
-<!--   <speaker></speaker> -->
-<!--   <job> doctorat</job> -->
-<!--   <website></website> -->
-<!--   <time>13h30</time> -->
-<!--   <room>PLT-3775</room> -->
-<!--   <title></title> -->
-<!--   <abstract></abstract> -->
-<!-- </seminar> -->
+<seminar>
+  <day>30</day>
+  <month>1</month>
+  <year>2026</year>
+  <speaker>Adel Abusitta</speaker>
+  <job>Professeur au département de génie informatique et génie logiciel, Polytechnique Montréal</job>
+  <website>https://www.polymtl.ca/expertises/abusitta-adel</website>
+  <time>13h30</time>
+  <room>PLT-3775</room>
+  <title>Machine Learning–Driven Cybersecurity: What We Know, What We Lack, and What Comes Next</title>
+  <abstract>In this talk, I will first review traditional cybersecurity approaches, with a particular focus on intrusion detection systems and malware analysis, highlighting their strengths and inherent limitations in the face of evolving threats.&lt;p&gt;
+I will then discuss classical machine learning techniques used to address zero-day attacks, examining how feature engineering, supervised learning, and anomaly detection have improved detection capabilities—while also exposing fundamental challenges such as data imbalance, concept drift, and limited generalization.&lt;p&gt;
+Next, the talk will move to advanced machine learning and deep learning approaches designed to counter increasingly sophisticated and adaptive attacks, including AI-powered malware and evasive adversaries. I will highlight both their successes and their critical vulnerabilities, such as susceptibility to adversarial manipulation, data poisoning, and model exploitation.&lt;p&gt;
+  Finally, I will conclude by outlining what is needed in the era of AI-driven cybersecurity, including trustworthy and explainable models, robustness against adversarial attacks, and deployment-aware evaluation methodologies. The talk aims to provide a clear roadmap for future research and practical deployment of machine learning in cybersecurity.</abstract>
+  <bio>Dr. Adel Abusitta is an Assistant Professor in the Department of Computer and Software Engineering at Polytechnique Montréal. His research bridges the domains of Artificial Intelligence (AI) and Cybersecurity, focusing on advancing AI to enhance intelligent threat analysis and designing robust AI models resistant to adversarial attacks. He leads the Security and Trustworthy AI (STAI) Lab and is a member of the Multidisciplinary Institute for Cybersecurity and Cyber Resilience (IMC²). Dr. Abusitta actively collaborates with researchers at the Institute for Data Valorization (IVADO), the Quebec Artificial Intelligence Institute (MILA), and the Communications Security Establishment (CSE) Canada. Previously, he developed robust AI-powered malware analysis frameworks in collaboration with Defence Research and Development Canada (DRDC). He has also worked closely with industry partners to establish best practices for synthesizing sensitive data and enabling privacy-preserving machine learning without compromising model accuracy. Dr. Abusitta earned his Ph.D. in Computer Engineering from the University of Montreal and completed a postdoctoral fellowship at McGill University.</bio>
+</seminar>
 
 <seminar>
   <day>20</day>
