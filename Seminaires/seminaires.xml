@@ -3177,6 +3177,22 @@ Next, the talk will move to advanced machine learning and deep learning approach
 </seminar>
 
 <seminar>
+  <day>27</day>
+  <month>2</month>
+  <year>2026</year>
+  <speaker>Michael McGuffin</speaker>
+  <job>Professeur, Département de génie logiciel et TI, École Technologie Supérieure, Montréal</job>
+  <website>https://profs.etsmtl.ca/mmcguffin/</website>
+  <time>13h30</time>
+  <room>https://ulaval.zoom.us/j/3054862029</room>
+  <title>Quantum Computing for Curious Computer Scientists</title>
+  <abstract>Quantum computing (QC) leverages subtle physical phenomena to achieve computational performance beyond what is classically possible.  At the same time, QC's heavy use of technical jargon makes it difficult for newcomers to join the field.  In this talk, I show a path for computer scientists into QC, and argue why the field can be particularly enticing.  First, we will consider general heuristics for choosing a research field or topic, and strategies for learning a new field such as QC.  Second, we will cover some basics of QC, and learn how to simulate a quantum circuit by multiplying matrices together.  This provides a convenient, accessible model for non-experts to investigate paradoxes and build intuition for phenomena such as superposition and entanglement.  Third, we will see how quantum circuits can be visualized.  Finally, we will learn about tensor networks as a way to accelerate the simulation of circuits, and as a direction for future research.</abstract>
+<bio>Michael McGuffin is a Professor at ETS in Montreal, Canada, where his students have done research in human-computer interaction, information visualization, virtual and augmented reality.  In 2009, his paper at the IEEE Information Visualization Conference (InfoVis 2009) received an Honorable Mention. Most recently, McGuffin has been focused on visualization applied to quantum computing, and is helping to establish a new institute in quantum science and engineering.</bio>
+  <note>Cette présentation sera en anglais, mais les questions en français seront très bienvenues.</note>
+</seminar>
+
+
+<seminar>
   <day>20</day>
   <month>3</month>
   <year>2026</year>
@@ -3220,7 +3236,7 @@ Local: PLT-3775
 6 février: Jean-Thomas Sexton
 13 février: Théophile Berteloot <theophile.berteloot.1@ulaval.ca> Étudiant de Richard
 20 février: Jiayi Hong
-27 février:
+27 février: Michael McGuffin <michael.mcguffin@etsmtl.ca>
 6 mars: semaine de lecture
 13 mars: Samuel Cloutier
 20 mars: Pierre Miasnikof
