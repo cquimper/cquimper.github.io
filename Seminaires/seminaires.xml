@@ -3162,6 +3162,24 @@ Next, the talk will move to advanced machine learning and deep learning approach
   <bio>Dr. Adel Abusitta is an Assistant Professor in the Department of Computer and Software Engineering at Polytechnique Montréal. His research bridges the domains of Artificial Intelligence (AI) and Cybersecurity, focusing on advancing AI to enhance intelligent threat analysis and designing robust AI models resistant to adversarial attacks. He leads the Security and Trustworthy AI (STAI) Lab and is a member of the Multidisciplinary Institute for Cybersecurity and Cyber Resilience (IMC²). Dr. Abusitta actively collaborates with researchers at the Institute for Data Valorization (IVADO), the Quebec Artificial Intelligence Institute (MILA), and the Communications Security Establishment (CSE) Canada. Previously, he developed robust AI-powered malware analysis frameworks in collaboration with Defence Research and Development Canada (DRDC). He has also worked closely with industry partners to establish best practices for synthesizing sensitive data and enabling privacy-preserving machine learning without compromising model accuracy. Dr. Abusitta earned his Ph.D. in Computer Engineering from the University of Montreal and completed a postdoctoral fellowship at McGill University.</bio>
 </seminar>
 
+
+<seminar>
+  <day>6</day>
+  <month>2</month>
+  <year>2026</year>
+  <speaker>Jean-Thomas Sexton</speaker>
+  <job>Étudiant au doctorat, Lab-Usine</job>
+  <time>13h30</time>
+  <room>PLT-3775</room>
+  <title>Suivi de pièces industrielles en temps réel par modélisation géométrique (et différentiable!) de l'environment manufacturier</title>
+  <abstract>Le suivi précis de pièces industrielles à partir de modèles CAD et de caméras de profondeur ouvre des perspectives très intéressantes pour le secteur manufacturier. Dans le cas étudié, nous nous intéressons plus particulièrement à la réalité augmentée spatiale afin d'assister des soudeurs dans la fabrication de salles blanches. Dans un tel contexte, les pièces observées n’évoluent presque jamais librement; leurs mouvements étant contraints par l’environnement de production. En effet, qu’il s’agisse des tables de travail, des convoyeurs ou de l’outillage, ignorer ces contraintes peut mener à des solutions complètement invalides et/ou rendre les méthodes de suivi plus suceptibles au bruit, occultations, et imprécisions propres aux environnements industriels.&lt;p&gt;
+Nous discuterons comment une modélisation géométrique explicite du procédé manufacturier peut être intégrée à des algorithmes de suivi existants, notamment ceux fondés sur le recalage géométrique tel ICP. L'exploitation directe des contraintes imposées par l'environnement permet de réduire l'espace de recherche, permettant des calculs à la fois plus précis et plus rapides, permettant donc d'offir plus de latitude pour afficher des informations pertinentes dans un contexte de réalité augmentée en temps réel.&lt;p&gt;
+La représentation des transformations géométriques est un aspect important de notre appoche. En adoptant une représentation qui est à la fois cohérente avec les mouvements contraints du procédé et différentiable, ces algorithmes peuvent être intégrés dans un cadre de programmation différentiable, permettant de différencier le résultat du suivi par rapport à ses entrées. Cela rend possible l’entraînement de réseaux de neurones, par exemple pour la segmentation, en fonction de leur impact direct sur la précision du suivi, permettant ainsi encore plus de précision tout en conservant les garanties géométriques nécessaires à une utilisation industrielle robuste.
+</abstract>
+</seminar>
+
+
+
 <seminar>
   <day>20</day>
   <month>2</month>
@@ -3209,19 +3227,46 @@ Next, the talk will move to advanced machine learning and deep learning approach
 </seminar>
 
 
+<!-- <seminar> -->
+<!--   <day>27</day> -->
+<!--   <month>3</month> -->
+<!--   <year>2026</year> -->
+<!--   <speaker>Dominik Richard</speaker> -->
+<!--   <job>Étudiant au doctorat en informatique</job> -->
+<!--   <time>13h30</time> -->
+<!--   <room>PLT-3775</room> -->
+<!--   <title></title> -->
+<!--   <abstract></abstract> -->
+<!-- </seminar> -->
+
+
+<!-- <seminar> -->
+<!--   <day>30</day> -->
+<!--   <month>3</month> -->
+<!--   <year>2026</year> -->
+<!--   <speaker>Arthur Ouaknine</speaker> -->
+<!--   <job>Chercheur postdoctoral, Université McGill</job> -->
+<!--   <website>https://arthurouaknine.github.io/</website> -->
+<!--   <time>13h30</time> -->
+<!--   <room>PLT-3775</room> -->
+<!--   <title></title> -->
+<!--   <abstract></abstract> -->
+<!-- </seminar> -->
+
 
 <!-- <seminar> -->
 <!--   <day></day> -->
 <!--   <month></month> -->
 <!--   <year>2026</year> -->
 <!--   <speaker></speaker> -->
-<!--   <job> doctorat</job> -->
+<!--   <job></job> -->
 <!--   <website></website> -->
 <!--   <time>13h30</time> -->
 <!--   <room>PLT-3775</room> -->
 <!--   <title></title> -->
 <!--   <abstract></abstract> -->
 <!-- </seminar> -->
+
 
 
 </seminars>
@@ -3242,6 +3287,7 @@ Local: PLT-3775
 13 mars: Samuel Cloutier
 20 mars: Pierre Miasnikof
 27 mars: Dominik Richard
+30 mars: Arthur Ouaknine (Gabriel Jeanson et Philippe Giguère)
 3 avril: vendredi saint
 10 avril: Brahim Chaib-draa
 17 avril: Olivier Gamache <olivier.gamache@norlab.ulaval.ca>  (Norlab)
