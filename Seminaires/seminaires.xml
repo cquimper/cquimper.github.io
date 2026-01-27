@@ -3178,7 +3178,21 @@ La représentation des transformations géométriques est un aspect important de
 </abstract>
 </seminar>
 
-
+<seminar>
+  <day>13</day>
+  <month>2</month>
+  <year>2026</year>
+  <speaker>Théophile Berteloot</speaker>
+  <job>Étudiant au doctorat</job>
+  <website></website>
+  <time>13h30</time>
+  <room>PLT-3775</room>
+  <title>Analyse et détection de la toxicité dans les conversations Reddit</title>
+  <abstract>Le volume de textes publiés en ligne a augmenté de manière exponentielle au cours des dernières années. Ce contenu doit être modéré afin de respecter les lois et les conditions d’utilisation des plateformes, mais aussi pour permettre la création d’espaces où les utilisateurs peuvent s’exprimer sans crainte de harcèlement ou d’abus. Des progrès significatifs ont été réalisés dans la détection automatique de la toxicité au sein des conversations en ligne. Cependant, même les modèles de l’état de l’art présentent encore des lacunes importantes, notamment en ce qui concerne la prise en compte du contexte conversationnel et des formes subtiles de toxicité.&lt;p&gt;
+Dans cet article, nous introduisons un nouveau jeu de données collecté à partir de Reddit, comprenant plus de 500 000 conversations issues de 20 subreddits différents. Chaque subreddit possède un ensemble de règles que les messages doivent respecter, appliquées à la fois par la plateforme et par les modérateurs des communautés. Ces règles incluent systématiquement des mentions liées à la toxicité, au respect des autres utilisateurs, ou à l’interdiction du harcèlement et des insultes. Le jeu de données contient non seulement les conversations complètes, mais également les messages supprimés par les modérateurs ainsi que ceux supprimés par leurs auteurs. Cela permet de disposer d’annotations implicites produites par des modérateurs humains qualifiés.&lt;p&gt;
+Enfin, nous comparons plusieurs modèles de l’état de l’art sur ce jeu de données et proposons l’utilisation de GNN (Graph Neural Network) afin de mieux modéliser le contexte conversationnel et d’améliorer la détection de la toxicité.
+</abstract>
+</seminar>
 
 <seminar>
   <day>20</day>
