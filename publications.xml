@@ -94,6 +94,14 @@
   <section>
     <title>Reviewed Papers in International Conference Proceedings</title>
     <paper>
+      <reference>Frédéric Berthiaume et Claude-Guy Quimper. The Theory of Lagrangian Filtering Zones: A Case Study on the Knapsack Constraint. To appear In Proceedings of the 23rd International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR 2026), 2026.</reference>
+      <acceptancerate>38</acceptancerate>
+    </paper>
+    <paper>
+      <reference>Antoine Laviolette, Claude-Guy Quimper and Raphaël Boudreault. Cost-Minimal Parameter Correction Subsets for Unsatisfiable Constraint Problems. To appear In Proceedings of the 23rd International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR 2026), 2026.</reference>
+      <acceptancerate>38</acceptancerate>
+    </paper>
+    <paper>
       <reference>Manuel Chastenay, Xavier Zwingmann, Claude-Guy Quimper, Jonathan Gaudreault. 	
       Optimizing 2D Cutting: A Bin Packing Approach to Minimize Scraps and Maximize their Reusability. In Proceedings of the 31st International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2025), pages 7:1-7:21, 2025.</reference>
       <acceptancerate>39</acceptancerate>
