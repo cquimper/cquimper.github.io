@@ -3243,17 +3243,21 @@ Enfin, nous comparons plusieurs modèles de l’état de l’art sur ce jeu de d
 </seminar>
 
 
-<!-- <seminar> -->
-<!--   <day>27</day> -->
-<!--   <month>3</month> -->
-<!--   <year>2026</year> -->
-<!--   <speaker>Dominik Richard</speaker> -->
-<!--   <job>Étudiant au doctorat en informatique</job> -->
-<!--   <time>13h30</time> -->
-<!--   <room>PLT-3775</room> -->
-<!--   <title></title> -->
-<!--   <abstract></abstract> -->
-<!-- </seminar> -->
+<seminar>
+  <day>27</day>
+  <month>3</month>
+  <year>2026</year>
+  <speaker>Dominik Richard</speaker>
+  <job>Étudiant au doctorat en informatique</job>
+  <time>13h30</time>
+  <room>PLT-3775</room>
+  <title>Optimiser les trajectoires de recherche maritime par branch-and-bound et diagrammes de décision</title>
+  <abstract>Au terme de la Seconde Guerre mondiale, le mathématicien Bernard Osgood Koopman observe que plusieurs problèmes stratégiques impliquant la recherche d’une cible mobile dans un environnement incertain peuvent être unifiés sous un formalisme mathématique commun : ce que nous appelons aujourd’hui la théorie de la recherche. Considérons le cas de l’USS Indianapolis, coulé par la marine impériale japonaise en 1945 dans l’océan Pacifique. Sur les 1195 membres d’équipage, 890 survivent à l’attaque initiale, mais dérivent pendant près de quatre jours en mer, confrontés à la déshydratation et aux attaques de requins. Seuls environ 30 % d’entre eux seront retrouvés vivants. Dans un tel contexte, une question cruciale se pose : comment planifier une mission de recherche afin de maximiser les chances de trouver des survivants ?&lt;p&gt;
+
+Pour répondre à cette question, nous formulons le problème du chemin de recherche optimal (Optimal Search Path, OSP). Étant donnée une estimation probabiliste des déplacements d’une cible dans une région d’intérêt, l’objectif est de déterminer la trajectoire d’un aéronef maximisant probabilité de détection. Ce problème est NP-difficile. À ce jour, il n’existe pas d’algorithme polynomial pouvant le résoudre à optimalité. L’approche par branch-and-bound constitue actuellement une méthode de référence pour résoudre l’OSP de manière exacte. La performance d’un tel algorithme repose sur quatre éléments clés : la rapidité des branchements, la taille de l’arbre de recherche exploré, la qualité des bornes duales et la capacité à produire rapidement des solutions réalisables de haute qualité.&lt;p&gt;
+
+Dans cette présentation, nous montrerons comment des avancées méthodologiques issues de la programmation par contraintes — plus particulièrement les diagrammes de décision en optimisation — peuvent renforcer les algorithmes de planification pour l’OSP. Nous verrons que l’intégration de ces outils permet d’améliorer simultanément les quatre critères précédentes, ouvrant la voie à des méthodes exactes plus efficaces pour la recherche maritime sous incertitude.</abstract>
+</seminar>
 
 
 <!-- <seminar> -->
