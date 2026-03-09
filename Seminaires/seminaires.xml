@@ -3226,6 +3226,21 @@ Enfin, nous comparons plusieurs modèles de l’état de l’art sur ce jeu de d
   <note>Cette présentation sera en anglais, mais les questions en français seront très bienvenues.</note>
 </seminar>
 
+<seminar>
+  <day>13</day>
+  <month>3</month>
+  <year>2026</year>
+  <speaker>Samuel Cloutier</speaker>
+  <job>Doctorant au laboratoire de programmation par contraintes</job>
+  <time>13h30</time>
+  <room>PLT-3775</room>
+  <title>Améliorer le vérificateur de surcharge de la contrainte Cumulative avec un raisonnement sur les consommations entières</title>
+  <abstract>Le problème d’ordonnancement de projet contraint par les ressources est fréquemment étudié pour ses applications dans divers contextes industriels. Ce problème consiste à déterminer quand exécuter des tâches données afin de minimiser la durée du projet tout en respectant des contraintes de précédence et de ressource. Malgré son apparence simple, il s’agit d’un problème combinatoire difficile nécessitant des méthodes de résolution adaptées comme la programmation par contraintes.&lt;p&gt;
+Dans le contexte de la programmation par contraintes, la contrainte Cumulative représente exactement les contraintes de ressource du problème initial. Cependant, étant donné la difficulté algorithmique associée à filtrer complètement la contrainte Cumulative, plusieurs règles d’élagage plus faibles sont proposées dans la littérature. Malheureusement, peu de ces règles exploitent la structure engendrée par le caractère entier des consommations de ressource. Nous proposons donc d’augmenter le vérificateur de surcharge, règle déjà connue et utilisée dans les solveurs de contraintes, avec un raisonnement basé sur le problème du sac à dos.&lt;p&gt;
+Nous discuterons ensuite de comment implémenter une telle règle dans un solveur faisant de l’apprentissage oisif de clauses, puis des avantages associés pour la résolution de notre problème d’ordonnancement.</abstract>
+</seminar>
+
+
 
 <seminar>
   <day>20</day>
