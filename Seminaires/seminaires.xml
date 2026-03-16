@@ -3289,6 +3289,21 @@ Dans cette présentation, nous montrons comment des avancées méthodologiques i
 <!-- </seminar> -->
 
 
+
+<seminar>
+  <day>24</day>
+  <month>4</month>
+  <year>2026</year>
+  <speaker>Jovial Cheukam Ngouonou</speaker>
+  <job>Chercheur postdoctoral, Département d'opérations et systèmes de décision, Université Laval</job>
+  <time>13h30</time>
+  <room>PLT-3775</room>
+  <title>Détection automatique d'équivalence entre programmes linéaires ayant le meme nombre de variables et contraintes : définition du problème et méthodes exactes</title>
+  <abstract>Motivé par le désir d’améliorer le quotidien des enseignants en modélisation mathématique en automatisant la correction des programmes linéaires, nous établissons des propriétés mathématiques inhérentes à l’équivalence des programmes linéaires ayant un même nombre de contraintes et un même nombre de variables. Ces propriétés caractérisent l’équivalence des matrices par permutations des lignes et des colonnes et mises à l’échelle des lignes ou des colonnes. En s’appuyant sur ces propriétés, nous proposons des méthodes procédurales et déclaratives permettant d’établir l’équivalence ou la non équivalence entre deux programmes linéaires ayant le même nombre de variables et le même nombre de contraintes. Le test des méthodes proposées sur des problèmes de flot maximal, des problèmes de régression linéaire, des problèmes de régression polynomiale et des problèmes du sac à dos fractionnaire multidimensionnel donne des résultats permettant la mise sur pied d’un système de correction automatique des programmes linéaires et de vérification logicielle des solveurs en programmation linéaire.</abstract>
+</seminar>
+
+
+
 <!-- <seminar> -->
 <!--   <day></day> -->
 <!--   <month></month> -->
@@ -3326,7 +3341,7 @@ Local: PLT-3775
 3 avril: vendredi saint
 10 avril: Brahim Chaib-draa
 17 avril: Olivier Gamache <olivier.gamache@norlab.ulaval.ca>  (Norlab)
-24 avril:
+24 avril: Jovial?
 
 
 
