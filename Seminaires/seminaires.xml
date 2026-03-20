@@ -3275,18 +3275,27 @@ Dans cette présentation, nous montrons comment des avancées méthodologiques i
 </seminar>
 
 
-<!-- <seminar> -->
-<!--   <day>30</day> -->
-<!--   <month>3</month> -->
-<!--   <year>2026</year> -->
-<!--   <speaker>Arthur Ouaknine</speaker> -->
-<!--   <job>Chercheur postdoctoral, Université McGill</job> -->
-<!--   <website>https://arthurouaknine.github.io/</website> -->
-<!--   <time>13h30</time> -->
-<!--   <room>PLT-3775</room> -->
-<!--   <title></title> -->
-<!--   <abstract></abstract> -->
-<!-- </seminar> -->
+<seminar>
+  <day>30</day>
+  <month>3</month>
+  <year>2026</year>
+  <speaker>Arthur Ouaknine</speaker>
+  <job>Chercheur postdoctoral, Université McGill</job>
+  <website>https://arthurouaknine.github.io/</website>
+  <time>13h30</time>
+  <room>PLT-3775</room>
+  <title>Exploitation de modèles de fondation visuels pour la télédétection forestière par drone</title>
+  <abstract>Les écosystèmes forestiers sont des zones clés de biodiversité et des puits de carbone critiques nécessitant une surveillance continue. L'imagerie par drone à haute résolution offre des opportunités pour quantifier les caractéristiques individuels des arbres, mais pose des défis de généralisation à travers différents capteurs, résolutions et conditions environnementales.&lt;p&gt;
+Cette présentation expose des travaux récents sur les modèles de fondation visuels (VFMs) pour la détection, la segmentation et la classification d'arbres individuels à grande échelle.&lt;p&gt;
+Nous décrivons d'abord une approche de bout en bout améliorant le modèle Segment Anything (SAM) avec des données de Modèle Numérique de Surface (MNS). Bien que performante, cette méthode nécessite un ré-entraînement pour chaque localisation, limitant la généralisation.&lt;p&gt;
+Nous présentons ensuite un pipeline modulaire décomposant la tâche en composants spécialisés : (1) un détecteur généraliste de couronnes d'arbres robuste aux variations de site et d'acquisition, (2) un module de segmentation combinant notre détecteur avec SAM démontrant de fortes performances hors distribution, et (3) un cadre multi-tâches pour l'identification des espèces et l'estimation de la hauteur.&lt;p&gt;
+Cette approche modulaire atteint une forte généralisation à travers des forêts diverses en maintenant des modules de détection et de segmentation à usage général tout en spécialisant uniquement le module de classification final aux conditions locales.
+</abstract>
+<bio>
+Arthur Ouaknine est chercheur postdoctorant à l'&lt;a href="https://www.mcgill.ca/"&gt;Université McGill&lt;/a&gt; et au &lt;a href="https://mila.quebec/"&gt;Mila&lt;/a&gt; – Institut québécois d'intelligence artificielle, où il travaille sur l'apprentissage profond multimodal et multi-tâches pour la télédétection et le suivi de la biodiversité. Il est titulaire de la &lt;a href="https://ivado.ca/en/scholarships-and-grants/entrepreneur-postdoc-fellowships/"&gt;bourse postdoctorale Entrepreneur d'IVADO&lt;/a&gt;, qui soutient ses travaux en surveillance forestière.
+Il a obtenu son doctorat en informatique de l'Institut Polytechnique de Paris. Il a précédemment cofondé et occupé le poste de directeur technique (CTO) de Rubisco AI, une startup spécialisée dans la surveillance de projets de restauration forestière. Il a également été membre de l'équipe de &lt;a href="https://www.climatechange.ai/"&gt;Climate Change AI&lt;/a&gt;, où il a co-organisé les ateliers Climate Change AI aux conférences internationales &lt;a href="https://www.climatechange.ai/events/iclr2024"&gt;ICLR 2024&lt;/a&gt; et &lt;a href="https://www.climatechange.ai/events/neurips2024"&gt;NeurIPS 2024&lt;/a&gt;.
+</bio>
+</seminar>
 
 
 
