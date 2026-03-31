@@ -3297,8 +3297,6 @@ Il a obtenu son doctorat en informatique de l'Institut Polytechnique de Paris. I
 </bio>
 </seminar>
 
-
-
 <seminar>
   <day>10</day>
   <month>4</month>
@@ -3311,12 +3309,17 @@ Il a obtenu son doctorat en informatique de l'Institut Polytechnique de Paris. I
   <abstract>L’IA actuelle nous ressemble-t‑elle vraiment ? Ce séminaire propose de repartir des nouveaux cadres de mesure de l’AGI (Artificial General Intelligence) afin de comparer, de manière systématique, les capacités de l’IA à celles de l’humain. Le résultat est saisissant : les systèmes d’IA de 2026 sont déjà surhumains sur certains axes, mais demeurent très fragiles sur d’autres. Cette intelligence inégale et déconcertante suggère que nous n’avons pas affaire à une simple imitation de l’humain, mais plutôt à une forme d’intelligence xénoïde : proche en apparence, étrangère en profondeur. À partir de ce constat, le séminaire posera une question plus radicale : Et si l’avenir de l’IA n’était pas une intelligence humaine artificielle, mais une intelligence « alien », dont les modes de pensée échapperaient en partie à nos catégories cognitives et philosophiques habituelles ?</abstract>
 </seminar>
 
-
-
-
-
-
-
+<seminar>
+  <day>17</day>
+  <month>4</month>
+  <year>2026</year>
+  <speaker>Olivier Gamache</speaker>
+  <job>Étudiant au doctorat au Norlab</job>
+  <time>13h30</time>
+  <room>PLT-3775</room>
+  <title>Jolie ou Non: Comment bien choisir les paramètres de caméra pour maximiser les performances des algorithmes de navigation autonome visuels</title>
+  <abstract>Le choix des paramètres d’acquisition d’une caméra constitue un élément clé dans les performances des systèmes de navigation autonome basés sur la vision. Le contrôle de l’exposition, en particulier, influence directement la qualité, la dynamique et la stabilité de l’information visuelle exploitée par les algorithmes. Dans des environnements complexes ou à grande plage dynamique (HDR), ces paramètres deviennent déterminants pour assurer la robustesse des tâches de localisation et de perception. Cette présentation introduira ces enjeux dans le cadre des travaux menés au Norlab de l'Université Laval, avant d’explorer les principales méthodes d’ajustement automatique des paramètres de caméra proposées dans l’état de l’art.</abstract>
+</seminar>
 
 <seminar>
   <day>8</day>
