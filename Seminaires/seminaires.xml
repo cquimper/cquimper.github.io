@@ -3322,6 +3322,22 @@ Il a obtenu son doctorat en informatique de l'Institut Polytechnique de Paris. I
 </seminar>
 
 <seminar>
+  <day>24</day>
+  <month>4</month>
+  <year>2026</year>
+  <speaker>Ichrak Hamdi</speaker>
+  <job>Étudiante au doctorat</job>
+  <time>13h30</time>
+  <room>PLT-3775</room>
+  <title>Learning to Respond: Designing Autonomous Cyber Agents for Securing Industrial Cyber-Physical Systems</title>
+  <abstract>When a cyberattack targets an industrial control system — a power grid, a water treatment plant, a manufacturing line — operators often have only seconds to react before physical damage occurs. Traditional intrusion response systems rely on predefined rules or human intervention, both of which struggle to keep pace with sophisticated multi-stage attacks. A natural question arises: can a defense agent learn to select and execute the right countermeasures autonomously, in real time, without compromising the safety of the physical process it protects?&lt;p&gt;
+Answering this question is surprisingly difficult. Industrial cyber-physical systems impose constraints rarely seen in conventional IT security: response actions can have irreversible physical consequences, the attack surface spans both digital and physical layers, and the defender must reason over long, multi-stage attack sequences under uncertainty. Recent work has explored reinforcement learning, game-theoretic moving target defense, and multi-agent coordination to address these challenges, each with notable strengths but also significant limitations — particularly when it comes to scaling standard RL policies to the complex, hierarchical nature of real-world incidents.&lt;p&gt;
+To tackle this, we adopt a hierarchical reinforcement learning approach where a Manager decides the overall defense posture — whether to operate normally, raise an alert, or switch to full containment — while a GRU-based Worker translates these high-level decisions into concrete physical and cyber response actions. This decomposition lets the agent reason about long, multi-stage attack scenarios that standard approaches struggle to handle, all while keeping the physical process within safe operational bounds. However, no response agent operates in isolation: it depends on upstream signals that may be noisy or unreliable, and it faces adversaries intelligent enough to study and exploit the defender’s own response patterns. Building an agent that is not only effective but also cautious in its commitments and resilient in multi-agent adversarial settings where the attacker learns to exploit the defender’s own behavior is the broader ambition driving this work.
+  </abstract>
+  <note>Cette présentation sera donnée en anglais.</note>
+</seminar>
+
+<seminar>
   <day>8</day>
   <month>5</month>
   <year>2026</year>
@@ -3332,6 +3348,8 @@ Il a obtenu son doctorat en informatique de l'Institut Polytechnique de Paris. I
   <title>Détection automatique d'équivalence entre programmes linéaires ayant le meme nombre de variables et contraintes : définition du problème et méthodes exactes</title>
   <abstract>Motivé par le désir d’améliorer le quotidien des enseignants en modélisation mathématique en automatisant la correction des programmes linéaires, nous établissons des propriétés mathématiques inhérentes à l’équivalence des programmes linéaires ayant un même nombre de contraintes et un même nombre de variables. Ces propriétés caractérisent l’équivalence des matrices par permutations des lignes et des colonnes et mises à l’échelle des lignes ou des colonnes. En s’appuyant sur ces propriétés, nous proposons des méthodes procédurales et déclaratives permettant d’établir l’équivalence ou la non équivalence entre deux programmes linéaires ayant le même nombre de variables et le même nombre de contraintes. Le test des méthodes proposées sur des problèmes de flot maximal, des problèmes de régression linéaire, des problèmes de régression polynomiale et des problèmes du sac à dos fractionnaire multidimensionnel donne des résultats permettant la mise sur pied d’un système de correction automatique des programmes linéaires et de vérification logicielle des solveurs en programmation linéaire.</abstract>
 </seminar>
+
+
 
 
 
