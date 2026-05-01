@@ -74,7 +74,8 @@
                     const shortname = authorNode.querySelector('shortname').textContent;
                     // PHP: str_replace(".", "", $author->shortname)
                     const cleanName = shortname.replace(/\./g, '');
-                    const tokens = clean\.split(" ");
+                    //const tokens = clean\.split(" ");
+                    const tokens = cleanName.split(" "); // CGQ
                     // PHP: $tokens[1] . " " . $tokens[0]
                     return prefix + (tokens[1] || "") + " " + (tokens[0] || "");
                 }
