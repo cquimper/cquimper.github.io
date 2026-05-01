@@ -27,7 +27,6 @@
 
     <script>
         async function loadPublications() {
-            const container = document.getElementById('publications-container');
             const params = new URLSearchParams(window.location.search);
 
             try {
@@ -175,6 +174,7 @@
                     htmlOutput += close_list;
                 });
 
+                container = document.getElementById('publications-container');
                 container.innerHTML = htmlOutput;
 
             } catch (error) {
