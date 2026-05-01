@@ -146,7 +146,7 @@ async function loadPublications() {
             htmlOutput += close_list;
         });
 
-        container = document.getElementById("publications-container");
+        container = document.getElementById("main");
 	container.innerHTML = htmlOutput;
     } catch (error) {
         console.error("Error loading publications:", error);
