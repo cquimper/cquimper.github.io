@@ -132,7 +132,7 @@
                                 const nsercName = convertToNsercName(auth);
                                 // PHP logic: replace name, then clean up " and " and ", and "
                                 let tempRef = ref.split(name).join(nsercName);
-                                tempRef = temp .:replace(", and ", ", ").replace(" and ", ", ");
+                                tempRef = tempRef.replace(", and ", ", ").replace(" and ", ", ");
                                 ref = tempRef;
                             });
                         }
