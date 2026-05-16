@@ -21,7 +21,6 @@ async function loadPublications() {
         let today_string = "";
         const todayParam = params.get('today');
         if (todayParam && !isNaN(todayParam)) {
-            // today_string = todayASString(todayParam);
             today_string = todayParam;
         } else {
             const now = new Date();
@@ -154,9 +153,3 @@ async function loadPublications() {
         container.innerHTML = "Error loading publications.";
     }
 }
-
-// Helper to treat a number/string as YYYYMMDD format
-function asString(val) { return String(val); }
-
-// Initialize
-//window.onload = loadPublications;
