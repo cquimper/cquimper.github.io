@@ -21,7 +21,8 @@ async function loadPublications() {
         let today_string = "";
         const todayParam = params.get('today');
         if (todayParam && !isNaN(todayParam)) {
-            today_string = todayASString(todayParam);
+            // today_string = todayASString(todayParam);
+            today_string = todayParam;
         } else {
             const now = new Date();
             const y = now.getUTCFullYear();
