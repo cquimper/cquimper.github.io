@@ -3349,6 +3349,20 @@ To tackle this, we adopt a hierarchical reinforcement learning approach where a 
   <abstract>Motivé par le désir d’améliorer le quotidien des enseignants en modélisation mathématique en automatisant la correction des programmes linéaires, nous établissons des propriétés mathématiques inhérentes à l’équivalence des programmes linéaires ayant un même nombre de contraintes et un même nombre de variables. Ces propriétés caractérisent l’équivalence des matrices par permutations des lignes et des colonnes et mises à l’échelle des lignes ou des colonnes. En s’appuyant sur ces propriétés, nous proposons des méthodes procédurales et déclaratives permettant d’établir l’équivalence ou la non équivalence entre deux programmes linéaires ayant le même nombre de variables et le même nombre de contraintes. Le test des méthodes proposées sur des problèmes de flot maximal, des problèmes de régression linéaire, des problèmes de régression polynomiale et des problèmes du sac à dos fractionnaire multidimensionnel donne des résultats permettant la mise sur pied d’un système de correction automatique des programmes linéaires et de vérification logicielle des solveurs en programmation linéaire.</abstract>
 </seminar>
 
+<seminar>
+  <day>2</day>
+  <month>6</month>
+  <year>2026</year>
+  <speaker>Simon Bertrand</speaker>
+  <job>Étudiant au doctorat</job>
+  <time>13h30</time>
+  <room>PLT-3775</room>
+  <title>Détection de menaces internes à l'aide de l'apprentissage de graphe</title>
+  <abstract>Les menaces internes surviennent lorsqu’un individu ayant des accès privilégiés au sein d’une entreprise utilise ses accès afin de réaliser des actions dangereuses de façon intentionnelle, ou non. Ce type de menaces est très large, allant du vol d’informations aux actions de sabotage.&lt;p&gt;
+ Il est plus qu'intéressant pour les entreprises de trouver des solutions afin de détecter, voire de prévenir ces menaces. Dans cette optique, plusieurs chercheurs se sont intéressés à la problématique de détection automatique de menaces internes. Une approche très répandue est l'analyse des différents journaux d'évènements produits par les systèmes informatiques dans une organisation, et décrivant les activités des utilisateurs. Ces journaux sont notamment utilisés afin de dresser des schémas comportementaux des utilisateurs dans l'objectif d'identifier toute divergence comportementale significative comme étant une menace interne potentielle.&lt;p&gt;
+ Cependant, les solutions de détection actuelles présentent plusieurs limitations qui restreignent leur utilisation dans de vraies entreprises. Une de ces limitations est leur difficulté à considérer de l’information séquentielle profonde, ainsi que les dépendances entre les évènements, deux informations essentielles pour la détection de menaces complexes.  En ce sens, dans ce séminaire, nous proposons un algorithme permettant d’apprendre itérativement une structure de graphe modélisant des relations entre les évènements basées sur leur contexte à court terme et des dépendances connues. Cette structure de graphe permet d’étendre le contexte des évènements utilisés pour calculer leur représentation à travers des réseaux de neurones sur graphe et ainsi améliorer la détection d’évènements malicieux complexes.
+</abstract>
+</seminar>
 
 
 
