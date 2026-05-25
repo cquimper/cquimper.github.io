@@ -3364,6 +3364,23 @@ To tackle this, we adopt a hierarchical reinforcement learning approach where a 
 </abstract>
 </seminar>
 
+<seminar>
+  <day>27</day>
+  <month>5</month>
+  <year>2026</year>
+  <speaker>Gerald Steinbauer-Wagner</speaker>
+  <job>Associate Professor at the Institute of Software Engineering and Artificial Intelligence at Graz University of Technology</job>
+  <website>https://www.tugraz.at/institute/sai/research/group-steinbauer/people/gerald-steinbauer-wagner</website>
+  <time>14h00</time>
+  <room>PLT-3370</room>
+  <title>One mode and frame is not enough - contextualizing robot navigation</title>
+  <abstract>Much research in field robotics focuses on a single mode of navigation. In a complex off-road environment or even in moderate complex urban environment, this approach is prone to fail. In this talk, we motivate why contextualization of navigation is needed and how this can be realized by a navigation architecture. Context here means different environments, different representations, different skills, as well as different reference frames. We will show this with 2 concrete examples from urban robot navigation and from field robotics. Further, we show what skills and capabilities we developed for different contexts. Finally, we will discuss that semi-autonomy and transparency will be needed for robots navigating in the wild, because real fully autonomous systems are scare and robots will need to cooperate with humans in a transparent way.
+</abstract>
+  <bio>Gerald Steinbauer-Wagner is an Associate Professor at the Institute of Software Engineering and Artificial Intelligence at Graz University of Technology, where he completed his Ph.D. in 2006 and his Habilitation in 2017. In 2011, he founded the Autonomous Intelligent Systems (AIS) research group, which operates at the intersection of Software Engineering, Artificial Intelligence, and Robotics.&lt;p&gt;
+His research focuses on the complete perception-cognition-action decision loop for autonomous systems. Specifically, we develop advanced methods and architectures to ensure reliable, trustworthy decision-making and execution in non-deterministic, uncertain real-world environments. The AIS group conducts foundational and applied research into action planning, component diagnosis, robot navigation, and explainable human-robot interaction. Our integrated systems are deployed across diverse application domains, including production, logistics, planetary exploration, forestry, and disaster response.&lt;p&gt;
+Throughout his career, I have held visiting researcher positions at the University of Cape Town, Linköping University, LAAS-CNRS Toulouse, and the National Autonomous University of Mexico. Since 2006, he has successfully supervised 69 MSc students and 17 PhD students, and has held leadership roles in 26 national and European research projects, securing a total budget of several million Euros.
+  </bio>
+</seminar>
 
 
 
