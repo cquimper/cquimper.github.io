@@ -3412,6 +3412,7 @@ Second, the explainable fake news detection framework, Fake-News XAI, combines B
 risk reassessment. These functions improve awareness and reduce phishing susceptibility. Fourth, the User-Personalized Graph-Based Risk Assessment Framework for SMS Smishing (UP-GRAF-SMS) extends this approach to SMS attacks. It uses a
 probabilistic graph to model relationships between threats, user behavior, and asset impact. It enables dynamic risk evaluation, personalized training, and continuous monitoring over time.
 Overall, this thesis presents a trustworthy and human-centered cybersecurity vision. It combines explainable detection, intelligent risk modeling, adaptive training, and continuous awareness improvement against modern digital threats.</abstract>
+  <note>Cette présentation sera donnée en anglais.</note>
 </seminar>
 
 
