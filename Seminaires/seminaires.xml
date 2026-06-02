@@ -3382,6 +3382,40 @@ Throughout his career, I have held visiting researcher positions at the Universi
 </abstract>
 </seminar>
 
+<seminar>
+  <day>12</day>
+  <month>6</month>
+  <year>2026</year>
+  <speaker>Thibaud Godon</speaker>
+  <job>Étudiant au doctorat</job>
+  <time>13h30</time>
+  <room>https://ulaval.zoom.us/j/3054862029</room>
+  <title>Invariant Causal Set Covering Machine : L'invariance comme guide vers la causalité</title>
+  <abstract>Ce séminaire présente un algorithme construisant des modèles de décision interprétables basé sur des règles causales. Les modèles à base de règles, tels que les arbres de décision, attirent les praticiens par leur nature interprétable. Cependant, ces modèles peuvent contenir des corrélations non causales (spurious associations) et, par conséquent, ne garantissent pas l’extraction d’informations pertinentes sur le plan causal. Cette limite réduit leur utilité pour obtenir des connaissances sur un phénomène d’intérêt. Dans ce travail, nous nous appuyons sur des idées issues de la littérature sur la prédiction causale invariante pour proposer l'algorithme Invariant Causal Set Covering Machines, une extension de l’algorithme du Set Covering Machine (SCM) qui construit des conjonctions/disjonctions de règles binaires formées de règles causales. La méthode proposée exploite des hypothèses structurelles sur la forme fonctionnelle de ces modèles, permettant ainsi un algorithme qui identifie les parents causaux d’une variable d’intérêt en temps polynomial. Nous démontrons la validité et l’efficacité de notre approche sur des données simulées et nous étudions son usage pour découvrir les variables causales sur des données réelles.</abstract>
+</seminar>
+
+<seminar>
+  <day>19</day>
+  <month>6</month>
+  <year>2026</year>
+  <speaker>Abubakr Hassan Ahmed Ibrahim</speaker>
+  <job>Étudiant au doctorat</job>
+  <time>13h30</time>
+  <room>https://ulaval.zoom.us/j/3054862029</room>
+  <title>Toward Trustworthy Human-Centric Cybersecurity: XAI for Detection and Generative AI for Personalized Defense</title>
+  <abstract>Spam emails, fake news, phishing, and SMS smishing are major cybersecurity threats. They harm information integrity, privacy, finances, and public trust. Although machine learning (ML) and deep learning (DL) models achieve high detection accuracy, many
+existing solutions remain black-box systems with limited transparency. Many also lack unified support for risk assessment, user behavior analysis, personalized training, and continuous monitoring.
+This thesis proposes complementary frameworks that combine explainable artificial intelligence (XAI), generative artificial intelligence, ML, DL, and contextual risk modeling. The goal is to develop transparent, adaptive, and human-centered cybersecurity solutions.
+First, the explainable spam detection framework, X_SPAM, integrates Random Forest and Long Short-Term Memory (LSTM) models with LIME-based explanations. The framework achieves accurate spam email classification while providing clear and
+human-interpretable reasons for each prediction. This strengthens user trust and supports better security decisions.
+Second, the explainable fake news detection framework, Fake-News XAI, combines BERT and LSTM models with SHAP explanations. It detects misinformation while identifying the most influential linguistic and contextual features behind each prediction. This improves trust, transparency, and decision support. Third, this thesis introduces the Phishing Risk Assessment and Adaptive Personalized Training Framework Using Generative AI (PRAT-GAI). The framework estimates phishing risk using threat likelihood, user susceptibility, and CIA-based asset impact. It compares risk scores with adaptive thresholds. It generates personalized training based on detected weaknesses. It also supports continuous monitoring, profile updating, and
+risk reassessment. These functions improve awareness and reduce phishing susceptibility. Fourth, the User-Personalized Graph-Based Risk Assessment Framework for SMS Smishing (UP-GRAF-SMS) extends this approach to SMS attacks. It uses a
+probabilistic graph to model relationships between threats, user behavior, and asset impact. It enables dynamic risk evaluation, personalized training, and continuous monitoring over time.
+Overall, this thesis presents a trustworthy and human-centered cybersecurity vision. It combines explainable detection, intelligent risk modeling, adaptive training, and continuous awareness improvement against modern digital threats.</abstract>
+</seminar>
+
+
+
 <!-- <seminar> -->
 <!--   <day></day> -->
 <!--   <month></month> -->
@@ -3404,24 +3438,6 @@ Throughout his career, I have held visiting researcher positions at the Universi
 2026
 Local: PLT-3775
 
-16 janvier: Samuel Rouleau
-23 janvier: Randy Lefebvre <randy.lefebvre.1@ulaval.ca>
-30 janvier: Adel Abusitta (voir Talal)
-6 février: Jean-Thomas Sexton
-13 février: Théophile Berteloot <theophile.berteloot.1@ulaval.ca> Étudiant de Richard
-20 février: Jiayi Hong
-27 février: Michael McGuffin <michael.mcguffin@etsmtl.ca>
-6 mars: semaine de lecture
-13 mars: Samuel Cloutier
-20 mars: Pierre Miasnikof
-27 mars: Dominik Richard
-30 mars: Arthur Ouaknine (Gabriel Jeanson et Philippe Giguère)
-3 avril: vendredi saint
-10 avril: Brahim Chaib-draa
-17 avril: Olivier Gamache <olivier.gamache@norlab.ulaval.ca>  (Norlab)
-24 avril: Ichrak, Étudiante Talal
-8 mai: Jovial
-12 juin: Étudiant de Pascal Germain: Thibaud
 
 
 
