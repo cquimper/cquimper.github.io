@@ -3416,6 +3416,19 @@ Overall, this thesis presents a trustworthy and human-centered cybersecurity vis
 </seminar>
 
 
+<seminar>
+  <day>26</day>
+  <month>6</month>
+  <year>2026</year>
+  <speaker>David-Alexandre Duclos</speaker>
+  <job>Étudiant au doctorat</job>
+  <time>13h30</time>
+  <room>PLT-3775</room>
+  <title>Vers la détection et l'identification automatisée d'arbres en forêt naturelle</title>
+  <abstract>Face à une importante pénurie de main-d'œuvre et à des conditions de travail exigeantes, le secteur forestier se tourne rapidement vers l'automatisation et la robotique. Une brique fondamentale pour concrétiser cette transition, que ce soit pour réaliser des inventaires forestiers précis, faciliter le martelage ou guider des robots autonomes sous le couvert forestier, réside dans la capacité à détecter et à identifier les arbres en forêt de manière automatisée.&lt;p&gt;
+Pour relever ce défi, l'utilisation de l'intelligence artificielle (IA) s'avère incontournable. Les réseaux de neurones, une forme plus avancée d'IA, sont capables d'apprendre à reconnaître et localiser des objets de manière précise, uniquement à partir d'images. Toutefois, pour garantir qu'une IA soit performante et fiable lors de son déploiement sur le terrain, son entraînement ainsi que son évaluation doivent impérativement s'appuyer sur des données représentatives de la complexité du milieu forestier. Or, les approches actuelles souffrent de lacunes majeures : elles reposent sur des contextes simples comme les zones urbaines, n'offrent qu'une variété limitée d'espèces, ou traitent la détection et l'identification de façon isolée.&lt;p&gt;
+Dans ce séminaire, le nouveau jeu de données SilvaScenes, développé spécifiquement pour surmonter ces limitations, sera présenté. La méthodologie rigoureuse de collecte et d'annotation de données sera d'abord abordée, suivie d'une évaluation quantitative et qualitative des résultats obtenus à l'aide d'un réseau de neurones. Cette analyse mettra en lumière différents défis à surmonter ainsi que des pistes de solution, dont l'importance des images à très haute résolution (de l'ordre de 100 mégapixels), qui seront indispensables pour la suite de ce projet.</abstract>
+</seminar>
 
 <!-- <seminar> -->
 <!--   <day></day> -->
