@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<chapitres>
+  <chapitre>
+    <titre>Chapitre 1 - Introduction</titre>
+    <fichier>chap1.pdf</fichier>
+  </chapitre>
+  <chapitre>
+    <titre>Chapitre 2 - Fondements de l'analyse des algorithmes</titre>
+    <fichier>chap2.pdf</fichier>
+  </chapitre>
+  <chapitre>
+    <titre>Chapitre 3 - L'approche force brute</titre>
+    <fichier>chap3.pdf</fichier>
+  </chapitre>
+  <chapitre>
+    <titre>Chapitre 4 - Diviser pour régner</titre>
+    <fichier>chap4.pdf</fichier>
+  </chapitre>
+  <chapitre>
+    <titre>Chapitre 5 - Diminuer pour régner</titre>
+    <fichier>chap5.pdf</fichier>
+  </chapitre>
+  <chapitre>
+    <titre>Chapitre 6 - Transformer pour régner</titre>
+    <fichier>chap6.pdf</fichier>
+  </chapitre>
+  <chapitre>
+    <titre>Chapitre 7 - Compromis espace-temps</titre>
+    <fichier>chap7.pdf</fichier>
+  </chapitre>
+  <chapitre>
+    <titre>Chapitre 8 - La programmation dynamique</titre>
+    <fichier>chap8.pdf</fichier>
+  </chapitre>
+  <chapitre>
+    <titre>Chapitre 9 - L'analyse amortie</titre>
+    <fichier>chap9.pdf</fichier>
+  </chapitre>
+  <chapitre>
+    <titre>Chapitre 10 - L'approche gloutonne (vorace)</titre>
+    <fichier>chap10.pdf</fichier>
+  </chapitre>
+  <chapitre>
+    <titre>Chapitre 11 - Les limites de la puissance algorithmique</titre>
+    <fichier>chap11.pdf</fichier>
+  </chapitre>
+  <chapitre>
+    <titre>Chapitre 12 - Faire face aux limitations algorithmiques</titre>
+    <fichier>chap12.pdf</fichier>
+  </chapitre>
+</chapitres>
