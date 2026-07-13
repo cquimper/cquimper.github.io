@@ -115,7 +115,7 @@
       <file><label>code</label><path>cmpcs.zip</path></file>
     </paper>
     <paper>
-      <reference>Manuel Chastenay, Xavier Zwingmann, Claude-Guy Quimper, Jonathan Gaudreault. 	
+      <reference>Manuel Chastenay, Xavier Zwingmann, Claude-Guy Quimper, and Jonathan Gaudreault.
       Optimizing 2D Cutting: A Bin Packing Approach to Minimize Scraps and Maximize their Reusability. In Proceedings of the 31st International Conference on Principles and Practice of Constraint Programming (CP&amp;nbsp;2025), pages 7:1-7:21, 2025.</reference>
       <acceptancerate>39</acceptancerate>
       <file><label>paper</label><path>CP2025ManuelChastenay.pdf</path><publish_date>20250808</publish_date></file>
