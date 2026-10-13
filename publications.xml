@@ -611,6 +611,9 @@
   <section>
     <title>Journals / Book Chapters</title>
     <paper>
+      <reference>Dominik Richard, Michael Morin and Claude-Guy Quimper. Iterated Local Search for Coverage Path Planning with Imperfect Extended Detection. To appear in the European Journal of Operational Research, 2026.</reference>
+    </paper>
+    <paper>
       <reference>Anthony Deschênes, Raphaël Boudreault, Jonathan Gaudreault, and Claude-Guy Quimper. The Soft Fixed Route Hybrid Electric Aircraft Charging Problem with Variable Speed. World Electric Vehicle Journal, 16(8):471, 2025.
       </reference>
       <file><label>paper</label><path>FRHACP.pdf</path></file>
